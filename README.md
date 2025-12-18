@@ -2,6 +2,8 @@
 
 Green/white A2A agents + a local benchmark server for running the **PowerPoint changeset benchmark**.
 
+If you encounter any issues running this benchmark, reach out to `emil.scheffer@berkeley.edu` and I am happy to help.
+
 ## Project Structure
 
 ```
