@@ -68,7 +68,19 @@ AGENT_URL="https://<white-tunnel>.trycloudflare.com/" \
 uv run python main.py run
 ```
 
-### 3) Run the evaluation
+### 3) Start the benchmark server (required)
+
+The agents talk to a local **benchmark API server** (default: `http://localhost:5050`).
+
+In a separate terminal:
+
+```bash
+cd benchmark
+npm install
+npm run start
+```
+
+### 4) Run the evaluation
 
 From `agentbeats/` you can either run locally (spawns both agents on localhost), or run against the remote/tunneled URLs:
 
