@@ -1,19 +1,18 @@
-# Agentify Example: Tau-Bench
+# AgentBeats: PowerPoint Benchmark
 
-Example code for agentifying Tau-Bench using A2A and MCP standards.
+Green/white A2A agents + a local benchmark server for running the **PowerPoint changeset benchmark**.
 
 ## Project Structure
 
 ```
-src/
-├── green_agent/    # Assessment manager agent
-├── white_agent/    # Target agent being tested
-└── launcher.py     # Evaluation coordinator
+agentbeats/   # green/white agents + evaluator launcher (Python)
+benchmark/    # benchmark runtime API + scenarios (Node/TS)
 ```
 
 ## Installation
 
 ```bash
+# Python deps (agents)
 uv sync
 ```
 
