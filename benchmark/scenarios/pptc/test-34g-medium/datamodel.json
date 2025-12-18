@@ -1,0 +1,465 @@
+{
+  "id": 280,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 664,
+      "name": "Google Shape;664;p37",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          960.0,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 1080.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 665,
+      "name": "Google Shape;665;p37",
+      "pos": {
+        "topLeft": [
+          1596.0,
+          -19.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          1758.0,
+          530.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 1099.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "666",
+        "667"
+      ]
+    },
+    {
+      "id": 667,
+      "name": "Google Shape;667;p37",
+      "pos": {
+        "topLeft": [
+          1596.0,
+          -19.0
+        ],
+        "bottomRight": [
+          1920.0,
+          324.0
+        ],
+        "center": [
+          1758.0,
+          152.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 668,
+      "name": "Google Shape;668;p37",
+      "pos": {
+        "topLeft": [
+          798.0,
+          -69.6
+        ],
+        "bottomRight": [
+          808.0,
+          1149.5
+        ],
+        "center": [
+          803.0,
+          539.9
+        ]
+      },
+      "size": {
+        "w": 10.0,
+        "h": 1219.1
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#373737"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 669,
+      "name": "Google Shape;669;p37",
+      "pos": {
+        "topLeft": [
+          794.2,
+          -240.8
+        ],
+        "bottomRight": [
+          801.8,
+          1355.2
+        ],
+        "center": [
+          798.0,
+          557.2
+        ]
+      },
+      "size": {
+        "w": 7.6,
+        "h": 1596.0
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#373737"
+        },
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 670,
+      "name": "Google Shape;670;p37",
+      "pos": {
+        "topLeft": [
+          1303.3,
+          481.8
+        ],
+        "bottomRight": [
+          2204.4,
+          598.1
+        ],
+        "center": [
+          1753.9,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 901.1,
+        "h": 116.3
+      },
+      "style": {
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "SWOT ANALYSIS",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#FFFFEB\" font=\"League Spartan\" line-height=\"1.2\" size=\"72.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">SWOT ANALYSIS</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 671,
+      "name": "Google Shape;671;p37",
+      "pos": {
+        "topLeft": [
+          90.6,
+          233.9
+        ],
+        "bottomRight": [
+          741.0,
+          388.9
+        ],
+        "center": [
+          415.8,
+          311.4
+        ]
+      },
+      "size": {
+        "w": 650.4,
+        "h": 155.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are you doing well? \nWhat sets you apart?\nWhat are your good qualities?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are you doing well? </span></p>\n<p align=\"right\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What sets you apart?</span></p>\n<p align=\"right\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are your good qualities?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 672,
+      "name": "Google Shape;672;p37",
+      "pos": {
+        "topLeft": [
+          23.7,
+          779.0
+        ],
+        "bottomRight": [
+          757.2,
+          953.5
+        ],
+        "center": [
+          390.5,
+          866.3
+        ]
+      },
+      "size": {
+        "w": 733.5,
+        "h": 174.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Where do you need to improve? \nAre resources adequate? \nWhat do others do better than you?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Where do you need to improve? </span></p>\n<p align=\"right\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Are resources adequate? </span></p>\n<p align=\"right\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What do others do better than you?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 673,
+      "name": "Google Shape;673;p37",
+      "pos": {
+        "topLeft": [
+          920.9,
+          201.0
+        ],
+        "bottomRight": [
+          1473.1,
+          356.0
+        ],
+        "center": [
+          1197.0,
+          278.5
+        ]
+      },
+      "size": {
+        "w": 552.2,
+        "h": 155.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are your goals? \nAre demands shifting? \nHow can it be improved?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are your goals? </span></p>\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Are demands shifting? </span></p>\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">How can it be improved?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 674,
+      "name": "Google Shape;674;p37",
+      "pos": {
+        "topLeft": [
+          856.8,
+          813.8
+        ],
+        "bottomRight": [
+          1614.6,
+          988.3
+        ],
+        "center": [
+          1235.7,
+          901.1
+        ]
+      },
+      "size": {
+        "w": 757.8,
+        "h": 174.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are the blockers you're facing? \nWhat are factors outside of \nyour control?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are the blockers you're facing? </span></p>\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are factors outside of </span></p>\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">your control?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 675,
+      "name": "Google Shape;675;p37",
+      "pos": {
+        "topLeft": [
+          331.2,
+          103.0
+        ],
+        "bottomRight": [
+          757.2,
+          170.9
+        ],
+        "center": [
+          544.2,
+          137.0
+        ]
+      },
+      "size": {
+        "w": 426.0,
+        "h": 67.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "STRENGTHS",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.3\" size=\"42.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">STRENGTHS</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 676,
+      "name": "Google Shape;676;p37",
+      "pos": {
+        "topLeft": [
+          849.0,
+          103.0
+        ],
+        "bottomRight": [
+          1321.4,
+          170.9
+        ],
+        "center": [
+          1085.2,
+          137.0
+        ]
+      },
+      "size": {
+        "w": 472.4,
+        "h": 67.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "OPPORTUNITIES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.3\" size=\"42.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">OPPORTUNITIES</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 677,
+      "name": "Google Shape;677;p37",
+      "pos": {
+        "topLeft": [
+          268.5,
+          675.5
+        ],
+        "bottomRight": [
+          711.6,
+          743.4
+        ],
+        "center": [
+          490.1,
+          709.5
+        ]
+      },
+      "size": {
+        "w": 443.1,
+        "h": 67.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "WEAKNESSES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.3\" size=\"42.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">WEAKNESSES</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 678,
+      "name": "Google Shape;678;p37",
+      "pos": {
+        "topLeft": [
+          887.7,
+          676.4
+        ],
+        "bottomRight": [
+          1235.7,
+          744.3
+        ],
+        "center": [
+          1061.7,
+          710.4
+        ]
+      },
+      "size": {
+        "w": 348.0,
+        "h": 67.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "THREATS",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.3\" size=\"42.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">THREATS</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ]
+}

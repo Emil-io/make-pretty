@@ -1,0 +1,1 @@
+Please add a forth point (incl. line and text box). Resize the others if necessary.

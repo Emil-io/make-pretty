@@ -1,0 +1,498 @@
+{
+  "id": 258,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "TextBox 2",
+      "pos": {
+        "topLeft": [
+          140.7,
+          75.7
+        ],
+        "bottomRight": [
+          1252.6,
+          235.7
+        ],
+        "center": [
+          696.7,
+          155.7
+        ]
+      },
+      "size": {
+        "w": 1111.9,
+        "h": 160.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Download this presentation as a Powerpoint template in 3 steps",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#225F44\" font=\"+mn-lt\" line-height=\"0.06\" size=\"50.0\" space-before=\"0.0\"><span>Download this presentation as a Powerpoint template in 3 steps</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 5,
+      "name": "TextBox 5",
+      "pos": {
+        "topLeft": [
+          762.6,
+          455.3
+        ],
+        "bottomRight": [
+          1157.4,
+          610.7
+        ],
+        "center": [
+          960.0,
+          533.0
+        ]
+      },
+      "size": {
+        "w": 394.8,
+        "h": 155.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Share\" button on the top right corner in Canva and click on \"More\" at the bottom of the menu.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Click on the \"Share\" button on the top right corner in Canva and click on \"More\" at the bottom of the menu.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 7,
+      "name": "TextBox 7",
+      "pos": {
+        "topLeft": [
+          142.6,
+          455.3
+        ],
+        "bottomRight": [
+          562.3,
+          609.2
+        ],
+        "center": [
+          352.5,
+          532.3
+        ]
+      },
+      "size": {
+        "w": 419.7,
+        "h": 153.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Canva\" button next to this presentation. Start editing your presentation. You may need to sign in to your Canva account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Click on the \"Canva\" button next to this presentation. Start editing your presentation. You may need to sign in to your Canva account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 8,
+      "name": "TextBox 8",
+      "pos": {
+        "topLeft": [
+          1382.6,
+          455.3
+        ],
+        "bottomRight": [
+          1777.4,
+          570.1
+        ],
+        "center": [
+          1580.0,
+          512.7
+        ]
+      },
+      "size": {
+        "w": 394.8,
+        "h": 114.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Enter \"PowerPoint\" in the search bar and click on the PowerPoint icon to download.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Enter \"PowerPoint\" in the search bar and click on the PowerPoint icon to download.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Picture 9",
+      "pos": {
+        "topLeft": [
+          1606.9,
+          -159.1
+        ],
+        "bottomRight": [
+          1948.0,
+          470.5
+        ],
+        "center": [
+          1777.5,
+          155.7
+        ]
+      },
+      "size": {
+        "w": 341.1,
+        "h": 629.6
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 130.61971666666668
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Group 10",
+      "pos": {
+        "topLeft": [
+          142.9,
+          314.5
+        ],
+        "bottomRight": [
+          1505.3,
+          437.4
+        ],
+        "center": [
+          824.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 1362.4,
+        "h": 122.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "11",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20",
+        "23"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Group 11",
+      "pos": {
+        "topLeft": [
+          142.9,
+          314.5
+        ],
+        "bottomRight": [
+          265.3,
+          437.4
+        ],
+        "center": [
+          204.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 122.4,
+        "h": 122.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "TextBox 13",
+      "pos": {
+        "topLeft": [
+          154.1,
+          318.8
+        ],
+        "bottomRight": [
+          254.0,
+          425.9
+        ],
+        "center": [
+          204.1,
+          372.4
+        ]
+      },
+      "size": {
+        "w": 99.9,
+        "h": 107.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 14,
+      "name": "TextBox 14",
+      "pos": {
+        "topLeft": [
+          191.0,
+          332.0
+        ],
+        "bottomRight": [
+          217.2,
+          419.9
+        ],
+        "center": [
+          204.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 26.2,
+        "h": 87.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "1",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#FFFFFF\" line-height=\"0.06595\" size=\"54.95\" space-before=\"0.0\"><span>1</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 15,
+      "name": "AutoShape 15",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 5.3,
+        "color": "#225f44",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        254.7,
+        376.0
+      ],
+      "endPos": [
+        1382.6,
+        376.0
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Group 16",
+      "pos": {
+        "topLeft": [
+          762.9,
+          314.5
+        ],
+        "bottomRight": [
+          885.3,
+          437.4
+        ],
+        "center": [
+          824.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 122.4,
+        "h": 122.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "17",
+        "18"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "TextBox 18",
+      "pos": {
+        "topLeft": [
+          774.1,
+          318.8
+        ],
+        "bottomRight": [
+          874.0,
+          425.9
+        ],
+        "center": [
+          824.1,
+          372.4
+        ]
+      },
+      "size": {
+        "w": 99.9,
+        "h": 107.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 19,
+      "name": "TextBox 19",
+      "pos": {
+        "topLeft": [
+          804.0,
+          332.0
+        ],
+        "bottomRight": [
+          830.2,
+          419.9
+        ],
+        "center": [
+          817.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 26.2,
+        "h": 87.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "2",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#FFFFFF\" line-height=\"0.06595\" size=\"54.95\" space-before=\"0.0\"><span>2</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Group 20",
+      "pos": {
+        "topLeft": [
+          1382.9,
+          314.5
+        ],
+        "bottomRight": [
+          1505.3,
+          437.4
+        ],
+        "center": [
+          1444.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 122.4,
+        "h": 122.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "TextBox 22",
+      "pos": {
+        "topLeft": [
+          1394.2,
+          318.8
+        ],
+        "bottomRight": [
+          1494.1,
+          425.9
+        ],
+        "center": [
+          1444.2,
+          372.4
+        ]
+      },
+      "size": {
+        "w": 99.9,
+        "h": 107.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 23,
+      "name": "TextBox 23",
+      "pos": {
+        "topLeft": [
+          1424.0,
+          332.0
+        ],
+        "bottomRight": [
+          1450.2,
+          419.9
+        ],
+        "center": [
+          1437.1,
+          376.0
+        ]
+      },
+      "size": {
+        "w": 26.2,
+        "h": 87.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "3",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#FFFFFF\" line-height=\"0.06595\" size=\"54.95\" space-before=\"0.0\"><span>3</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FFF6EA"
+  }
+}

@@ -1,0 +1,155 @@
+{
+    "layout": {
+        "id": "main_content_area",
+        "name": "Main content area with key metrics and notes",
+        "type": "column",
+        "b": [
+            [0, 113],
+            [1280, 670]
+        ],
+        "sl": [
+            {
+                "id": "expertise_and_metrics",
+                "name": "Expertise statement and two rows of metrics",
+                "type": "column",
+                "b": [
+                    [0, 113],
+                    [1280, 665]
+                ],
+                "sl": [
+                    {
+                        "id": "expertise_statement",
+                        "name": "Expertise statement with arrow",
+                        "type": "group",
+                        "b": [
+                            [39, 133],
+                            [1241, 160]
+                        ],
+                        "sl": [
+                            {
+                                "id": "left_statement",
+                                "name": "Left expertise statement",
+                                "type": "group",
+                                "b": [
+                                    [39, 133],
+                                    [420, 160]
+                                ],
+                                "s": [12]
+                            },
+                            {
+                                "id": "right_statement",
+                                "name": "Right expertise statement",
+                                "type": "group",
+                                "b": [
+                                    [716, 638],
+                                    [1241, 665]
+                                ],
+                                "s": [5]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "metrics_grid",
+                        "name": "Grid of key performance metrics",
+                        "type": "grid",
+                        "b": [
+                            [39, 191],
+                            [1241, 596]
+                        ],
+                        "sl": [
+                            {
+                                "id": "metric_cards",
+                                "name": "Individual metric cards with values and labels",
+                                "type": "group",
+                                "multi": true,
+                                "b": [
+                                    [
+                                        [39, 191],
+                                        [240, 326],
+                                        [103, 58]
+                                    ],
+                                    [
+                                        [250, 191],
+                                        [451, 326],
+                                        [105, 60]
+                                    ],
+                                    [
+                                        [461, 191],
+                                        [662, 326],
+                                        [106, 62]
+                                    ],
+                                    [
+                                        [672, 191],
+                                        [873, 326],
+                                        [107, 63]
+                                    ],
+                                    [
+                                        [883, 191],
+                                        [1084, 326],
+                                        [108, 79]
+                                    ],
+                                    [
+                                        [39, 336],
+                                        [240, 471],
+                                        [109, 80]
+                                    ],
+                                    [
+                                        [250, 336],
+                                        [451, 471],
+                                        [110, 81]
+                                    ],
+                                    [
+                                        [461, 336],
+                                        [662, 471],
+                                        [120, 113]
+                                    ],
+                                    [
+                                        [672, 336],
+                                        [873, 471],
+                                        [121, 114]
+                                    ],
+                                    [
+                                        [883, 336],
+                                        [1084, 471],
+                                        [122, 115]
+                                    ],
+                                    [
+                                        [39, 481],
+                                        [240, 616],
+                                        [123, 116]
+                                    ],
+                                    [
+                                        [250, 481],
+                                        [451, 616],
+                                        [124, 117]
+                                    ],
+                                    [
+                                        [461, 481],
+                                        [662, 616],
+                                        [125, 118]
+                                    ],
+                                    [
+                                        [672, 481],
+                                        [873, 616],
+                                        [126, 119]
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "notes_section",
+                "name": "Notes and disclaimer text",
+                "type": "group",
+                "b": [
+                    [39, 642],
+                    [669, 708]
+                ],
+                "s": [9]
+            }
+        ]
+    },
+    "os": []
+}

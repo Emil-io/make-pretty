@@ -1,0 +1,645 @@
+{
+  "id": 257,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 98,
+      "name": "Google Shape;98;p14",
+      "pos": {
+        "topLeft": [
+          129.4,
+          283.7
+        ],
+        "bottomRight": [
+          707.4,
+          416.0
+        ],
+        "center": [
+          418.4,
+          349.9
+        ]
+      },
+      "size": {
+        "w": 578.0,
+        "h": 132.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#EBFF45"
+        },
+        "border": {
+          "color": "#EBFF45",
+          "width": 2.0
+        },
+        "rotation": 354.70953333333335
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 99,
+      "name": "Google Shape;99;p14",
+      "pos": {
+        "topLeft": [
+          0.5,
+          -10.8
+        ],
+        "bottomRight": [
+          324.5,
+          324.6
+        ],
+        "center": [
+          162.5,
+          156.9
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 335.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "100",
+        "101"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Google Shape;100;p14",
+      "pos": {
+        "topLeft": [
+          0.5,
+          0.6
+        ],
+        "bottomRight": [
+          108.5,
+          108.5
+        ],
+        "center": [
+          54.5,
+          54.6
+        ]
+      },
+      "size": {
+        "w": 108.0,
+        "h": 107.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#2D2D2D"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 101,
+      "name": "Google Shape;101;p14",
+      "pos": {
+        "topLeft": [
+          0.5,
+          -10.8
+        ],
+        "bottomRight": [
+          324.5,
+          324.6
+        ],
+        "center": [
+          162.5,
+          156.9
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 335.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 102,
+      "name": "Google Shape;102;p14",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#2D2D2D",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        108.0,
+        1079.5
+      ],
+      "endPos": [
+        107.6,
+        -0.4
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Google Shape;103;p14",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#2D2D2D",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1920.0,
+        107.5
+      ],
+      "endPos": [
+        0.0,
+        105.9
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Google Shape;104;p14",
+      "pos": {
+        "topLeft": [
+          175.9,
+          283.7
+        ],
+        "bottomRight": [
+          1544.7,
+          574.6
+        ],
+        "center": [
+          860.3,
+          429.2
+        ]
+      },
+      "size": {
+        "w": 1368.8,
+        "h": 290.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "How to Use \nThis Presentation",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Staatliches\" line-height=\"1.0\" size=\"90.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">How to Use </span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Staatliches\" line-height=\"1.0\" size=\"90.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">This Presentation</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Google Shape;105;p14",
+      "pos": {
+        "topLeft": [
+          154.7,
+          733.5
+        ],
+        "bottomRight": [
+          694.5,
+          997.1
+        ],
+        "center": [
+          424.6,
+          865.3
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 263.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Google Slides\" button below this presentation preview. \nClick on \"Make a copy.\"\nStart editing your presentation.\nYou need to sign in to your \nGoogle account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the \"Google Slides\" button below this presentation preview. </span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on \"Make a copy.\"</span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">You need to sign in to your </span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Google account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 106,
+      "name": "Google Shape;106;p14",
+      "pos": {
+        "topLeft": [
+          154.7,
+          642.6
+        ],
+        "bottomRight": [
+          694.5,
+          700.9
+        ],
+        "center": [
+          424.6,
+          671.8
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 58.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Google Slides",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.3\" size=\"35.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Google Slides</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Google Shape;107;p14",
+      "pos": {
+        "topLeft": [
+          740.5,
+          733.5
+        ],
+        "bottomRight": [
+          1280.3,
+          997.1
+        ],
+        "center": [
+          1010.4,
+          865.3
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 263.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"PowerPoint\" button below this presentation preview. \nStart editing your presentation.\nDownload and install the fonts used in this presentation as listed on the next page.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the \"PowerPoint\" button below this presentation preview. </span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Download and install the fonts used in this presentation as listed on the next page.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 108,
+      "name": "Google Shape;108;p14",
+      "pos": {
+        "topLeft": [
+          740.5,
+          642.6
+        ],
+        "bottomRight": [
+          1280.3,
+          700.9
+        ],
+        "center": [
+          1010.4,
+          671.8
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 58.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "PowerPoint",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.3\" size=\"35.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">PowerPoint</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 109,
+      "name": "Google Shape;109;p14",
+      "pos": {
+        "topLeft": [
+          1326.2,
+          733.5
+        ],
+        "bottomRight": [
+          1866.0,
+          953.1
+        ],
+        "center": [
+          1596.1,
+          843.3
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 219.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Canva\" button under this presentation preview. \nStart editing your presentation.\nYou need to sign in to your Canva account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the \"Canva\" button under this presentation preview. </span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">You need to sign in to your Canva account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Google Shape;110;p14",
+      "pos": {
+        "topLeft": [
+          1326.2,
+          642.6
+        ],
+        "bottomRight": [
+          1866.0,
+          700.9
+        ],
+        "center": [
+          1596.1,
+          671.8
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 58.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Canva",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#2D2D2D\" font=\"Quicksand\" line-height=\"1.3\" size=\"35.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Canva</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 111,
+      "name": "Google Shape;111;p14",
+      "pos": {
+        "topLeft": [
+          42.1,
+          13.5
+        ],
+        "bottomRight": [
+          80.0,
+          90.5
+        ],
+        "center": [
+          61.1,
+          52.0
+        ]
+      },
+      "size": {
+        "w": 37.9,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "1.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#CCCCCC\" font=\"Staatliches\" line-height=\"1.3\" size=\"45.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">1.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Google Shape;112;p14",
+      "pos": {
+        "topLeft": [
+          1651.6,
+          201.1
+        ],
+        "bottomRight": [
+          2131.3,
+          301.9
+        ],
+        "center": [
+          1891.5,
+          251.5
+        ]
+      },
+      "size": {
+        "w": 479.7,
+        "h": 100.8
+      },
+      "style": {
+        "border": {
+          "color": "#EBFF45",
+          "width": 2.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 113,
+      "name": "Google Shape;113;p14",
+      "pos": {
+        "topLeft": [
+          1648.0,
+          267.9
+        ],
+        "bottomRight": [
+          2127.7,
+          367.8
+        ],
+        "center": [
+          1887.9,
+          317.8
+        ]
+      },
+      "size": {
+        "w": 479.7,
+        "h": 99.9
+      },
+      "style": {
+        "border": {
+          "color": "#EBFF45",
+          "width": 2.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 114,
+      "name": "Google Shape;114;p14",
+      "pos": {
+        "topLeft": [
+          1651.6,
+          334.7
+        ],
+        "bottomRight": [
+          2131.3,
+          435.5
+        ],
+        "center": [
+          1891.5,
+          385.1
+        ]
+      },
+      "size": {
+        "w": 479.7,
+        "h": 100.8
+      },
+      "style": {
+        "border": {
+          "color": "#EBFF45",
+          "width": 2.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 115,
+      "name": "Google Shape;115;p14",
+      "pos": {
+        "topLeft": [
+          1648.0,
+          401.5
+        ],
+        "bottomRight": [
+          2127.7,
+          501.4
+        ],
+        "center": [
+          1887.9,
+          451.5
+        ]
+      },
+      "size": {
+        "w": 479.7,
+        "h": 99.9
+      },
+      "style": {
+        "border": {
+          "color": "#EBFF45",
+          "width": 2.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#D9D9D9"
+  }
+}

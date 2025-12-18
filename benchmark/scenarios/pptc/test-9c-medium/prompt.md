@@ -1,0 +1,1 @@
+The spacing is completely off - each section should be 1/3 of the width of the slide, and also each section should be centered vertically. Please do that.

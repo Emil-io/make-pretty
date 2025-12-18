@@ -1,0 +1,1 @@
+Please delete the guy in the white shirt and align the remaining pictures and text.

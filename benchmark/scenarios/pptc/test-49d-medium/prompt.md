@@ -1,0 +1,1 @@
+Please delete column 4 and resize accordingly.

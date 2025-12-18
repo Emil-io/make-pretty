@@ -1,0 +1,1 @@
+Please move the headings below the pictures (rearrange everything so that it looks good).

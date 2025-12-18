@@ -1,0 +1,366 @@
+{
+  "id": 257,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 99,
+      "name": "Google Shape;99;p14",
+      "pos": {
+        "topLeft": [
+          409.2,
+          151.1
+        ],
+        "bottomRight": [
+          1510.8,
+          466.4
+        ],
+        "center": [
+          960.0,
+          308.8
+        ]
+      },
+      "size": {
+        "w": 1101.6,
+        "h": 315.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "How to Use\nThis Presentation",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Gaegu\" line-height=\"0.96997\" size=\"108.59\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">How to Use</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Gaegu\" line-height=\"0.96997\" size=\"108.59\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">This Presentation</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 100,
+      "name": "Google Shape;100;p14",
+      "pos": {
+        "topLeft": [
+          1539.8,
+          129.5
+        ],
+        "bottomRight": [
+          1822.4,
+          466.4
+        ],
+        "center": [
+          1681.1,
+          298.0
+        ]
+      },
+      "size": {
+        "w": 282.6,
+        "h": 336.9
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 10.770633333333333
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 101,
+      "name": "Google Shape;101;p14",
+      "pos": {
+        "topLeft": [
+          44.3,
+          106.5
+        ],
+        "bottomRight": [
+          469.7,
+          472.8
+        ],
+        "center": [
+          257.0,
+          289.7
+        ]
+      },
+      "size": {
+        "w": 425.4,
+        "h": 366.3
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 348.87688333333335
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Google Shape;102;p14",
+      "pos": {
+        "topLeft": [
+          57.3,
+          614.5
+        ],
+        "bottomRight": [
+          660.3,
+          970.0
+        ],
+        "center": [
+          358.8,
+          792.3
+        ]
+      },
+      "size": {
+        "w": 603.0,
+        "h": 355.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "103",
+        "104"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Google Shape;103;p14",
+      "pos": {
+        "topLeft": [
+          57.3,
+          721.1
+        ],
+        "bottomRight": [
+          660.3,
+          970.0
+        ],
+        "center": [
+          358.8,
+          845.6
+        ]
+      },
+      "size": {
+        "w": 603.0,
+        "h": 248.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Google Slides\" button\nbelow this presentation preview. \nClick on \"Make a copy.\"\nStart editing your presentation.\nYou need to sign in to your\nGoogle account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the \"Google Slides\" button</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">below this presentation preview. </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on \"Make a copy.\"</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">You need to sign in to your</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Google account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Google Shape;104;p14",
+      "pos": {
+        "topLeft": [
+          88.9,
+          614.5
+        ],
+        "bottomRight": [
+          628.7,
+          697.5
+        ],
+        "center": [
+          358.8,
+          656.0
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 83.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Google Slides",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC89CA\" font=\"Gaegu\" line-height=\"1.30006\" size=\"44.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Google Slides</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Google Shape;105;p14",
+      "pos": {
+        "topLeft": [
+          660.3,
+          614.5
+        ],
+        "bottomRight": [
+          1259.7,
+          970.0
+        ],
+        "center": [
+          960.0,
+          792.3
+        ]
+      },
+      "size": {
+        "w": 599.4,
+        "h": 355.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "106",
+        "107"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Google Shape;106;p14",
+      "pos": {
+        "topLeft": [
+          660.3,
+          721.1
+        ],
+        "bottomRight": [
+          1259.7,
+          970.0
+        ],
+        "center": [
+          960.0,
+          845.6
+        ]
+      },
+      "size": {
+        "w": 599.4,
+        "h": 248.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"PowerPoint\" button\nbelow this presentation preview. \nStart editing your presentation.\nDownload and install the fonts\nused in this presentation as listed\non the next page.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the \"PowerPoint\" button</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">below this presentation preview. </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Download and install the fonts</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">used in this presentation as listed</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">on the next page.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Google Shape;107;p14",
+      "pos": {
+        "topLeft": [
+          690.1,
+          614.5
+        ],
+        "bottomRight": [
+          1229.9,
+          697.5
+        ],
+        "center": [
+          960.0,
+          656.0
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 83.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "PowerPoint",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC89CA\" font=\"Gaegu\" line-height=\"1.30006\" size=\"44.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">PowerPoint</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 108,
+      "name": "Google Shape;108;p14",
+      "pos": {
+        "topLeft": [
+          1310.3,
+          614.5
+        ],
+        "bottomRight": [
+          1850.1,
+          927.3
+        ],
+        "center": [
+          1580.2,
+          770.9
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 312.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "109",
+        "110"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Google Shape;109;p14",
+      "pos": {
+        "topLeft": [
+          1310.3,
+          721.1
+        ],
+        "bottomRight": [
+          1850.1,
+          927.3
+        ],
+        "center": [
+          1580.2,
+          824.2
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 206.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Canva\" button under\nthis presentation preview. \nStart editing your presentation.\nYou need to sign in to your\nCanva account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the \"Canva\" button under</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">this presentation preview. </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">You need to sign in to your</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.2\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Canva account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Google Shape;110;p14",
+      "pos": {
+        "topLeft": [
+          1310.3,
+          614.5
+        ],
+        "bottomRight": [
+          1850.1,
+          697.5
+        ],
+        "center": [
+          1580.2,
+          656.0
+        ]
+      },
+      "size": {
+        "w": 539.8,
+        "h": 83.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Canva",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC89CA\" font=\"Gaegu\" line-height=\"1.30006\" size=\"44.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Canva</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#EFE9DC"
+  }
+}

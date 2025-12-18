@@ -1,0 +1,790 @@
+{
+  "id": 261,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 180,
+      "name": "Google Shape;180;p18",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 2.25,
+        "color": "#CFC9BD",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        0.0,
+        618.4
+      ],
+      "endPos": [
+        1920.0,
+        618.4
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Google Shape;181;p18",
+      "pos": {
+        "topLeft": [
+          88.0,
+          499.1
+        ],
+        "bottomRight": [
+          441.3,
+          539.5
+        ],
+        "center": [
+          264.7,
+          519.3
+        ]
+      },
+      "size": {
+        "w": 353.3,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A MAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 182,
+      "name": "Google Shape;182;p18",
+      "pos": {
+        "topLeft": [
+          88.0,
+          685.7
+        ],
+        "bottomRight": [
+          383.9,
+          756.8
+        ],
+        "center": [
+          236.0,
+          721.3
+        ]
+      },
+      "size": {
+        "w": 295.9,
+        "h": 71.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 183,
+      "name": "Google Shape;183;p18",
+      "pos": {
+        "topLeft": [
+          538.2,
+          685.7
+        ],
+        "bottomRight": [
+          834.1,
+          756.8
+        ],
+        "center": [
+          686.2,
+          721.3
+        ]
+      },
+      "size": {
+        "w": 295.9,
+        "h": 71.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 184,
+      "name": "Google Shape;184;p18",
+      "pos": {
+        "topLeft": [
+          988.5,
+          685.7
+        ],
+        "bottomRight": [
+          1284.4,
+          756.8
+        ],
+        "center": [
+          1136.5,
+          721.3
+        ]
+      },
+      "size": {
+        "w": 295.9,
+        "h": 71.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 185,
+      "name": "Google Shape;185;p18",
+      "pos": {
+        "topLeft": [
+          1438.7,
+          685.7
+        ],
+        "bottomRight": [
+          1734.6,
+          756.8
+        ],
+        "center": [
+          1586.7,
+          721.3
+        ]
+      },
+      "size": {
+        "w": 295.9,
+        "h": 71.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 186,
+      "name": "Google Shape;186;p18",
+      "pos": {
+        "topLeft": [
+          538.2,
+          499.1
+        ],
+        "bottomRight": [
+          891.5,
+          539.5
+        ],
+        "center": [
+          714.9,
+          519.3
+        ]
+      },
+      "size": {
+        "w": 353.3,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A MAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 187,
+      "name": "Google Shape;187;p18",
+      "pos": {
+        "topLeft": [
+          88.2,
+          586.4
+        ],
+        "bottomRight": [
+          158.8,
+          657.3
+        ],
+        "center": [
+          123.5,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "188",
+        "191"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Google Shape;188;p18",
+      "pos": {
+        "topLeft": [
+          88.2,
+          586.4
+        ],
+        "bottomRight": [
+          158.8,
+          657.3
+        ],
+        "center": [
+          123.5,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "189",
+        "190"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Google Shape;190;p18",
+      "pos": {
+        "topLeft": [
+          94.6,
+          589.7
+        ],
+        "bottomRight": [
+          152.2,
+          650.6
+        ],
+        "center": [
+          123.4,
+          620.2
+        ]
+      },
+      "size": {
+        "w": 57.6,
+        "h": 60.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 191,
+      "name": "Google Shape;191;p18",
+      "pos": {
+        "topLeft": [
+          93.5,
+          601.9
+        ],
+        "bottomRight": [
+          151.5,
+          642.3
+        ],
+        "center": [
+          122.5,
+          622.1
+        ]
+      },
+      "size": {
+        "w": 58.0,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "01",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">01</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 192,
+      "name": "Google Shape;192;p18",
+      "pos": {
+        "topLeft": [
+          538.4,
+          586.4
+        ],
+        "bottomRight": [
+          609.0,
+          657.3
+        ],
+        "center": [
+          573.7,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "193",
+        "196"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Google Shape;193;p18",
+      "pos": {
+        "topLeft": [
+          538.4,
+          586.4
+        ],
+        "bottomRight": [
+          609.0,
+          657.3
+        ],
+        "center": [
+          573.7,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "194",
+        "195"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Google Shape;195;p18",
+      "pos": {
+        "topLeft": [
+          544.9,
+          589.7
+        ],
+        "bottomRight": [
+          602.5,
+          650.6
+        ],
+        "center": [
+          573.7,
+          620.2
+        ]
+      },
+      "size": {
+        "w": 57.6,
+        "h": 60.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 196,
+      "name": "Google Shape;196;p18",
+      "pos": {
+        "topLeft": [
+          543.7,
+          601.9
+        ],
+        "bottomRight": [
+          601.7,
+          642.3
+        ],
+        "center": [
+          572.7,
+          622.1
+        ]
+      },
+      "size": {
+        "w": 58.0,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "02",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Merriweather Light\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">02</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 197,
+      "name": "Google Shape;197;p18",
+      "pos": {
+        "topLeft": [
+          988.3,
+          586.4
+        ],
+        "bottomRight": [
+          1058.9,
+          657.3
+        ],
+        "center": [
+          1023.6,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "198",
+        "201"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Google Shape;198;p18",
+      "pos": {
+        "topLeft": [
+          988.3,
+          586.4
+        ],
+        "bottomRight": [
+          1058.9,
+          657.3
+        ],
+        "center": [
+          1023.6,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "199",
+        "200"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Google Shape;200;p18",
+      "pos": {
+        "topLeft": [
+          994.8,
+          589.7
+        ],
+        "bottomRight": [
+          1052.4,
+          650.6
+        ],
+        "center": [
+          1023.6,
+          620.2
+        ]
+      },
+      "size": {
+        "w": 57.6,
+        "h": 60.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 201,
+      "name": "Google Shape;201;p18",
+      "pos": {
+        "topLeft": [
+          993.6,
+          601.9
+        ],
+        "bottomRight": [
+          1051.6,
+          642.3
+        ],
+        "center": [
+          1022.6,
+          622.1
+        ]
+      },
+      "size": {
+        "w": 58.0,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "03",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">03</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 202,
+      "name": "Google Shape;202;p18",
+      "pos": {
+        "topLeft": [
+          1438.2,
+          586.4
+        ],
+        "bottomRight": [
+          1508.8,
+          657.3
+        ],
+        "center": [
+          1473.5,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "203",
+        "206"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Google Shape;203;p18",
+      "pos": {
+        "topLeft": [
+          1438.2,
+          586.4
+        ],
+        "bottomRight": [
+          1508.8,
+          657.3
+        ],
+        "center": [
+          1473.5,
+          621.9
+        ]
+      },
+      "size": {
+        "w": 70.6,
+        "h": 70.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "204",
+        "205"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Google Shape;205;p18",
+      "pos": {
+        "topLeft": [
+          1444.6,
+          589.7
+        ],
+        "bottomRight": [
+          1502.2,
+          650.6
+        ],
+        "center": [
+          1473.4,
+          620.2
+        ]
+      },
+      "size": {
+        "w": 57.6,
+        "h": 60.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 206,
+      "name": "Google Shape;206;p18",
+      "pos": {
+        "topLeft": [
+          1443.5,
+          601.9
+        ],
+        "bottomRight": [
+          1501.5,
+          642.3
+        ],
+        "center": [
+          1472.5,
+          622.1
+        ]
+      },
+      "size": {
+        "w": 58.0,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "04",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">04</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 207,
+      "name": "Google Shape;207;p18",
+      "pos": {
+        "topLeft": [
+          1438.7,
+          499.1
+        ],
+        "bottomRight": [
+          1792.0,
+          539.5
+        ],
+        "center": [
+          1615.4,
+          519.3
+        ]
+      },
+      "size": {
+        "w": 353.3,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A MAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 208,
+      "name": "Google Shape;208;p18",
+      "pos": {
+        "topLeft": [
+          988.5,
+          499.1
+        ],
+        "bottomRight": [
+          1341.8,
+          539.5
+        ],
+        "center": [
+          1165.2,
+          519.3
+        ]
+      },
+      "size": {
+        "w": 353.3,
+        "h": 40.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A MAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.2\" size=\"25.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 209,
+      "name": "Google Shape;209;p18",
+      "pos": {
+        "topLeft": [
+          96.0,
+          133.5
+        ],
+        "bottomRight": [
+          1223.8,
+          238.5
+        ],
+        "center": [
+          659.9,
+          186.0
+        ]
+      },
+      "size": {
+        "w": 1127.8,
+        "h": 105.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A TIMELINE PAGE",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.31\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A TIMELINE PAGE</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#EBE8E2"
+  }
+}

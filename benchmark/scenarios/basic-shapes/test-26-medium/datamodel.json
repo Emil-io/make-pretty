@@ -1,0 +1,260 @@
+{
+  "id": 266,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Aligning Objects is one of the most time consuming tasks in consulting",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Aligning Objects is one of the most time consuming tasks in consulting</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rounded Rectangle 5",
+      "pos": {
+        "topLeft": [
+          234.4,
+          242.1
+        ],
+        "bottomRight": [
+          1191.8,
+          340.4
+        ],
+        "center": [
+          713.1,
+          291.3
+        ]
+      },
+      "size": {
+        "w": 957.4,
+        "h": 98.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Oval 2",
+      "pos": {
+        "topLeft": [
+          89.0,
+          242.0
+        ],
+        "bottomRight": [
+          187.0,
+          340.0
+        ],
+        "center": [
+          138.0,
+          291.0
+        ]
+      },
+      "size": {
+        "w": 98.0,
+        "h": 98.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rounded Rectangle 7",
+      "pos": {
+        "topLeft": [
+          234.4,
+          366.3
+        ],
+        "bottomRight": [
+          1191.8,
+          464.6
+        ],
+        "center": [
+          713.1,
+          415.5
+        ]
+      },
+      "size": {
+        "w": 957.4,
+        "h": 98.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Oval 3",
+      "pos": {
+        "topLeft": [
+          89.5,
+          366.3
+        ],
+        "bottomRight": [
+          187.8,
+          464.6
+        ],
+        "center": [
+          138.7,
+          415.5
+        ]
+      },
+      "size": {
+        "w": 98.3,
+        "h": 98.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rounded Rectangle 5 (copy)",
+      "pos": {
+        "topLeft": [
+          88.0,
+          515.0
+        ],
+        "bottomRight": [
+          1192.0,
+          635.0
+        ],
+        "center": [
+          640.0,
+          575.0
+        ]
+      },
+      "size": {
+        "w": 1104.0,
+        "h": 120.0
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#FFFFFF"
+        },
+        "border": {
+          "color": "#0070C0",
+          "width": 2.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 16.7
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"12.0\"><span>Summary: This slide highlights the key points and actionable takeaways. Use this area to recap insights, decisions, and next steps.</span></p>\n</root>",
+        "rawText": "Summary: This slide highlights the key points and actionable takeaways. Use this area to recap insights, decisions, and next steps.",
+        "fontInfo": {
+          "margin": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the three boxes”"
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "id": 274,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Picture 2",
+      "pos": {
+        "topLeft": [
+          -50.6,
+          -81.1
+        ],
+        "bottomRight": [
+          2131.3,
+          1274.5
+        ],
+        "center": [
+          1040.4,
+          596.7
+        ]
+      },
+      "size": {
+        "w": 2181.9,
+        "h": 1355.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Group 3",
+      "pos": {
+        "topLeft": [
+          702.1,
+          386.3
+        ],
+        "bottomRight": [
+          1217.9,
+          732.0
+        ],
+        "center": [
+          960.0,
+          559.2
+        ]
+      },
+      "size": {
+        "w": 515.8,
+        "h": 345.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "TextBox 5",
+      "pos": {
+        "topLeft": [
+          702.1,
+          386.3
+        ],
+        "bottomRight": [
+          942.1,
+          561.1
+        ],
+        "center": [
+          822.1,
+          473.7
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 174.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 6,
+      "name": "Group 6",
+      "pos": {
+        "topLeft": [
+          1296.2,
+          263.1
+        ],
+        "bottomRight": [
+          1812.0,
+          1189.4
+        ],
+        "center": [
+          1554.1,
+          726.3
+        ]
+      },
+      "size": {
+        "w": 515.8,
+        "h": 926.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "TextBox 8",
+      "pos": {
+        "topLeft": [
+          1296.2,
+          263.1
+        ],
+        "bottomRight": [
+          1536.2,
+          517.1
+        ],
+        "center": [
+          1416.2,
+          390.1
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 254.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 9,
+      "name": "Group 9",
+      "pos": {
+        "topLeft": [
+          108.0,
+          -150.0
+        ],
+        "bottomRight": [
+          623.8,
+          776.3
+        ],
+        "center": [
+          365.9,
+          313.2
+        ]
+      },
+      "size": {
+        "w": 515.8,
+        "h": 926.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "TextBox 11",
+      "pos": {
+        "topLeft": [
+          108.0,
+          -150.0
+        ],
+        "bottomRight": [
+          348.0,
+          104.0
+        ],
+        "center": [
+          228.0,
+          -23.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 254.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 12,
+      "name": "TextBox 12",
+      "pos": {
+        "topLeft": [
+          162.1,
+          595.6
+        ],
+        "bottomRight": [
+          544.9,
+          692.6
+        ],
+        "center": [
+          353.5,
+          644.1
+        ]
+      },
+      "size": {
+        "w": 382.8,
+        "h": 97.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the featured statistic.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFF6EA\" font=\"+mn-lt\" line-height=\"0.036\" size=\"30.0\"><span>Elaborate on the featured statistic.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Group 13",
+      "pos": {
+        "topLeft": [
+          162.1,
+          277.2
+        ],
+        "bottomRight": [
+          541.9,
+          601.2
+        ],
+        "center": [
+          352.0,
+          439.2
+        ]
+      },
+      "size": {
+        "w": 379.8,
+        "h": 324.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "TextBox 15",
+      "pos": {
+        "topLeft": [
+          162.1,
+          299.9
+        ],
+        "bottomRight": [
+          486.1,
+          601.1
+        ],
+        "center": [
+          324.1,
+          450.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 301.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "2 out of 5",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#FFF6EA\" line-height=\"0.0904\" size=\"80.0\"><span>2 out of 5</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          14.7,
+          14.7,
+          14.7,
+          14.7
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 16,
+      "name": "Group 16",
+      "pos": {
+        "topLeft": [
+          786.1,
+          287.5
+        ],
+        "bottomRight": [
+          1128.9,
+          702.6
+        ],
+        "center": [
+          957.5,
+          495.1
+        ]
+      },
+      "size": {
+        "w": 342.8,
+        "h": 415.1
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "17",
+        "18"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "TextBox 18",
+      "pos": {
+        "topLeft": [
+          786.1,
+          287.5
+        ],
+        "bottomRight": [
+          1110.1,
+          702.6
+        ],
+        "center": [
+          948.1,
+          495.1
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 415.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "95%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#FFF6EA\" line-height=\"0.12\" size=\"80.0\"><span>95%</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          26.7,
+          26.7,
+          26.7,
+          26.7
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 19,
+      "name": "Group 19",
+      "pos": {
+        "topLeft": [
+          1295.9,
+          297.3
+        ],
+        "bottomRight": [
+          1811.7,
+          621.3
+        ],
+        "center": [
+          1553.8,
+          459.3
+        ]
+      },
+      "size": {
+        "w": 515.8,
+        "h": 324.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "20",
+        "21"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "TextBox 21",
+      "pos": {
+        "topLeft": [
+          1295.9,
+          312.5
+        ],
+        "bottomRight": [
+          1619.9,
+          621.3
+        ],
+        "center": [
+          1457.9,
+          466.9
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 308.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "12 million",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#FFF6EA\" line-height=\"0.092\" size=\"80.0\"><span>12 million</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 22,
+      "name": "Group 22",
+      "pos": {
+        "topLeft": [
+          108.0,
+          984.2
+        ],
+        "bottomRight": [
+          432.0,
+          1327.2
+        ],
+        "center": [
+          270.0,
+          1155.7
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "23",
+        "24"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "TextBox 24",
+      "pos": {
+        "topLeft": [
+          108.0,
+          984.2
+        ],
+        "bottomRight": [
+          432.0,
+          1327.2
+        ],
+        "center": [
+          270.0,
+          1155.7
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 25,
+      "name": "TextBox 25",
+      "pos": {
+        "topLeft": [
+          107.0,
+          952.0
+        ],
+        "bottomRight": [
+          407.6,
+          989.8
+        ],
+        "center": [
+          257.3,
+          970.9
+        ]
+      },
+      "size": {
+        "w": 300.6,
+        "h": 37.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "COMPANYNAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0288\" size=\"24.0\" space-before=\"0.0\"><span>COMPANYNAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 26,
+      "name": "TextBox 26",
+      "pos": {
+        "topLeft": [
+          768.5,
+          595.6
+        ],
+        "bottomRight": [
+          1151.3,
+          692.6
+        ],
+        "center": [
+          959.9,
+          644.1
+        ]
+      },
+      "size": {
+        "w": 382.8,
+        "h": 97.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the featured statistic.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFF6EA\" font=\"+mn-lt\" line-height=\"0.036\" size=\"30.0\"><span>Elaborate on the featured statistic.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 27,
+      "name": "TextBox 27",
+      "pos": {
+        "topLeft": [
+          1374.9,
+          595.6
+        ],
+        "bottomRight": [
+          1757.7,
+          692.6
+        ],
+        "center": [
+          1566.3,
+          644.1
+        ]
+      },
+      "size": {
+        "w": 382.8,
+        "h": 97.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the featured statistic.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFF6EA\" font=\"+mn-lt\" line-height=\"0.036\" size=\"30.0\"><span>Elaborate on the featured statistic.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#225F44"
+  }
+}

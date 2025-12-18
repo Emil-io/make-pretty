@@ -1,0 +1,1 @@
+pls move the whole layout (the line, textboxes etc) to the middle - center them.

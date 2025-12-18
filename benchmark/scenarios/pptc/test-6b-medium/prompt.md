@@ -1,0 +1,1 @@
+Please delete the top image on the right and then make all the three sections of the slide be the same width so that each takes 1/3 of the slide. The two remaining images on the right should fill out the entire height of their section again.

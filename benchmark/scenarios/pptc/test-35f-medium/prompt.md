@@ -1,0 +1,1 @@
+Please resize & align the boxes. Also, one text box is off - pls fix.

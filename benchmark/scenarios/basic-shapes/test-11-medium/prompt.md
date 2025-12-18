@@ -1,0 +1,1 @@
+Please adjust the three shapes in the style of the leftmost, and align them so that all 3 fit on the slide. Also fill the boxes transparent and make the text inside black.

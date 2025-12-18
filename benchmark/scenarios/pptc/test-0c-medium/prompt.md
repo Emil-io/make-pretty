@@ -1,0 +1,1 @@
+Please change the left and the right side of the slide, make sure all the text now aligns to the right.

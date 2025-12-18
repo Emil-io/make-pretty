@@ -1,0 +1,1 @@
+The top right entry of the table should actually be a cross and not a check, can you please change that? Copy the cross that is already in the same column for this please.

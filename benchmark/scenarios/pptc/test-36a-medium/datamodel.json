@@ -1,0 +1,400 @@
+{
+  "id": 265,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 332,
+      "name": "Google Shape;332;p22",
+      "pos": {
+        "topLeft": [
+          0.0,
+          395.7
+        ],
+        "bottomRight": [
+          1920.0,
+          748.2
+        ],
+        "center": [
+          960.0,
+          572.0
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 352.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "333",
+        "334"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Google Shape;334;p22",
+      "pos": {
+        "topLeft": [
+          0.0,
+          395.7
+        ],
+        "bottomRight": [
+          324.0,
+          597.7
+        ],
+        "center": [
+          162.0,
+          496.7
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 202.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 335,
+      "name": "Google Shape;335;p22",
+      "pos": {
+        "topLeft": [
+          194.0,
+          94.1
+        ],
+        "bottomRight": [
+          1725.9,
+          235.1
+        ],
+        "center": [
+          960.0,
+          164.6
+        ]
+      },
+      "size": {
+        "w": 1531.9,
+        "h": 141.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write your topic or idea",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Archivo Black\" line-height=\"1.2\" size=\"88.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Write your topic or idea</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 336,
+      "name": "Google Shape;336;p22",
+      "pos": {
+        "topLeft": [
+          108.0,
+          458.5
+        ],
+        "bottomRight": [
+          671.6,
+          922.1
+        ],
+        "center": [
+          389.8,
+          690.3
+        ]
+      },
+      "size": {
+        "w": 563.6,
+        "h": 463.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "337",
+        "338",
+        "339",
+        "340",
+        "341"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Google Shape;340;p22",
+      "pos": {
+        "topLeft": [
+          108.0,
+          748.3
+        ],
+        "bottomRight": [
+          589.3,
+          800.0
+        ],
+        "center": [
+          348.7,
+          774.2
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 51.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a main point",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Archivo Black\" line-height=\"1.2\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Add a main point</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 341,
+      "name": "Google Shape;341;p22",
+      "pos": {
+        "topLeft": [
+          190.3,
+          836.0
+        ],
+        "bottomRight": [
+          671.6,
+          922.1
+        ],
+        "center": [
+          431.0,
+          879.1
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 86.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Roboto\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 342,
+      "name": "Google Shape;342;p22",
+      "pos": {
+        "topLeft": [
+          671.6,
+          442.7
+        ],
+        "bottomRight": [
+          1200.7,
+          930.8
+        ],
+        "center": [
+          936.2,
+          686.8
+        ]
+      },
+      "size": {
+        "w": 529.1,
+        "h": 488.1
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "343",
+        "344",
+        "345",
+        "346"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Google Shape;345;p22",
+      "pos": {
+        "topLeft": [
+          719.5,
+          748.2
+        ],
+        "bottomRight": [
+          1200.8,
+          799.9
+        ],
+        "center": [
+          960.2,
+          774.1
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 51.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a main point",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Archivo Black\" line-height=\"1.2\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Add a main point</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 346,
+      "name": "Google Shape;346;p22",
+      "pos": {
+        "topLeft": [
+          671.6,
+          844.7
+        ],
+        "bottomRight": [
+          1152.9,
+          930.8
+        ],
+        "center": [
+          912.3,
+          887.8
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 86.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Roboto\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 347,
+      "name": "Google Shape;347;p22",
+      "pos": {
+        "topLeft": [
+          1330.7,
+          453.8
+        ],
+        "bottomRight": [
+          1812.0,
+          918.9
+        ],
+        "center": [
+          1571.4,
+          686.4
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 465.1
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "348",
+        "349",
+        "350",
+        "351"
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Google Shape;350;p22",
+      "pos": {
+        "topLeft": [
+          1330.7,
+          748.2
+        ],
+        "bottomRight": [
+          1812.0,
+          799.9
+        ],
+        "center": [
+          1571.4,
+          774.1
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 51.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a main point",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Archivo Black\" line-height=\"1.2\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Add a main point</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Google Shape;351;p22",
+      "pos": {
+        "topLeft": [
+          1330.7,
+          832.8
+        ],
+        "bottomRight": [
+          1812.0,
+          918.9
+        ],
+        "center": [
+          1571.4,
+          875.9
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 86.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Roboto\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Google Shape;352;p22",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 6.0,
+        "color": "#000000",
+        "dashStyle": "solid",
+        "beginArrowStyle": "diamond",
+        "beginArrowLength": "lg",
+        "beginArrowWidth": "lg",
+        "endArrowStyle": "diamond",
+        "endArrowLength": "lg",
+        "endArrowWidth": "lg",
+        "lineType": "line"
+      },
+      "startPos": [
+        194.0,
+        295.5
+      ],
+      "endPos": [
+        1725.9,
+        295.5
+      ]
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#EFEFEF"
+  }
+}

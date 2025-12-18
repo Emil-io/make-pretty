@@ -1,0 +1,1095 @@
+{
+  "id": 271,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "AutoShape 2",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.0,
+        "color": "#225f44",
+        "dashStyle": "roundDot",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        179.0,
+        517.5
+      ],
+      "endPos": [
+        1738.3,
+        519.5
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Group 3",
+      "pos": {
+        "topLeft": [
+          248.1,
+          474.1
+        ],
+        "bottomRight": [
+          368.7,
+          601.8
+        ],
+        "center": [
+          308.4,
+          538.0
+        ]
+      },
+      "size": {
+        "w": 120.6,
+        "h": 127.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "TextBox 5",
+      "pos": {
+        "topLeft": [
+          248.1,
+          474.1
+        ],
+        "bottomRight": [
+          368.7,
+          601.8
+        ],
+        "center": [
+          308.4,
+          538.0
+        ]
+      },
+      "size": {
+        "w": 120.6,
+        "h": 127.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 6,
+      "name": "Picture 6",
+      "pos": {
+        "topLeft": [
+          237.8,
+          351.8
+        ],
+        "bottomRight": [
+          432.0,
+          546.0
+        ],
+        "center": [
+          334.9,
+          448.9
+        ]
+      },
+      "size": {
+        "w": 194.2,
+        "h": 194.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Group 7",
+      "pos": {
+        "topLeft": [
+          578.0,
+          474.1
+        ],
+        "bottomRight": [
+          698.6,
+          601.8
+        ],
+        "center": [
+          638.3,
+          538.0
+        ]
+      },
+      "size": {
+        "w": 120.6,
+        "h": 127.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "TextBox 9",
+      "pos": {
+        "topLeft": [
+          578.0,
+          474.1
+        ],
+        "bottomRight": [
+          698.6,
+          601.8
+        ],
+        "center": [
+          638.3,
+          538.0
+        ]
+      },
+      "size": {
+        "w": 120.6,
+        "h": 127.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 10,
+      "name": "Picture 10",
+      "pos": {
+        "topLeft": [
+          550.9,
+          404.7
+        ],
+        "bottomRight": [
+          750.0,
+          603.8
+        ],
+        "center": [
+          650.4,
+          504.3
+        ]
+      },
+      "size": {
+        "w": 199.1,
+        "h": 199.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Picture 11",
+      "pos": {
+        "topLeft": [
+          860.6,
+          437.4
+        ],
+        "bottomRight": [
+          1055.6,
+          632.4
+        ],
+        "center": [
+          958.1,
+          534.9
+        ]
+      },
+      "size": {
+        "w": 195.0,
+        "h": 195.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Picture 12",
+      "pos": {
+        "topLeft": [
+          1225.0,
+          443.7
+        ],
+        "bottomRight": [
+          1413.6,
+          632.3
+        ],
+        "center": [
+          1319.3,
+          538.0
+        ]
+      },
+      "size": {
+        "w": 188.6,
+        "h": 188.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Group 13",
+      "pos": {
+        "topLeft": [
+          1546.1,
+          467.7
+        ],
+        "bottomRight": [
+          1666.7,
+          595.4
+        ],
+        "center": [
+          1606.4,
+          531.6
+        ]
+      },
+      "size": {
+        "w": 120.6,
+        "h": 127.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "TextBox 15",
+      "pos": {
+        "topLeft": [
+          1546.1,
+          467.7
+        ],
+        "bottomRight": [
+          1666.7,
+          595.4
+        ],
+        "center": [
+          1606.4,
+          531.6
+        ]
+      },
+      "size": {
+        "w": 120.6,
+        "h": 127.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 16,
+      "name": "Group 16",
+      "pos": {
+        "topLeft": [
+          462.0,
+          32.7
+        ],
+        "bottomRight": [
+          900.2,
+          375.7
+        ],
+        "center": [
+          681.1,
+          204.2
+        ]
+      },
+      "size": {
+        "w": 438.2,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "17",
+        "18"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "TextBox 18",
+      "pos": {
+        "topLeft": [
+          462.0,
+          32.7
+        ],
+        "bottomRight": [
+          786.0,
+          375.7
+        ],
+        "center": [
+          624.0,
+          204.2
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 19,
+      "name": "Group 19",
+      "pos": {
+        "topLeft": [
+          108.4,
+          51.6
+        ],
+        "bottomRight": [
+          286.5,
+          230.5
+        ],
+        "center": [
+          197.5,
+          141.1
+        ]
+      },
+      "size": {
+        "w": 178.1,
+        "h": 178.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "20",
+        "21"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "TextBox 21",
+      "pos": {
+        "topLeft": [
+          124.8,
+          57.9
+        ],
+        "bottomRight": [
+          270.2,
+          213.8
+        ],
+        "center": [
+          197.5,
+          135.9
+        ]
+      },
+      "size": {
+        "w": 145.4,
+        "h": 155.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 22,
+      "name": "AutoShape 22",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.0,
+        "color": "#225f44",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        223.1,
+        141.0
+      ],
+      "endPos": [
+        465.5,
+        141.3
+      ]
+    },
+    {
+      "id": 23,
+      "name": "AutoShape 23",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.0,
+        "color": "#225f44",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        900.3,
+        138.3
+      ],
+      "endPos": [
+        1738.3,
+        138.9
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Group 24",
+      "pos": {
+        "topLeft": [
+          1738.5,
+          93.8
+        ],
+        "bottomRight": [
+          1828.4,
+          184.1
+        ],
+        "center": [
+          1783.5,
+          139.0
+        ]
+      },
+      "size": {
+        "w": 89.9,
+        "h": 90.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "25",
+        "26"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "TextBox 26",
+      "pos": {
+        "topLeft": [
+          1746.8,
+          97.0
+        ],
+        "bottomRight": [
+          1820.2,
+          175.7
+        ],
+        "center": [
+          1783.5,
+          136.4
+        ]
+      },
+      "size": {
+        "w": 73.4,
+        "h": 78.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 27,
+      "name": "Picture 27",
+      "pos": {
+        "topLeft": [
+          1518.5,
+          465.4
+        ],
+        "bottomRight": [
+          1694.4,
+          641.3
+        ],
+        "center": [
+          1606.5,
+          553.4
+        ]
+      },
+      "size": {
+        "w": 175.9,
+        "h": 175.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Group 28",
+      "pos": {
+        "topLeft": [
+          1661.7,
+          972.8
+        ],
+        "bottomRight": [
+          1988.2,
+          1342.0
+        ],
+        "center": [
+          1825.0,
+          1157.4
+        ]
+      },
+      "size": {
+        "w": 326.5,
+        "h": 369.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "29",
+        "32"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Group 29",
+      "pos": {
+        "topLeft": [
+          1664.2,
+          998.9
+        ],
+        "bottomRight": [
+          1988.2,
+          1341.9
+        ],
+        "center": [
+          1826.2,
+          1170.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "30",
+        "31"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "TextBox 31",
+      "pos": {
+        "topLeft": [
+          1664.2,
+          998.9
+        ],
+        "bottomRight": [
+          1988.2,
+          1341.9
+        ],
+        "center": [
+          1826.2,
+          1170.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 32,
+      "name": "TextBox 32",
+      "pos": {
+        "topLeft": [
+          1661.7,
+          972.8
+        ],
+        "bottomRight": [
+          1962.3,
+          1010.6
+        ],
+        "center": [
+          1812.0,
+          991.7
+        ]
+      },
+      "size": {
+        "w": 300.6,
+        "h": 37.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "YOURLOGO",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#000000\" line-height=\"0.0288\" size=\"24.0\" space-before=\"0.0\"><span>YOURLOGO</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 33,
+      "name": "TextBox 33",
+      "pos": {
+        "topLeft": [
+          190.6,
+          627.7
+        ],
+        "bottomRight": [
+          485.4,
+          678.7
+        ],
+        "center": [
+          338.0,
+          653.2
+        ]
+      },
+      "size": {
+        "w": 294.8,
+        "h": 51.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Step 1",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0384\" size=\"32.0\" space-before=\"0.0\"><span>Step 1</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 34,
+      "name": "TextBox 34",
+      "pos": {
+        "topLeft": [
+          536.6,
+          703.2
+        ],
+        "bottomRight": [
+          831.4,
+          754.2
+        ],
+        "center": [
+          684.0,
+          728.7
+        ]
+      },
+      "size": {
+        "w": 294.8,
+        "h": 51.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Step 2",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0384\" size=\"32.0\" space-before=\"0.0\"><span>Step 2</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 35,
+      "name": "TextBox 35",
+      "pos": {
+        "topLeft": [
+          828.6,
+          667.9
+        ],
+        "bottomRight": [
+          1123.4,
+          718.9
+        ],
+        "center": [
+          976.0,
+          693.4
+        ]
+      },
+      "size": {
+        "w": 294.8,
+        "h": 51.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Step 3",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0384\" size=\"32.0\" space-before=\"0.0\"><span>Step 3</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 36,
+      "name": "TextBox 36",
+      "pos": {
+        "topLeft": [
+          1156.9,
+          637.7
+        ],
+        "bottomRight": [
+          1451.7,
+          688.7
+        ],
+        "center": [
+          1304.3,
+          663.2
+        ]
+      },
+      "size": {
+        "w": 294.8,
+        "h": 51.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Step 4",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0384\" size=\"32.0\" space-before=\"0.0\"><span>Step 4</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 37,
+      "name": "TextBox 37",
+      "pos": {
+        "topLeft": [
+          1500.8,
+          676.4
+        ],
+        "bottomRight": [
+          1795.6,
+          727.4
+        ],
+        "center": [
+          1648.2,
+          701.9
+        ]
+      },
+      "size": {
+        "w": 294.8,
+        "h": 51.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Step 5",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0384\" size=\"32.0\" space-before=\"0.0\"><span>Step 5</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 38,
+      "name": "TextBox 38",
+      "pos": {
+        "topLeft": [
+          237.8,
+          729.5
+        ],
+        "bottomRight": [
+          456.7,
+          818.1
+        ],
+        "center": [
+          347.3,
+          773.8
+        ]
+      },
+      "size": {
+        "w": 218.9,
+        "h": 88.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the step here",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>Elaborate on the step here</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 39,
+      "name": "TextBox 39",
+      "pos": {
+        "topLeft": [
+          523.8,
+          853.6
+        ],
+        "bottomRight": [
+          742.7,
+          942.2
+        ],
+        "center": [
+          633.3,
+          897.9
+        ]
+      },
+      "size": {
+        "w": 218.9,
+        "h": 88.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the step here",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>Elaborate on the step here</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 40,
+      "name": "TextBox 40",
+      "pos": {
+        "topLeft": [
+          850.5,
+          768.8
+        ],
+        "bottomRight": [
+          1069.4,
+          857.4
+        ],
+        "center": [
+          960.0,
+          813.1
+        ]
+      },
+      "size": {
+        "w": 218.9,
+        "h": 88.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the step here",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>Elaborate on the step here</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 41,
+      "name": "TextBox 41",
+      "pos": {
+        "topLeft": [
+          1194.6,
+          765.1
+        ],
+        "bottomRight": [
+          1413.5,
+          853.7
+        ],
+        "center": [
+          1304.1,
+          809.4
+        ]
+      },
+      "size": {
+        "w": 218.9,
+        "h": 88.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the step here",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>Elaborate on the step here</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 42,
+      "name": "TextBox 42",
+      "pos": {
+        "topLeft": [
+          1517.1,
+          812.1
+        ],
+        "bottomRight": [
+          1736.0,
+          900.7
+        ],
+        "center": [
+          1626.6,
+          856.4
+        ]
+      },
+      "size": {
+        "w": 218.9,
+        "h": 88.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the step here",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>Elaborate on the step here</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 43,
+      "name": "TextBox 43",
+      "pos": {
+        "topLeft": [
+          167.9,
+          77.0
+        ],
+        "bottomRight": [
+          206.0,
+          205.0
+        ],
+        "center": [
+          187.0,
+          141.0
+        ]
+      },
+      "size": {
+        "w": 38.1,
+        "h": 128.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "6",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#FFF6EA\" font=\"+mn-lt\" line-height=\"0.096\" size=\"80.0\" space-before=\"0.0\"><span>6</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 44,
+      "name": "TextBox 44",
+      "pos": {
+        "topLeft": [
+          502.4,
+          74.3
+        ],
+        "bottomRight": [
+          866.7,
+          202.3
+        ],
+        "center": [
+          684.6,
+          138.3
+        ]
+      },
+      "size": {
+        "w": 364.3,
+        "h": 128.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Target",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#225F44\" font=\"+mn-lt\" line-height=\"0.096\" size=\"80.0\" space-before=\"0.0\"><span>Target</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FFF6EA"
+  }
+}

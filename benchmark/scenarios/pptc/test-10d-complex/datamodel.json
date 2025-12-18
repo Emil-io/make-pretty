@@ -1,0 +1,1909 @@
+{
+  "id": 261,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Group 2",
+      "pos": {
+        "topLeft": [
+          275.4,
+          325.3
+        ],
+        "bottomRight": [
+          619.1,
+          618.3
+        ],
+        "center": [
+          447.3,
+          471.8
+        ]
+      },
+      "size": {
+        "w": 343.7,
+        "h": 293.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Freeform 3",
+      "pos": {
+        "topLeft": [
+          275.4,
+          336.4
+        ],
+        "bottomRight": [
+          619.1,
+          618.3
+        ],
+        "center": [
+          447.3,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 343.7,
+        "h": 281.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#36C5FF"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "TextBox 4",
+      "pos": {
+        "topLeft": [
+          275.4,
+          325.3
+        ],
+        "bottomRight": [
+          512.8,
+          573.9
+        ],
+        "center": [
+          394.1,
+          449.6
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 248.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "OPTION 1\nPresentations are communication tools.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Noto Sans Bold\" line-height=\"0.0308\" size=\"22.0\"><span>OPTION 1</span></p>\n<p align=\"center\" color=\"#FFFFFF\" font=\"Noto Sans\" line-height=\"0.0308\" size=\"22.0\"><span>Presentations are communication tools.</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Group 5",
+      "pos": {
+        "topLeft": [
+          897.9,
+          325.3
+        ],
+        "bottomRight": [
+          1241.6,
+          618.3
+        ],
+        "center": [
+          1069.8,
+          471.8
+        ]
+      },
+      "size": {
+        "w": 343.7,
+        "h": 293.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Freeform 6",
+      "pos": {
+        "topLeft": [
+          897.9,
+          336.4
+        ],
+        "bottomRight": [
+          1241.6,
+          618.3
+        ],
+        "center": [
+          1069.8,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 343.7,
+        "h": 281.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#00C282"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "TextBox 7",
+      "pos": {
+        "topLeft": [
+          897.9,
+          325.3
+        ],
+        "bottomRight": [
+          1135.3,
+          573.9
+        ],
+        "center": [
+          1016.6,
+          449.6
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 248.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "OPTION 2\nPresentations are communication tools.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Noto Sans Bold\" line-height=\"0.0308\" size=\"22.0\"><span>OPTION 2</span></p>\n<p align=\"center\" color=\"#FFFFFF\" font=\"Noto Sans\" line-height=\"0.0308\" size=\"22.0\"><span>Presentations are communication tools.</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 8,
+      "name": "Group 8",
+      "pos": {
+        "topLeft": [
+          1520.0,
+          325.3
+        ],
+        "bottomRight": [
+          1863.7,
+          618.3
+        ],
+        "center": [
+          1691.9,
+          471.8
+        ]
+      },
+      "size": {
+        "w": 343.7,
+        "h": 293.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Freeform 9",
+      "pos": {
+        "topLeft": [
+          1520.0,
+          336.4
+        ],
+        "bottomRight": [
+          1863.7,
+          618.3
+        ],
+        "center": [
+          1691.9,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 343.7,
+        "h": 281.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#1885F1"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "TextBox 10",
+      "pos": {
+        "topLeft": [
+          1520.0,
+          325.3
+        ],
+        "bottomRight": [
+          1757.4,
+          573.9
+        ],
+        "center": [
+          1638.7,
+          449.6
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 248.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "OPTION 3\nPresentations are communication tools.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Noto Sans Bold\" line-height=\"0.0308\" size=\"22.0\"><span>OPTION 3</span></p>\n<p align=\"center\" color=\"#FFFFFF\" font=\"Noto Sans\" line-height=\"0.0308\" size=\"22.0\"><span>Presentations are communication tools.</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 11,
+      "name": "Group 11",
+      "pos": {
+        "topLeft": [
+          55.9,
+          319.7
+        ],
+        "bottomRight": [
+          293.3,
+          618.3
+        ],
+        "center": [
+          174.6,
+          469.0
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 298.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Freeform 12",
+      "pos": {
+        "topLeft": [
+          55.9,
+          336.4
+        ],
+        "bottomRight": [
+          275.4,
+          618.3
+        ],
+        "center": [
+          165.7,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 219.5,
+        "h": 281.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#EDF0F0"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "TextBox 13",
+      "pos": {
+        "topLeft": [
+          55.9,
+          319.7
+        ],
+        "bottomRight": [
+          293.3,
+          573.8
+        ],
+        "center": [
+          174.6,
+          446.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 254.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 14,
+      "name": "Group 14",
+      "pos": {
+        "topLeft": [
+          678.4,
+          319.7
+        ],
+        "bottomRight": [
+          915.8,
+          618.3
+        ],
+        "center": [
+          797.1,
+          469.0
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 298.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Freeform 15",
+      "pos": {
+        "topLeft": [
+          678.4,
+          336.4
+        ],
+        "bottomRight": [
+          897.9,
+          618.3
+        ],
+        "center": [
+          788.2,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 219.5,
+        "h": 281.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#EDF0F0"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "TextBox 16",
+      "pos": {
+        "topLeft": [
+          678.4,
+          319.7
+        ],
+        "bottomRight": [
+          915.8,
+          573.8
+        ],
+        "center": [
+          797.1,
+          446.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 254.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 17,
+      "name": "Group 17",
+      "pos": {
+        "topLeft": [
+          1300.6,
+          319.7
+        ],
+        "bottomRight": [
+          1538.0,
+          618.3
+        ],
+        "center": [
+          1419.3,
+          469.0
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 298.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "18",
+        "19"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Freeform 18",
+      "pos": {
+        "topLeft": [
+          1300.6,
+          336.4
+        ],
+        "bottomRight": [
+          1520.1,
+          618.3
+        ],
+        "center": [
+          1410.4,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 219.5,
+        "h": 281.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#EDF0F0"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "TextBox 19",
+      "pos": {
+        "topLeft": [
+          1300.6,
+          319.7
+        ],
+        "bottomRight": [
+          1538.0,
+          573.8
+        ],
+        "center": [
+          1419.3,
+          446.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 254.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 20,
+      "name": "Group 20",
+      "pos": {
+        "topLeft": [
+          505.0,
+          548.7
+        ],
+        "bottomRight": [
+          619.0,
+          649.4
+        ],
+        "center": [
+          562.0,
+          599.1
+        ]
+      },
+      "size": {
+        "w": 114.0,
+        "h": 100.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "21",
+        "22"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Freeform 21",
+      "pos": {
+        "topLeft": [
+          505.0,
+          549.6
+        ],
+        "bottomRight": [
+          619.0,
+          649.4
+        ],
+        "center": [
+          562.0,
+          599.5
+        ]
+      },
+      "size": {
+        "w": 114.0,
+        "h": 99.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#36C5FF"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "TextBox 22",
+      "pos": {
+        "topLeft": [
+          522.8,
+          548.7
+        ],
+        "bottomRight": [
+          601.2,
+          603.1
+        ],
+        "center": [
+          562.0,
+          575.9
+        ]
+      },
+      "size": {
+        "w": 78.4,
+        "h": 54.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 23,
+      "name": "Group 23",
+      "pos": {
+        "topLeft": [
+          1127.5,
+          548.7
+        ],
+        "bottomRight": [
+          1241.5,
+          649.4
+        ],
+        "center": [
+          1184.5,
+          599.1
+        ]
+      },
+      "size": {
+        "w": 114.0,
+        "h": 100.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "24",
+        "25"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Freeform 24",
+      "pos": {
+        "topLeft": [
+          1127.5,
+          549.6
+        ],
+        "bottomRight": [
+          1241.5,
+          649.4
+        ],
+        "center": [
+          1184.5,
+          599.5
+        ]
+      },
+      "size": {
+        "w": 114.0,
+        "h": 99.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#00C282"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name": "TextBox 25",
+      "pos": {
+        "topLeft": [
+          1145.3,
+          548.7
+        ],
+        "bottomRight": [
+          1223.7,
+          603.1
+        ],
+        "center": [
+          1184.5,
+          575.9
+        ]
+      },
+      "size": {
+        "w": 78.4,
+        "h": 54.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 26,
+      "name": "Group 26",
+      "pos": {
+        "topLeft": [
+          1749.7,
+          548.7
+        ],
+        "bottomRight": [
+          1863.7,
+          649.4
+        ],
+        "center": [
+          1806.7,
+          599.1
+        ]
+      },
+      "size": {
+        "w": 114.0,
+        "h": 100.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "27",
+        "28"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Freeform 27",
+      "pos": {
+        "topLeft": [
+          1749.7,
+          549.6
+        ],
+        "bottomRight": [
+          1863.7,
+          649.4
+        ],
+        "center": [
+          1806.7,
+          599.5
+        ]
+      },
+      "size": {
+        "w": 114.0,
+        "h": 99.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#1885F1"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name": "TextBox 28",
+      "pos": {
+        "topLeft": [
+          1767.5,
+          548.7
+        ],
+        "bottomRight": [
+          1845.9,
+          603.1
+        ],
+        "center": [
+          1806.7,
+          575.9
+        ]
+      },
+      "size": {
+        "w": 78.4,
+        "h": 54.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 29,
+      "name": "AutoShape 29",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 1.0,
+        "color": "#000000",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        55.9,
+        718.5
+      ],
+      "endPos": [
+        1863.7,
+        718.5
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Picture 30",
+      "pos": {
+        "topLeft": [
+          734.5,
+          423.6
+        ],
+        "bottomRight": [
+          841.8,
+          531.1
+        ],
+        "center": [
+          788.2,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 107.3,
+        "h": 107.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Picture 31",
+      "pos": {
+        "topLeft": [
+          108.9,
+          420.6
+        ],
+        "bottomRight": [
+          222.4,
+          534.1
+        ],
+        "center": [
+          165.7,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 113.5,
+        "h": 113.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Picture 32",
+      "pos": {
+        "topLeft": [
+          1356.5,
+          423.6
+        ],
+        "bottomRight": [
+          1464.0,
+          531.1
+        ],
+        "center": [
+          1410.3,
+          477.4
+        ]
+      },
+      "size": {
+        "w": 107.5,
+        "h": 107.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Group 33",
+      "pos": {
+        "topLeft": [
+          0.0,
+          1032.9
+        ],
+        "bottomRight": [
+          324.0,
+          1372.1
+        ],
+        "center": [
+          162.0,
+          1202.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Freeform 34",
+      "pos": {
+        "topLeft": [
+          0.0,
+          1048.1
+        ],
+        "bottomRight": [
+          108.0,
+          1080.0
+        ],
+        "center": [
+          54.0,
+          1064.1
+        ]
+      },
+      "size": {
+        "w": 108.0,
+        "h": 31.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#7ED8FD"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name": "TextBox 35",
+      "pos": {
+        "topLeft": [
+          0.0,
+          1032.9
+        ],
+        "bottomRight": [
+          324.0,
+          1372.1
+        ],
+        "center": [
+          162.0,
+          1202.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 36,
+      "name": "Group 36",
+      "pos": {
+        "topLeft": [
+          1812.0,
+          -15.2
+        ],
+        "bottomRight": [
+          2136.0,
+          324.0
+        ],
+        "center": [
+          1974.0,
+          154.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "37",
+        "38"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Freeform 37",
+      "pos": {
+        "topLeft": [
+          1812.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          31.9
+        ],
+        "center": [
+          1866.0,
+          16.0
+        ]
+      },
+      "size": {
+        "w": 108.0,
+        "h": 31.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#7ED8FD"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name": "TextBox 38",
+      "pos": {
+        "topLeft": [
+          1812.0,
+          -15.2
+        ],
+        "bottomRight": [
+          2136.0,
+          324.0
+        ],
+        "center": [
+          1974.0,
+          154.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 39,
+      "name": "Group 39",
+      "pos": {
+        "topLeft": [
+          0.0,
+          -15.2
+        ],
+        "bottomRight": [
+          324.0,
+          324.0
+        ],
+        "center": [
+          162.0,
+          154.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Freeform 40",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          108.0,
+          31.9
+        ],
+        "center": [
+          54.0,
+          16.0
+        ]
+      },
+      "size": {
+        "w": 108.0,
+        "h": 31.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#00C282"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "name": "TextBox 41",
+      "pos": {
+        "topLeft": [
+          0.0,
+          -15.2
+        ],
+        "bottomRight": [
+          324.0,
+          324.0
+        ],
+        "center": [
+          162.0,
+          154.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 42,
+      "name": "Group 42",
+      "pos": {
+        "topLeft": [
+          1812.0,
+          1032.9
+        ],
+        "bottomRight": [
+          2136.0,
+          1372.1
+        ],
+        "center": [
+          1974.0,
+          1202.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "43",
+        "44"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Freeform 43",
+      "pos": {
+        "topLeft": [
+          1812.0,
+          1048.1
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          1866.0,
+          1064.1
+        ]
+      },
+      "size": {
+        "w": 108.0,
+        "h": 31.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#00C282"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "name": "TextBox 44",
+      "pos": {
+        "topLeft": [
+          1812.0,
+          1032.9
+        ],
+        "bottomRight": [
+          2136.0,
+          1372.1
+        ],
+        "center": [
+          1974.0,
+          1202.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 339.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 45,
+      "name": "Group 45",
+      "pos": {
+        "topLeft": [
+          535.0,
+          689.4
+        ],
+        "bottomRight": [
+          589.0,
+          743.6
+        ],
+        "center": [
+          562.0,
+          716.5
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 54.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "46",
+        "47"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Freeform 46",
+      "pos": {
+        "topLeft": [
+          535.0,
+          689.4
+        ],
+        "bottomRight": [
+          589.0,
+          743.6
+        ],
+        "center": [
+          562.0,
+          716.5
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 54.2
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#36C5FF"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "name": "TextBox 47",
+      "pos": {
+        "topLeft": [
+          540.0,
+          690.7
+        ],
+        "bottomRight": [
+          584.0,
+          738.6
+        ],
+        "center": [
+          562.0,
+          714.7
+        ]
+      },
+      "size": {
+        "w": 44.0,
+        "h": 47.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 48,
+      "name": "Group 48",
+      "pos": {
+        "topLeft": [
+          1157.6,
+          689.4
+        ],
+        "bottomRight": [
+          1211.6,
+          743.6
+        ],
+        "center": [
+          1184.6,
+          716.5
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 54.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "49",
+        "50"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Freeform 49",
+      "pos": {
+        "topLeft": [
+          1157.6,
+          689.4
+        ],
+        "bottomRight": [
+          1211.6,
+          743.6
+        ],
+        "center": [
+          1184.6,
+          716.5
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 54.2
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#00C282"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "name": "TextBox 50",
+      "pos": {
+        "topLeft": [
+          1162.5,
+          690.7
+        ],
+        "bottomRight": [
+          1206.5,
+          738.6
+        ],
+        "center": [
+          1184.5,
+          714.7
+        ]
+      },
+      "size": {
+        "w": 44.0,
+        "h": 47.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 51,
+      "name": "Group 51",
+      "pos": {
+        "topLeft": [
+          1779.7,
+          689.4
+        ],
+        "bottomRight": [
+          1833.7,
+          743.6
+        ],
+        "center": [
+          1806.7,
+          716.5
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 54.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "52",
+        "53"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Freeform 52",
+      "pos": {
+        "topLeft": [
+          1779.7,
+          689.4
+        ],
+        "bottomRight": [
+          1833.7,
+          743.6
+        ],
+        "center": [
+          1806.7,
+          716.5
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 54.2
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#1885F1"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "name": "TextBox 53",
+      "pos": {
+        "topLeft": [
+          1784.7,
+          690.7
+        ],
+        "bottomRight": [
+          1828.7,
+          738.6
+        ],
+        "center": [
+          1806.7,
+          714.7
+        ]
+      },
+      "size": {
+        "w": 44.0,
+        "h": 47.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 54,
+      "name": "TextBox 54",
+      "pos": {
+        "topLeft": [
+          337.9,
+          838.6
+        ],
+        "bottomRight": [
+          1582.2,
+          912.3
+        ],
+        "center": [
+          960.1,
+          875.5
+        ]
+      },
+      "size": {
+        "w": 1244.3,
+        "h": 73.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are communication tools that can be used as demonstrations, lectures, speeches, reports, and more. It is mostly presented before an audience. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Noto Sans\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Presentations are communication tools that can be used as demonstrations, lectures, speeches, reports, and more. It is mostly presented before an audience. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 55,
+      "name": "TextBox 55",
+      "pos": {
+        "topLeft": [
+          332.8,
+          138.7
+        ],
+        "bottomRight": [
+          1587.3,
+          217.4
+        ],
+        "center": [
+          960.1,
+          178.0
+        ]
+      },
+      "size": {
+        "w": 1254.5,
+        "h": 78.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Infographic Slides",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#12222B\" font=\"Open Sans Bold\" line-height=\"0.058\" size=\"50.0\" space-before=\"0.0\"><span>Infographic Slides</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Pls align the three objects so that they have the same size and spacings.

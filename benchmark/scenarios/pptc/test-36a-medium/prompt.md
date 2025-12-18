@@ -1,0 +1,1 @@
+Please resize the blue box so that it contains all the text boxes aswell. Plese align the text boxes.

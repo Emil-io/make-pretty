@@ -1,0 +1,1 @@
+Make the images be between the heading and the text below them.

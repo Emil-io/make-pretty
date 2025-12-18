@@ -1,0 +1,1 @@
+Please leave everything as is - only extend the left border of the boxes closer to the circles (shorten the space to that space which is currently between each circle).

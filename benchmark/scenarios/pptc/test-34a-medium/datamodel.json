@@ -1,0 +1,420 @@
+{
+  "id": 265,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 304,
+      "name": "Google Shape;304;p22",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          960.0,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 1080.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 305,
+      "name": "Google Shape;305;p22",
+      "pos": {
+        "topLeft": [
+          159.7,
+          108.0
+        ],
+        "bottomRight": [
+          1765.0,
+          223.0
+        ],
+        "center": [
+          962.4,
+          165.5
+        ]
+      },
+      "size": {
+        "w": 1605.3,
+        "h": 115.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "WRITE YOUR TOPIC OR IDEA",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.2\" size=\"72.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">WRITE YOUR TOPIC OR IDEA</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 306,
+      "name": "Google Shape;306;p22",
+      "pos": {
+        "topLeft": [
+          125.2,
+          826.4
+        ],
+        "bottomRight": [
+          606.5,
+          996.4
+        ],
+        "center": [
+          365.9,
+          911.4
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 170.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "307",
+        "308"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Google Shape;307;p22",
+      "pos": {
+        "topLeft": [
+          125.2,
+          826.4
+        ],
+        "bottomRight": [
+          606.5,
+          878.1
+        ],
+        "center": [
+          365.9,
+          852.3
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 51.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a main point",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#403F3F\" font=\"League Spartan\" line-height=\"1.2\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Add a main point</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 308,
+      "name": "Google Shape;308;p22",
+      "pos": {
+        "topLeft": [
+          125.2,
+          911.8
+        ],
+        "bottomRight": [
+          606.5,
+          996.4
+        ],
+        "center": [
+          365.9,
+          954.1
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 84.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 309,
+      "name": "Google Shape;309;p22",
+      "pos": {
+        "topLeft": [
+          721.7,
+          826.4
+        ],
+        "bottomRight": [
+          1203.0,
+          996.4
+        ],
+        "center": [
+          962.4,
+          911.4
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 170.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "310",
+        "311"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Google Shape;310;p22",
+      "pos": {
+        "topLeft": [
+          721.7,
+          826.4
+        ],
+        "bottomRight": [
+          1203.0,
+          878.1
+        ],
+        "center": [
+          962.4,
+          852.3
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 51.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a main point",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#403F3F\" font=\"League Spartan\" line-height=\"1.2\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Add a main point</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 311,
+      "name": "Google Shape;311;p22",
+      "pos": {
+        "topLeft": [
+          721.7,
+          911.8
+        ],
+        "bottomRight": [
+          1203.0,
+          996.4
+        ],
+        "center": [
+          962.4,
+          954.1
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 84.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 313,
+      "name": "Google Shape;313;p22",
+      "pos": {
+        "topLeft": [
+          1330.7,
+          826.4
+        ],
+        "bottomRight": [
+          1812.0,
+          996.4
+        ],
+        "center": [
+          1571.4,
+          911.4
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 170.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "314",
+        "315"
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Google Shape;314;p22",
+      "pos": {
+        "topLeft": [
+          1330.7,
+          826.4
+        ],
+        "bottomRight": [
+          1812.0,
+          878.1
+        ],
+        "center": [
+          1571.4,
+          852.3
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 51.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a main point",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#403F3F\" font=\"League Spartan\" line-height=\"1.2\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Add a main point</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 315,
+      "name": "Google Shape;315;p22",
+      "pos": {
+        "topLeft": [
+          1330.7,
+          911.8
+        ],
+        "bottomRight": [
+          1812.0,
+          996.4
+        ],
+        "center": [
+          1571.4,
+          954.1
+        ]
+      },
+      "size": {
+        "w": 481.3,
+        "h": 84.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 317,
+      "name": "Google Shape;317;p22",
+      "pos": {
+        "topLeft": [
+          746.3,
+          413.5
+        ],
+        "bottomRight": [
+          1009.6,
+          769.1
+        ],
+        "center": [
+          878.0,
+          591.3
+        ]
+      },
+      "size": {
+        "w": 263.3,
+        "h": 355.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 319,
+      "name": "Google Shape;319;p22",
+      "pos": {
+        "topLeft": [
+          305.9,
+          337.0
+        ],
+        "bottomRight": [
+          569.2,
+          692.6
+        ],
+        "center": [
+          437.6,
+          514.8
+        ]
+      },
+      "size": {
+        "w": 263.3,
+        "h": 355.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 320,
+      "name": "Google Shape;320;p22",
+      "pos": {
+        "topLeft": [
+          1405.2,
+          331.0
+        ],
+        "bottomRight": [
+          1668.5,
+          686.6
+        ],
+        "center": [
+          1536.9,
+          508.8
+        ]
+      },
+      "size": {
+        "w": 263.3,
+        "h": 355.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ]
+}

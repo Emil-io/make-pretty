@@ -1,0 +1,508 @@
+{
+  "id": 257,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 96,
+      "name": "Google Shape;96;p14",
+      "pos": {
+        "topLeft": [
+          256.7,
+          479.4
+        ],
+        "bottomRight": [
+          375.5,
+          598.2
+        ],
+        "center": [
+          316.1,
+          538.8
+        ]
+      },
+      "size": {
+        "w": 118.8,
+        "h": 118.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Google Shape;97;p14",
+      "pos": {
+        "topLeft": [
+          819.7,
+          479.4
+        ],
+        "bottomRight": [
+          935.0,
+          594.7
+        ],
+        "center": [
+          877.4,
+          537.1
+        ]
+      },
+      "size": {
+        "w": 115.3,
+        "h": 115.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 98,
+      "name": "Google Shape;98;p14",
+      "pos": {
+        "topLeft": [
+          1416.3,
+          479.4
+        ],
+        "bottomRight": [
+          1524.6,
+          587.7
+        ],
+        "center": [
+          1470.5,
+          533.6
+        ]
+      },
+      "size": {
+        "w": 108.3,
+        "h": 108.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 99,
+      "name": "Google Shape;99;p14",
+      "pos": {
+        "topLeft": [
+          96.0,
+          77.0
+        ],
+        "bottomRight": [
+          1223.8,
+          319.6
+        ],
+        "center": [
+          659.9,
+          198.3
+        ]
+      },
+      "size": {
+        "w": 1127.8,
+        "h": 242.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "HOW TO USE THIS PRESENTATION",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Merriweather\" line-height=\"1.31\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">HOW TO USE THIS PRESENTATION</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 100,
+      "name": "Google Shape;100;p14",
+      "pos": {
+        "topLeft": [
+          55.9,
+          766.6
+        ],
+        "bottomRight": [
+          576.4,
+          961.8
+        ],
+        "center": [
+          316.2,
+          864.2
+        ]
+      },
+      "size": {
+        "w": 520.5,
+        "h": 195.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Canva\" button\nunder this presentation preview.\nStart editing your presentation.\nYou need to sign in to your\nCanva account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Click on the</span><span strike=\"noStrike\" underline=\"true\"> \"Canva\"</span><span strike=\"noStrike\"> button</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">under this presentation preview.</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Start editing your presentation.</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">You need to sign in to your</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Canva account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 101,
+      "name": "Google Shape;101;p14",
+      "pos": {
+        "topLeft": [
+          1223.8,
+          768.6
+        ],
+        "bottomRight": [
+          1717.1,
+          1004.5
+        ],
+        "center": [
+          1470.5,
+          886.6
+        ]
+      },
+      "size": {
+        "w": 493.3,
+        "h": 235.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Export this design from Canva\nas a GoogleSlide template.\nThis will provide you with all the\nfonts used and elements used in\nthis presentation as listed on\npage 27. Learn more on slide 4.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Export this design from Canva</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">as a </span><span strike=\"noStrike\" underline=\"true\">GoogleSlide template</span><span strike=\"noStrike\">.</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">This will provide you with all the</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">fonts used and elements used in</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">this presentation as listed on</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">page 27. Learn more on slide 4.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Google Shape;102;p14",
+      "pos": {
+        "topLeft": [
+          237.3,
+          679.6
+        ],
+        "bottomRight": [
+          395.0,
+          726.5
+        ],
+        "center": [
+          316.2,
+          703.1
+        ]
+      },
+      "size": {
+        "w": 157.7,
+        "h": 46.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "CANVA",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"29.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">CANVA</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Google Shape;103;p14",
+      "pos": {
+        "topLeft": [
+          617.0,
+          768.6
+        ],
+        "bottomRight": [
+          1137.7,
+          963.8
+        ],
+        "center": [
+          877.4,
+          866.2
+        ]
+      },
+      "size": {
+        "w": 520.7,
+        "h": 195.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Export this design from Canva as a PowerPoint template. Open the design in Canva.\u000bThis will provide you with all the font\u000b used and elements used in this presentation\u000bas listed on page 27. Learn more on slide 3.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.26\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Export this design from Canva as a </span><span strike=\"noStrike\" underline=\"true\">PowerPoint template</span><span strike=\"noStrike\">. Open the</span><span size=\"14.0\" strike=\"noStrike\"> </span><span strike=\"noStrike\">design in </span><span strike=\"noStrike\" underline=\"true\">Canva</span><span strike=\"noStrike\">.This will provide you</span><span size=\"14.0\" strike=\"noStrike\"> </span><span strike=\"noStrike\">with all the font used and elements</span><span size=\"14.0\" strike=\"noStrike\"> </span><span strike=\"noStrike\">used in this presentationas listed on</span><span size=\"14.0\" strike=\"noStrike\"> </span><span strike=\"noStrike\">page 27. Learn more on slide 3.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Google Shape;104;p14",
+      "pos": {
+        "topLeft": [
+          659.4,
+          679.6
+        ],
+        "bottomRight": [
+          1095.3,
+          726.5
+        ],
+        "center": [
+          877.4,
+          703.1
+        ]
+      },
+      "size": {
+        "w": 435.9,
+        "h": 46.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "POWERPOINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"29.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">POWERPOINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Google Shape;105;p14",
+      "pos": {
+        "topLeft": [
+          1333.0,
+          679.6
+        ],
+        "bottomRight": [
+          1607.9,
+          726.5
+        ],
+        "center": [
+          1470.5,
+          703.1
+        ]
+      },
+      "size": {
+        "w": 274.9,
+        "h": 46.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "GOOGLE SLIDES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"29.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">GOOGLE SLIDES</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 106,
+      "name": "Google Shape;106;p14",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 2.25,
+        "color": "#CFC9BD",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        250.7,
+        640.4
+      ],
+      "endPos": [
+        381.6,
+        640.4
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Google Shape;107;p14",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 2.25,
+        "color": "#CFC9BD",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        811.9,
+        640.4
+      ],
+      "endPos": [
+        942.8,
+        640.4
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Google Shape;108;p14",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 2.25,
+        "color": "#CFC9BD",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1405.0,
+        640.4
+      ],
+      "endPos": [
+        1535.9,
+        640.4
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Google Shape;109;p14",
+      "pos": {
+        "topLeft": [
+          1748.3,
+          180.1
+        ],
+        "bottomRight": [
+          1981.9,
+          900.0
+        ],
+        "center": [
+          1865.1,
+          540.1
+        ]
+      },
+      "size": {
+        "w": 233.6,
+        "h": 719.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "110",
+        "111"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Google Shape;110;p14",
+      "pos": {
+        "topLeft": [
+          1748.3,
+          870.9
+        ],
+        "bottomRight": [
+          1981.9,
+          900.0
+        ],
+        "center": [
+          1865.1,
+          885.5
+        ]
+      },
+      "size": {
+        "w": 233.6,
+        "h": 29.1
+      },
+      "style": {
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "PAGE NUMBER",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">PAGE NUMBER</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 111,
+      "name": "Google Shape;111;p14",
+      "pos": {
+        "topLeft": [
+          1748.3,
+          180.1
+        ],
+        "bottomRight": [
+          1981.9,
+          209.2
+        ],
+        "center": [
+          1865.1,
+          194.7
+        ]
+      },
+      "size": {
+        "w": 233.6,
+        "h": 29.1
+      },
+      "style": {
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "PROJECT TIMELINE",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#000000\" font=\"Alegreya Sans Medium\" line-height=\"1.2\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">PROJECT TIMELINE</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Google Shape;112;p14",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 2.25,
+        "color": "#CFC9BD",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1803.0,
+        -1.5
+      ],
+      "endPos": [
+        1803.0,
+        1078.5
+      ]
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#EBE8E2"
+  }
+}

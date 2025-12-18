@@ -1,0 +1,1 @@
+The order of the content within the three text boxes is off by one - please exchange the contents so that everything is shifted one to the right, i.e. the text from the most left text box is now in the middle one and so on

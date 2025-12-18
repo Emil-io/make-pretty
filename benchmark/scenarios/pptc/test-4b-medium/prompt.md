@@ -1,0 +1,1 @@
+I want the girl to be on the right and the text on the left, also move the little symbols so that will not be hidden by the moved image.

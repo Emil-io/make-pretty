@@ -1,0 +1,423 @@
+{
+  "id": 265,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 238,
+      "name": "Google Shape;238;p22",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          960.0,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 1080.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 239,
+      "name": "Google Shape;239;p22",
+      "pos": {
+        "topLeft": [
+          -216.6,
+          443.0
+        ],
+        "bottomRight": [
+          681.5,
+          636.9
+        ],
+        "center": [
+          232.5,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 898.1,
+        "h": 193.9
+      },
+      "style": {
+        "rotation": 270.0,
+        "shadow": {
+          "type": "outer",
+          "transparency": 5.000000000000004,
+          "color": "#6CE5E8",
+          "size": 100.0,
+          "blur": 65.25,
+          "distance": 1.5,
+          "angle": 15.0,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "WRITE YOUR IDEA",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Teko Medium\" line-height=\"1.2\" size=\"120.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">WRITE YOUR IDEA</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 240,
+      "name": "Google Shape;240;p22",
+      "pos": {
+        "topLeft": [
+          1392.2,
+          104.0
+        ],
+        "bottomRight": [
+          1812.0,
+          189.6
+        ],
+        "center": [
+          1602.1,
+          146.8
+        ]
+      },
+      "size": {
+        "w": 419.8,
+        "h": 85.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#60B3DD\" font=\"Montserrat\" line-height=\"1.40016\" size=\"23.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 241,
+      "name": "Google Shape;241;p22",
+      "pos": {
+        "topLeft": [
+          1392.2,
+          625.6
+        ],
+        "bottomRight": [
+          1812.0,
+          711.2
+        ],
+        "center": [
+          1602.1,
+          668.4
+        ]
+      },
+      "size": {
+        "w": 419.8,
+        "h": 85.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#60B3DD\" font=\"Montserrat\" line-height=\"1.40016\" size=\"23.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 242,
+      "name": "Google Shape;242;p22",
+      "pos": {
+        "topLeft": [
+          1392.2,
+          364.8
+        ],
+        "bottomRight": [
+          1812.0,
+          450.4
+        ],
+        "center": [
+          1602.1,
+          407.6
+        ]
+      },
+      "size": {
+        "w": 419.8,
+        "h": 85.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#60B3DD\" font=\"Montserrat\" line-height=\"1.40016\" size=\"23.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 243,
+      "name": "Google Shape;243;p22",
+      "pos": {
+        "topLeft": [
+          1392.2,
+          886.4
+        ],
+        "bottomRight": [
+          1812.0,
+          972.0
+        ],
+        "center": [
+          1602.1,
+          929.2
+        ]
+      },
+      "size": {
+        "w": 419.8,
+        "h": 85.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Briefly elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#60B3DD\" font=\"Montserrat\" line-height=\"1.40016\" size=\"23.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Briefly elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 244,
+      "name": "Google Shape;244;p22",
+      "pos": {
+        "topLeft": [
+          470.1,
+          57.4
+        ],
+        "bottomRight": [
+          1281.8,
+          240.2
+        ],
+        "center": [
+          876.0,
+          148.8
+        ]
+      },
+      "size": {
+        "w": 811.7,
+        "h": 182.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Google Shape;245;p22",
+      "pos": {
+        "topLeft": [
+          470.1,
+          318.2
+        ],
+        "bottomRight": [
+          1281.8,
+          501.0
+        ],
+        "center": [
+          876.0,
+          409.6
+        ]
+      },
+      "size": {
+        "w": 811.7,
+        "h": 182.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 246,
+      "name": "Google Shape;246;p22",
+      "pos": {
+        "topLeft": [
+          470.1,
+          579.0
+        ],
+        "bottomRight": [
+          1281.8,
+          761.8
+        ],
+        "center": [
+          876.0,
+          670.4
+        ]
+      },
+      "size": {
+        "w": 811.7,
+        "h": 182.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 247,
+      "name": "Google Shape;247;p22",
+      "pos": {
+        "topLeft": [
+          470.1,
+          839.8
+        ],
+        "bottomRight": [
+          1281.8,
+          1022.6
+        ],
+        "center": [
+          876.0,
+          931.2
+        ]
+      },
+      "size": {
+        "w": 811.7,
+        "h": 182.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 248,
+      "name": "Google Shape;248;p22",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.5,
+        "color": "#41B8D5",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1137.7,
+        145.8
+      ],
+      "endPos": [
+        1350.8,
+        145.8
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Google Shape;249;p22",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.5,
+        "color": "#41B8D5",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1137.7,
+        409.6
+      ],
+      "endPos": [
+        1350.8,
+        409.6
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Google Shape;250;p22",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.5,
+        "color": "#41B8D5",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1137.7,
+        670.4
+      ],
+      "endPos": [
+        1350.8,
+        670.4
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Google Shape;251;p22",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.5,
+        "color": "#41B8D5",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1137.7,
+        931.2
+      ],
+      "endPos": [
+        1350.8,
+        931.2
+      ]
+    }
+  ]
+}

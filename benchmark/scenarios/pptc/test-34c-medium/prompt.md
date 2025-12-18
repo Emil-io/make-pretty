@@ -1,0 +1,1 @@
+Please make the point headings and the text below closer to each other. Align all 3 points in one row.

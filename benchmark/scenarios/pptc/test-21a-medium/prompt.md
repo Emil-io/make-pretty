@@ -1,0 +1,1 @@
+Make the right side into a 5x7 grid, only keep 5 items of each current row and remove the rest if there are more.

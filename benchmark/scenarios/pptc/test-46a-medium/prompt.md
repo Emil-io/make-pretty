@@ -1,0 +1,1 @@
+Pls align the pictures in the middle - and use the black circles as "border" of the picutres.

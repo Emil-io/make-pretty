@@ -1,0 +1,1 @@
+The three content sections on the bottom are not aligned over the entire slide width, please do that.

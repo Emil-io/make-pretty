@@ -1,0 +1,1 @@
+Pls align the 6 Text boxes!

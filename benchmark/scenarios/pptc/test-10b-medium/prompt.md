@@ -1,0 +1,1 @@
+Please add a fifth point in red and scale the rest of the slide accordingly. Also please note the boxes on the bottom when scaling and adding, as these are also part of the design.

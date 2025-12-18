@@ -1,0 +1,1 @@
+Pls fit the yellow boxes and the large text (same sizes for the boxes).

@@ -1,0 +1,1 @@
+In the chart on the right, I want the bars to be vertical instead. Please change the bars and their axes so that the bars are 'standing'.

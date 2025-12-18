@@ -1,0 +1,1 @@
+Rearrange the chart on the left so that the bars are horizontal instead of vertical, with the largest bar being at the top.

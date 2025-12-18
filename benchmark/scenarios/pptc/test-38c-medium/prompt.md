@@ -1,0 +1,1 @@
+Please align the heading and subheading (center it). Also, one picture is off.

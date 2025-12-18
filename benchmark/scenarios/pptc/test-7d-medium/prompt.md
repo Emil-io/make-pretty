@@ -1,0 +1,1 @@
+I want the bars in the chart on the left to start from the right and not from the left, please move them there and make sure to also invert so that the largest 'chunks' are now on the right.

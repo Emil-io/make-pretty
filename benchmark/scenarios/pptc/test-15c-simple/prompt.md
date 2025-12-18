@@ -1,0 +1,1 @@
+Please align all the icons in a grid. The one row is missing an 8th item, just leave that one spot open.

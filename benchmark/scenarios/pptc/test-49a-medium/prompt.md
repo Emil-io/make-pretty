@@ -1,0 +1,1 @@
+pls align the 3 circled pictures and the text.

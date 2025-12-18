@@ -1,0 +1,1 @@
+All the three texts in the right column have only the single word 'problem' in a new line. I want all the text to be one-liners, so please decrease the font size so that this works properly.

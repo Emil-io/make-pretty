@@ -1,0 +1,1 @@
+Change the S W O T letters to be the same orange as the texts above them.

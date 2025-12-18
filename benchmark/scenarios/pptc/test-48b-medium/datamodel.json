@@ -1,0 +1,591 @@
+{
+  "id": 263,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 457,
+      "name": "Google Shape;457;p20",
+      "pos": {
+        "topLeft": [
+          40.2,
+          -372.1
+        ],
+        "bottomRight": [
+          1736.2,
+          1188.2
+        ],
+        "center": [
+          888.2,
+          408.0
+        ]
+      },
+      "size": {
+        "w": 1696.0,
+        "h": 1560.3
+      },
+      "style": {
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 458,
+      "name": "Google Shape;458;p20",
+      "pos": {
+        "topLeft": [
+          103.3,
+          43.7
+        ],
+        "bottomRight": [
+          442.2,
+          390.5
+        ],
+        "center": [
+          272.8,
+          217.1
+        ]
+      },
+      "size": {
+        "w": 338.9,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "459",
+        "460"
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Google Shape;459;p20",
+      "pos": {
+        "topLeft": [
+          103.3,
+          66.5
+        ],
+        "bottomRight": [
+          442.2,
+          276.3
+        ],
+        "center": [
+          272.8,
+          171.4
+        ]
+      },
+      "size": {
+        "w": 338.9,
+        "h": 209.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#FFFFFF"
+        },
+        "border": {
+          "color": "#000000",
+          "width": 3.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 460,
+      "name": "Google Shape;460;p20",
+      "pos": {
+        "topLeft": [
+          103.3,
+          43.7
+        ],
+        "bottomRight": [
+          427.3,
+          390.5
+        ],
+        "center": [
+          265.3,
+          217.1
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 461,
+      "name": "Google Shape;461;p20",
+      "pos": {
+        "topLeft": [
+          108.0,
+          69.3
+        ],
+        "bottomRight": [
+          442.2,
+          276.3
+        ],
+        "center": [
+          275.1,
+          172.8
+        ]
+      },
+      "size": {
+        "w": 334.2,
+        "h": 207.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Film",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Staatliches\" line-height=\"1.2\" size=\"130.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Film</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 462,
+      "name": "Google Shape;462;p20",
+      "pos": {
+        "topLeft": [
+          485.3,
+          43.7
+        ],
+        "bottomRight": [
+          1024.5,
+          390.5
+        ],
+        "center": [
+          754.9,
+          217.1
+        ]
+      },
+      "size": {
+        "w": 539.2,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "463",
+        "464"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Google Shape;463;p20",
+      "pos": {
+        "topLeft": [
+          485.3,
+          66.5
+        ],
+        "bottomRight": [
+          1024.5,
+          276.3
+        ],
+        "center": [
+          754.9,
+          171.4
+        ]
+      },
+      "size": {
+        "w": 539.2,
+        "h": 209.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#FFFFFF"
+        },
+        "border": {
+          "color": "#000000",
+          "width": 3.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 464,
+      "name": "Google Shape;464;p20",
+      "pos": {
+        "topLeft": [
+          485.3,
+          43.7
+        ],
+        "bottomRight": [
+          809.3,
+          390.5
+        ],
+        "center": [
+          647.3,
+          217.1
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 465,
+      "name": "Google Shape;465;p20",
+      "pos": {
+        "topLeft": [
+          487.8,
+          69.3
+        ],
+        "bottomRight": [
+          1022.0,
+          276.3
+        ],
+        "center": [
+          754.9,
+          172.8
+        ]
+      },
+      "size": {
+        "w": 534.2,
+        "h": 207.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Genres",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Staatliches\" line-height=\"1.2\" size=\"130.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Genres</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 466,
+      "name": "Google Shape;466;p20",
+      "pos": {
+        "topLeft": [
+          108.0,
+          347.7
+        ],
+        "bottomRight": [
+          1812.0,
+          972.0
+        ],
+        "center": [
+          960.0,
+          659.8
+        ]
+      },
+      "size": {
+        "w": 1704.0,
+        "h": 624.3
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 4,
+      "columns": 3,
+      "cells": [
+        {
+          "text": "Add a genre name",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "Add a genre name",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "Add a genre name",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "Briefly elaborate on what you want to discuss. ",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "Briefly elaborate on what you want to discuss. ",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "Briefly elaborate on what you want to discuss. ",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "Add a genre name",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "Add a genre name",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "Add a genre name",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "Briefly elaborate on what you want to discuss. ",
+          "rowIndex": 3,
+          "colIndex": 0
+        },
+        {
+          "text": "Briefly elaborate on what you want to discuss. ",
+          "rowIndex": 3,
+          "colIndex": 1
+        },
+        {
+          "text": "Briefly elaborate on what you want to discuss. ",
+          "rowIndex": 3,
+          "colIndex": 2
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    },
+    {
+      "id": 467,
+      "name": "Google Shape;467;p20",
+      "pos": {
+        "topLeft": [
+          1593.0,
+          69.3
+        ],
+        "bottomRight": [
+          2031.0,
+          501.3
+        ],
+        "center": [
+          1812.0,
+          285.3
+        ]
+      },
+      "size": {
+        "w": 438.0,
+        "h": 432.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 468,
+      "name": "Google Shape;468;p20",
+      "pos": {
+        "topLeft": [
+          -194.3,
+          824.0
+        ],
+        "bottomRight": [
+          243.7,
+          1256.0
+        ],
+        "center": [
+          24.7,
+          1040.0
+        ]
+      },
+      "size": {
+        "w": 438.0,
+        "h": 432.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 469,
+      "name": "Google Shape;469;p20",
+      "pos": {
+        "topLeft": [
+          -45.1,
+          959.3
+        ],
+        "bottomRight": [
+          106.5,
+          1106.7
+        ],
+        "center": [
+          30.7,
+          1033.0
+        ]
+      },
+      "size": {
+        "w": 151.6,
+        "h": 147.4
+      },
+      "style": {
+        "rotation": 329.4105166666667
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 470,
+      "name": "Google Shape;470;p20",
+      "pos": {
+        "topLeft": [
+          1693.4,
+          212.5
+        ],
+        "bottomRight": [
+          1915.4,
+          377.1
+        ],
+        "center": [
+          1804.4,
+          294.8
+        ]
+      },
+      "size": {
+        "w": 222.0,
+        "h": 164.6
+      },
+      "style": {
+        "rotation": 333.2989666666667
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ],
+  "background": {
+    "type": "GRADIENT"
+  }
+}

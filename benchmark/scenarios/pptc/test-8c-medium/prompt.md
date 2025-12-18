@@ -1,0 +1,1 @@
+The slide got distorted, please fix the content back into the grid.

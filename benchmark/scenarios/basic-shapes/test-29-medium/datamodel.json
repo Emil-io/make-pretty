@@ -1,0 +1,170 @@
+{
+  "id": 257,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "First Usecase: Align Objects",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>First Usecase: Align Objects</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rounded Rectangle 3",
+      "pos": {
+        "topLeft": [
+          88.0,
+          197.0
+        ],
+        "bottomRight": [
+          426.0,
+          647.0
+        ],
+        "center": [
+          257.0,
+          422.0
+        ]
+      },
+      "size": {
+        "w": 338.0,
+        "h": 450.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rounded Rectangle 4",
+      "pos": {
+        "topLeft": [
+          471.0,
+          197.0
+        ],
+        "bottomRight": [
+          809.0,
+          647.0
+        ],
+        "center": [
+          640.0,
+          422.0
+        ]
+      },
+      "size": {
+        "w": 338.0,
+        "h": 450.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rounded Rectangle 5",
+      "pos": {
+        "topLeft": [
+          854.0,
+          197.0
+        ],
+        "bottomRight": [
+          1192.0,
+          647.0
+        ],
+        "center": [
+          1023.0,
+          422.0
+        ]
+      },
+      "size": {
+        "w": 338.0,
+        "h": 450.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the three boxes”"
+  }
+}

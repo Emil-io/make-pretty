@@ -1,0 +1,1 @@
+Remove November and December and realign the rest of the months to fit the space. Make sure to also move their text comments and the lines connecting them to the months.

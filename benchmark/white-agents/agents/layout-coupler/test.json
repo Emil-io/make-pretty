@@ -1,0 +1,155 @@
+{
+    "summary": "Transform the existing 7x2 grid into a 5x3 grid, redistributing the existing metric cards and adding new ones as needed.",
+    "steps": [
+        {
+            "id": "transform_grid_layout",
+            "type": "relayouter",
+            "task": "Transform the current 7x2 grid layout into a 5x3 grid layout, ensuring all existing content is redistributed appropriately and new cells are created.",
+            "expected_layout_ids": [
+                "metric_cards_row1_col1",
+                "metric_cards_row1_col2",
+                "metric_cards_row1_col3",
+                "metric_cards_row1_col4",
+                "metric_cards_row1_col5",
+                "metric_cards_row2_col1",
+                "metric_cards_row2_col2",
+                "metric_cards_row2_col3",
+                "metric_cards_row2_col4",
+                "metric_cards_row2_col5",
+                "metric_cards_row3_col1",
+                "metric_cards_row3_col2",
+                "metric_cards_row3_col3",
+                "metric_cards_row3_col4",
+                "metric_cards_row3_col5"
+            ],
+            "next": ["get_common_card_layout"]
+        },
+        {
+            "id": "get_common_card_layout",
+            "type": "coupler",
+            "task": "Determine the common layout and styling properties for each metric card in the new 5x3 grid, based on the existing card styles.",
+            "next": [
+                "realign_card_1",
+                "realign_card_2",
+                "realign_card_3",
+                "realign_card_4",
+                "realign_card_5",
+                "realign_card_6",
+                "realign_card_7",
+                "realign_card_8",
+                "realign_card_9",
+                "realign_card_10",
+                "realign_card_11",
+                "realign_card_12",
+                "realign_card_13",
+                "realign_card_14",
+                "create_card_15"
+            ]
+        },
+        {
+            "id": "realign_card_1",
+            "type": "modifier",
+            "task": "Realign the content of the first metric card (id: 103, 58) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row1_col1",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_2",
+            "type": "modifier",
+            "task": "Realign the content of the second metric card (id: 105, 60) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row1_col2",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_3",
+            "type": "modifier",
+            "task": "Realign the content of the third metric card (id: 106, 62) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row1_col3",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_4",
+            "type": "modifier",
+            "task": "Realign the content of the fourth metric card (id: 107, 63) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row1_col4",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_5",
+            "type": "modifier",
+            "task": "Realign the content of the fifth metric card (id: 108, 79) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row1_col5",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_6",
+            "type": "modifier",
+            "task": "Realign the content of the sixth metric card (id: 109, 80) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row2_col1",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_7",
+            "type": "modifier",
+            "task": "Realign the content of the seventh metric card (id: 110, 81) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row2_col2",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_8",
+            "type": "modifier",
+            "task": "Realign the content of the eighth metric card (id: 120, 113) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row2_col3",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_9",
+            "type": "modifier",
+            "task": "Realign the content of the ninth metric card (id: 121, 114) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row2_col4",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_10",
+            "type": "modifier",
+            "task": "Realign the content of the tenth metric card (id: 122, 115) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row2_col5",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_11",
+            "type": "modifier",
+            "task": "Realign the content of the eleventh metric card (id: 123, 116) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row3_col1",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_12",
+            "type": "modifier",
+            "task": "Realign the content of the twelfth metric card (id: 124, 117) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row3_col2",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_13",
+            "type": "modifier",
+            "task": "Realign the content of the thirteenth metric card (id: 125, 118) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row3_col3",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "realign_card_14",
+            "type": "modifier",
+            "task": "Realign the content of the fourteenth metric card (id: 126, 119) to its new position in the 5x3 grid.",
+            "layout": "metric_cards_row3_col4",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        },
+        {
+            "id": "create_card_15",
+            "type": "modifier",
+            "task": "Create a new metric card for the fifteenth position in the 5x3 grid, using the common card layout.",
+            "layout": "metric_cards_row3_col5",
+            "dependsOn": ["transform_grid_layout", "get_common_card_layout"]
+        }
+    ]
+}

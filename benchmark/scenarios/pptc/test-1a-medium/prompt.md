@@ -1,0 +1,1 @@
+I want a forth column added here. The picture shall be something with water shortage/ drought.

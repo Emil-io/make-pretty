@@ -1,0 +1,332 @@
+{
+  "id": 294,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 322,
+      "name": "Google Shape;322;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 322,
+        "name": "Google Shape;322;p30",
+        "pos": {
+          "topLeft": [
+            47.8,
+            86.5
+          ],
+          "bottomRight": [
+            218.3,
+            492.2
+          ],
+          "center": [
+            133.1,
+            289.4
+          ]
+        },
+        "size": {
+          "w": 170.5,
+          "h": 405.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Let’s review some concepts",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" font=\"Playfair Display Regular\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Let’s review some concepts</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 323,
+      "name": "Google Shape;323;p30",
+      "pos": {
+        "topLeft": [
+          47.8,
+          412.7
+        ],
+        "bottomRight": [
+          128.5,
+          493.4
+        ],
+        "center": [
+          88.2,
+          453.1
+        ]
+      },
+      "size": {
+        "w": 80.7,
+        "h": 80.7
+      },
+      "style": {
+        "border": {
+          "color": "#E2D1C2",
+          "width": 0.8
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 324,
+      "name": "Google Shape;324;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 324,
+        "name": "Google Shape;324;p30",
+        "pos": {
+          "topLeft": [
+            290.1,
+            144.5
+          ],
+          "bottomRight": [
+            483.9,
+            293.3
+          ],
+          "center": [
+            387.0,
+            218.9
+          ]
+        },
+        "size": {
+          "w": 193.8,
+          "h": 148.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Yellow\nIs the color of gold, butter and ripe lemons. In the spectrum of visible light, yellow is found between green and orange.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Inria Serif Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Yellow</span></p>\n<p align=\"left\" font=\"Inria Serif Light\" size=\"12.0\" space-after-pt=\"6.0\" space-before-pt=\"6.0\"><span>Is the color of gold, butter and ripe lemons. In the spectrum of visible light, yellow is found between green and orange.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 325,
+      "name": "Google Shape;325;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 325,
+        "name": "Google Shape;325;p30",
+        "pos": {
+          "topLeft": [
+            504.2,
+            144.5
+          ],
+          "bottomRight": [
+            698.0,
+            293.3
+          ],
+          "center": [
+            601.1,
+            218.9
+          ]
+        },
+        "size": {
+          "w": 193.8,
+          "h": 148.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Blue\nIs the colour of the clear sky and the deep sea. It is located between violet and green on the optical spectrum.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Inria Serif Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Blue</span></p>\n<p align=\"left\" font=\"Inria Serif Light\" size=\"12.0\" space-after-pt=\"6.0\" space-before-pt=\"6.0\"><span>Is the colour of the clear sky and the deep sea. It is located between violet and green on the optical spectrum.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 326,
+      "name": "Google Shape;326;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 326,
+        "name": "Google Shape;326;p30",
+        "pos": {
+          "topLeft": [
+            718.4,
+            144.5
+          ],
+          "bottomRight": [
+            912.2,
+            293.3
+          ],
+          "center": [
+            815.3,
+            218.9
+          ]
+        },
+        "size": {
+          "w": 193.8,
+          "h": 148.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Red\nIs the color of blood, and because of this it has historically been associated with sacrifice, danger and courage. \n",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Inria Serif Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Red</span></p>\n<p align=\"left\" font=\"Inria Serif Light\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the color of blood, and because of this it has historically been associated with sacrifice, danger and courage. </span></p>\n<br/>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 327,
+      "name": "Google Shape;327;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 327,
+        "name": "Google Shape;327;p30",
+        "pos": {
+          "topLeft": [
+            912.2,
+            492.2
+          ],
+          "bottomRight": [
+            960.0,
+            540.0
+          ],
+          "center": [
+            936.1,
+            516.1
+          ]
+        },
+        "size": {
+          "w": 47.8,
+          "h": 47.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "1",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"sldNum\" wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" color=\"#FFFFFF\" font=\"Inria Serif\" line-height=\"1.0\" size=\"13.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\">1</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 328,
+      "name": "Google Shape;328;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 328,
+        "name": "Google Shape;328;p30",
+        "pos": {
+          "topLeft": [
+            290.1,
+            344.5
+          ],
+          "bottomRight": [
+            483.9,
+            493.3
+          ],
+          "center": [
+            387.0,
+            418.9
+          ]
+        },
+        "size": {
+          "w": 193.8,
+          "h": 148.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Yellow\nIs the color of gold, butter and ripe lemons. In the spectrum of visible light, yellow is found between green and orange.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Inria Serif Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Yellow</span></p>\n<p align=\"left\" font=\"Inria Serif Light\" size=\"12.0\" space-after-pt=\"6.0\" space-before-pt=\"6.0\"><span>Is the color of gold, butter and ripe lemons. In the spectrum of visible light, yellow is found between green and orange.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 329,
+      "name": "Google Shape;329;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 329,
+        "name": "Google Shape;329;p30",
+        "pos": {
+          "topLeft": [
+            504.2,
+            344.5
+          ],
+          "bottomRight": [
+            698.0,
+            493.3
+          ],
+          "center": [
+            601.1,
+            418.9
+          ]
+        },
+        "size": {
+          "w": 193.8,
+          "h": 148.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Blue\nIs the colour of the clear sky and the deep sea. It is located between violet and green on the optical spectrum.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Inria Serif Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Blue</span></p>\n<p align=\"left\" font=\"Inria Serif Light\" size=\"12.0\" space-after-pt=\"6.0\" space-before-pt=\"6.0\"><span>Is the colour of the clear sky and the deep sea. It is located between violet and green on the optical spectrum.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 330,
+      "name": "Google Shape;330;p30",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 330,
+        "name": "Google Shape;330;p30",
+        "pos": {
+          "topLeft": [
+            718.4,
+            344.5
+          ],
+          "bottomRight": [
+            912.2,
+            493.3
+          ],
+          "center": [
+            815.3,
+            418.9
+          ]
+        },
+        "size": {
+          "w": 193.8,
+          "h": 148.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Red\nIs the color of blood, and because of this it has historically been associated with sacrifice, danger and courage. \n",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Inria Serif Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Red</span></p>\n<p align=\"left\" font=\"Inria Serif Light\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the color of blood, and because of this it has historically been associated with sacrifice, danger and courage. </span></p>\n<br/>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    }
+  ]
+}

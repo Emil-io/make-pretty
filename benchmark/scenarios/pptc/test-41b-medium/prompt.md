@@ -1,0 +1,1 @@
+Pls center the three percentages within the circles.

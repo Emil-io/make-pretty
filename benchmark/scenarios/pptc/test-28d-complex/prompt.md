@@ -1,0 +1,1 @@
+Pls align the textboxes in the 4 quadrants so that they dont overflow (also they should smh match each other from their height). Furthermore i think the headings in the white boxes are not exactly in the middle of their respective box.

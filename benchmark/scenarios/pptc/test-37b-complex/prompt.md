@@ -1,0 +1,1 @@
+pls align the text in the 4 boxes.

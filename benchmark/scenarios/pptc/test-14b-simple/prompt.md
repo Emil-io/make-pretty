@@ -1,0 +1,1 @@
+The middle star is wrongly rotated, make it correct be upright again.

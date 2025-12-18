@@ -1,0 +1,1 @@
+Please delete the introduction "column" and make "Services" and "About us" take half of the space each. The text & image should remain in the same size - just move them.

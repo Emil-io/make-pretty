@@ -1,0 +1,110 @@
+slideId: 2145707934
+width: 1280
+height: 720
+metadata:
+  title: Example Slide
+  author: Test User
+  created: '2024-01-15'
+shapes:
+  - id: 1
+    shapeType: rectangle
+    position: [100, 50]
+    size: [300, 200]
+    offset: [10, 10]
+    center: [250, 150]
+    topLeft: [100, 50]
+    bottomRight: [400, 250]
+    margin: [10, 20]
+    style:
+      fill: '#FF5733'
+      stroke: '#000000'
+      strokeWidth: 2
+    children:
+      - id: 11
+        shapeType: text
+        position: [120, 70]
+        size: [260, 160]
+        offset: [0, 0]
+        margin: [5, 10, 5, 10]
+  - id: 2
+    shapeType: circle
+    position: [500, 100]
+    size: [150, 150]
+    center: [575, 175]
+    topLeft: [500, 100]
+    bottomRight: [650, 250]
+    margin: [15, 25, 15, 25]
+    style:
+      fill: '#33FF57'
+      stroke: '#000000'
+  - id: 3
+    shapeType: line
+    startPos: [0, 39]
+    endPos: [1280, 39]
+    offset: [0, 0]
+    b: [[716, 638], [1241, 665]]
+  - id: 4
+    shapeType: group
+    position: [700, 300]
+    size: [400, 300]
+    topLeft: [700, 300]
+    bottomRight: [1100, 600]
+    margin: [20, 30, 20]
+    children:
+      - id: 41
+        shapeType: rectangle
+        position: [720, 320]
+        size: [150, 100]
+        offset: [20, 20]
+        center: [795, 370]
+      - id: 42
+        shapeType: ellipse
+        position: [900, 350]
+        size: [120, 80]
+        offset: [0, 0]
+        center: [960, 390]
+        topLeft: [900, 350]
+        bottomRight: [1020, 430]
+      - id: 43
+        shapeType: polygon
+        position: [1050, 400]
+        size: [30, 30]
+        coord: [1050, 400, 1080, 400, 1065, 430]
+        offset: [0, 0]
+  - id: 5
+    shapeType: image
+    position: [100, 400]
+    size: [250, 180]
+    offset: [5, 5]
+    center: [225, 490]
+    topLeft: [100, 400]
+    bottomRight: [350, 580]
+    source:
+      url: https://example.com/image.jpg
+      dimensions:
+        - 1920
+        - 1080
+layout:
+  grid:
+    columns: 12
+    rows: 8
+    cellSize:
+      - 106.67
+      - 90
+    spacing:
+      - 10
+      - 10
+  constraints:
+    - type: align
+      shapes:
+        - 1
+        - 2
+      axis: x
+      position: [100, 100]
+    - type: distribute
+      shapes:
+        - 1
+        - 2
+        - 5
+      direction: horizontal
+      spacing: 50

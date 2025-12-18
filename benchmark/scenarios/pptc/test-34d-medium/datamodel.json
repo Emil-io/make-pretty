@@ -1,0 +1,486 @@
+{
+  "id": 276,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 580,
+      "name": "Google Shape;580;p33",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          960.0,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 1080.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 581,
+      "name": "Google Shape;581;p33",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          498.1
+        ],
+        "center": [
+          960.0,
+          249.1
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 498.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 582,
+      "name": "Google Shape;582;p33",
+      "pos": {
+        "topLeft": [
+          64.2,
+          404.1
+        ],
+        "bottomRight": [
+          470.6,
+          912.8
+        ],
+        "center": [
+          267.4,
+          658.5
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 508.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 583,
+      "name": "Google Shape;583;p33",
+      "pos": {
+        "topLeft": [
+          90.8,
+          87.8
+        ],
+        "bottomRight": [
+          1829.1,
+          217.1
+        ],
+        "center": [
+          960.0,
+          152.5
+        ]
+      },
+      "size": {
+        "w": 1738.3,
+        "h": 129.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A TEAM MEMBERS PAGE",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFEB\" font=\"League Spartan\" line-height=\"1.2\" size=\"80.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A TEAM MEMBERS PAGE</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 584,
+      "name": "Google Shape;584;p33",
+      "pos": {
+        "topLeft": [
+          224.9,
+          225.1
+        ],
+        "bottomRight": [
+          1695.1,
+          284.4
+        ],
+        "center": [
+          960.0,
+          254.8
+        ]
+      },
+      "size": {
+        "w": 1470.2,
+        "h": 59.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFEB\" font=\"Libre Baskerville\" line-height=\"1.3\" size=\"35.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 585,
+      "name": "Google Shape;585;p33",
+      "pos": {
+        "topLeft": [
+          166.5,
+          884.3
+        ],
+        "bottomRight": [
+          421.6,
+          941.3
+        ],
+        "center": [
+          294.1,
+          912.8
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 57.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": " NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.2\" size=\"36.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\"> NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 586,
+      "name": "Google Shape;586;p33",
+      "pos": {
+        "topLeft": [
+          128.7,
+          954.5
+        ],
+        "bottomRight": [
+          459.4,
+          989.5
+        ],
+        "center": [
+          294.0,
+          972.0
+        ]
+      },
+      "size": {
+        "w": 330.7,
+        "h": 35.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.2\" size=\"21.9\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 587,
+      "name": "Google Shape;587;p33",
+      "pos": {
+        "topLeft": [
+          610.2,
+          355.3
+        ],
+        "bottomRight": [
+          1016.6,
+          864.0
+        ],
+        "center": [
+          813.4,
+          609.7
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 508.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 588,
+      "name": "Google Shape;588;p33",
+      "pos": {
+        "topLeft": [
+          952.2,
+          217.1
+        ],
+        "bottomRight": [
+          1358.6,
+          725.8
+        ],
+        "center": [
+          1155.4,
+          471.5
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 508.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 589,
+      "name": "Google Shape;589;p33",
+      "pos": {
+        "topLeft": [
+          1380.2,
+          352.4
+        ],
+        "bottomRight": [
+          1786.6,
+          861.1
+        ],
+        "center": [
+          1583.4,
+          606.8
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 508.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 590,
+      "name": "Google Shape;590;p33",
+      "pos": {
+        "topLeft": [
+          610.5,
+          884.3
+        ],
+        "bottomRight": [
+          865.6,
+          941.3
+        ],
+        "center": [
+          738.1,
+          912.8
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 57.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": " NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.2\" size=\"36.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\"> NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 591,
+      "name": "Google Shape;591;p33",
+      "pos": {
+        "topLeft": [
+          572.6,
+          954.5
+        ],
+        "bottomRight": [
+          903.3,
+          989.5
+        ],
+        "center": [
+          738.0,
+          972.0
+        ]
+      },
+      "size": {
+        "w": 330.7,
+        "h": 35.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.2\" size=\"21.9\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 592,
+      "name": "Google Shape;592;p33",
+      "pos": {
+        "topLeft": [
+          1054.4,
+          884.3
+        ],
+        "bottomRight": [
+          1309.5,
+          941.3
+        ],
+        "center": [
+          1182.0,
+          912.8
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 57.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": " NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.2\" size=\"36.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\"> NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 593,
+      "name": "Google Shape;593;p33",
+      "pos": {
+        "topLeft": [
+          1016.6,
+          954.5
+        ],
+        "bottomRight": [
+          1347.3,
+          989.5
+        ],
+        "center": [
+          1182.0,
+          972.0
+        ]
+      },
+      "size": {
+        "w": 330.7,
+        "h": 35.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.2\" size=\"21.9\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 594,
+      "name": "Google Shape;594;p33",
+      "pos": {
+        "topLeft": [
+          1498.4,
+          884.3
+        ],
+        "bottomRight": [
+          1753.5,
+          941.3
+        ],
+        "center": [
+          1626.0,
+          912.8
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 57.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": " NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#2C6E49\" font=\"League Spartan\" line-height=\"1.2\" size=\"36.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\"> NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 595,
+      "name": "Google Shape;595;p33",
+      "pos": {
+        "topLeft": [
+          1460.6,
+          954.5
+        ],
+        "bottomRight": [
+          1791.3,
+          989.5
+        ],
+        "center": [
+          1625.9,
+          972.0
+        ]
+      },
+      "size": {
+        "w": 330.7,
+        "h": 35.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#403F3F\" font=\"Libre Baskerville\" line-height=\"1.2\" size=\"21.9\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ]
+}

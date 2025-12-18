@@ -1,0 +1,1 @@
+Make both headings centered.

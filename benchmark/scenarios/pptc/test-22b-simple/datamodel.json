@@ -1,0 +1,41 @@
+{
+  "id": 256,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 51,
+      "name": "Google Shape;51;p12",
+      "shapeType": "placeholder",
+      "placeholderType": "CENTER_TITLE",
+      "shape": {
+        "id": 51,
+        "name": "Google Shape;51;p12",
+        "pos": {
+          "topLeft": [
+            97.7,
+            98.7
+          ],
+          "bottomRight": [
+            862.3,
+            441.4
+          ],
+          "center": [
+            480.0,
+            270.1
+          ]
+        },
+        "size": {
+          "w": 764.6,
+          "h": 342.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "This is Your Presentation Title",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"ctrTitle\" wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" font=\"Arial\" size=\"66.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>This is Your Presentation Title</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    }
+  ]
+}

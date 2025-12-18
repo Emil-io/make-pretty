@@ -1,0 +1,181 @@
+{
+  "id": 299,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 120,
+      "name": "Google Shape;120;p20",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 120,
+        "name": "Google Shape;120;p20",
+        "pos": {
+          "topLeft": [
+            97.7,
+            93.0
+          ],
+          "bottomRight": [
+            862.3,
+            131.2
+          ],
+          "center": [
+            480.0,
+            112.1
+          ]
+        },
+        "size": {
+          "w": 764.6,
+          "h": 38.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "In two or three columns - stupid!!",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\" wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" font=\"Ubuntu\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>In two or three columns - stupid!!</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 121,
+      "name": "Google Shape;121;p20",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 121,
+        "name": "Google Shape;121;p20",
+        "pos": {
+          "topLeft": [
+            96.0,
+            148.6
+          ],
+          "bottomRight": [
+            334.2,
+            441.3
+          ],
+          "center": [
+            215.1,
+            295.0
+          ]
+        },
+        "size": {
+          "w": 238.2,
+          "h": 292.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Yellow\nIs the color of gold, butter and ripe lemons. In the spectrum of visible light, yellow is found between green and orange. wtf",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Ubuntu Light\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Yellow</span></p>\n<p align=\"left\" font=\"Ubuntu Light\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the color of gold, butter and ripe lemons. In the spectrum of visible light, yellow is found between green and orange. wtf</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 122,
+      "name": "Google Shape;122;p20",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 122,
+        "name": "Google Shape;122;p20",
+        "pos": {
+          "topLeft": [
+            359.2,
+            148.6
+          ],
+          "bottomRight": [
+            597.4,
+            441.3
+          ],
+          "center": [
+            478.3,
+            295.0
+          ]
+        },
+        "size": {
+          "w": 238.2,
+          "h": 292.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Blue\nIs the colour of the clear sky and the deep sea. It is located between violet and green on the optical spectrum.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Ubuntu Light\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Blue</span></p>\n<p align=\"left\" font=\"Ubuntu Light\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the colour of the clear sky and the deep sea. It is located between violet and green on the optical spectrum.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 123,
+      "name": "Google Shape;123;p20",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 123,
+        "name": "Google Shape;123;p20",
+        "pos": {
+          "topLeft": [
+            622.4,
+            148.6
+          ],
+          "bottomRight": [
+            860.6,
+            441.3
+          ],
+          "center": [
+            741.5,
+            295.0
+          ]
+        },
+        "size": {
+          "w": 238.2,
+          "h": 292.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Red\nIs the color of blood, and because of this it has historically been associated with sacrifice, danger and courage. \n",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Ubuntu Light\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Red</span></p>\n<p align=\"left\" font=\"Ubuntu Light\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the color of blood, and because of this it has historically been associated with sacrifice, danger and courage. </span></p>\n<br/>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 124,
+      "name": "Google Shape;124;p20",
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 124,
+        "name": "Google Shape;124;p20",
+        "pos": {
+          "topLeft": [
+            862.3,
+            446.0
+          ],
+          "bottomRight": [
+            911.2,
+            495.8
+          ],
+          "center": [
+            886.8,
+            470.9
+          ]
+        },
+        "size": {
+          "w": 48.9,
+          "h": 49.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "1",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"sldNum\" wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"right\" bold=\"true\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"16.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\">1</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    }
+  ]
+}

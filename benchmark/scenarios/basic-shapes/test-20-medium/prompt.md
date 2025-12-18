@@ -1,0 +1,1 @@
+Delete the circles, and make a 3x2 grid with the boxes (align & resize if needeed)

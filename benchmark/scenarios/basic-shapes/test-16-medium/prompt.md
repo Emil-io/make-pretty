@@ -1,0 +1,1 @@
+Please resize and align the shapes to a nice 2x2 grid. Then crop the picture to 1:1 ratio and resize it so it has the same outer borders as the 2x2 grid.

@@ -1,0 +1,1 @@
+Please delete the 2019 point off the timeline and align/distribute the remaining points accordingly.

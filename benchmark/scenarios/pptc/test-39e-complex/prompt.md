@@ -1,0 +1,1 @@
+Pls help me transform this slide to a more horizontal layout. Put the "2/5" to the left, and the "12m" to the right - align everything and also transform the blue and yellow boxes accordingly.

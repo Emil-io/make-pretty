@@ -1,0 +1,1 @@
+I want all the 'headings', i.e. the S W O T to be on the left in their respective rows, so that the questions are always right of them. Also make sure to make all the questins left-bound so that all 'headings' start at the same horizontal point and so do all questions.

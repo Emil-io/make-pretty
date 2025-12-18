@@ -1,0 +1,868 @@
+{
+  "id": 258,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 144,
+      "name": "Google Shape;144;p15",
+      "pos": {
+        "topLeft": [
+          1145.5,
+          -11.4
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          1532.8,
+          534.3
+        ]
+      },
+      "size": {
+        "w": 774.5,
+        "h": 1091.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "145",
+        "146"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Google Shape;145;p15",
+      "pos": {
+        "topLeft": [
+          1145.5,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          1532.8,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 774.5,
+        "h": 1080.0
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#040926"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 146,
+      "name": "Google Shape;146;p15",
+      "pos": {
+        "topLeft": [
+          1145.5,
+          -11.4
+        ],
+        "bottomRight": [
+          1469.5,
+          324.0
+        ],
+        "center": [
+          1307.5,
+          156.3
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 335.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 147,
+      "name": "Google Shape;147;p15",
+      "pos": {
+        "topLeft": [
+          1339.0,
+          29.6
+        ],
+        "bottomRight": [
+          2407.8,
+          1098.4
+        ],
+        "center": [
+          1873.4,
+          564.0
+        ]
+      },
+      "size": {
+        "w": 1068.8,
+        "h": 1068.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 148,
+      "name": "Google Shape;148;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          512.6
+        ],
+        "bottomRight": [
+          121.0,
+          566.2
+        ],
+        "center": [
+          95.1,
+          539.4
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "149",
+        "150"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Google Shape;149;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          514.4
+        ],
+        "bottomRight": [
+          121.0,
+          566.2
+        ],
+        "center": [
+          95.1,
+          540.3
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 51.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#7D2AE8"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 150,
+      "name": "Google Shape;150;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          512.6
+        ],
+        "bottomRight": [
+          121.0,
+          566.2
+        ],
+        "center": [
+          95.1,
+          539.4
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 151,
+      "name": "Google Shape;151;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          61.4
+        ],
+        "bottomRight": [
+          1093.9,
+          418.1
+        ],
+        "center": [
+          581.6,
+          239.8
+        ]
+      },
+      "size": {
+        "w": 1024.7,
+        "h": 356.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add an \nAgenda Page",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Russo One\" line-height=\"1.0\" size=\"110.36\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Add an </span></p>\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Russo One\" line-height=\"1.19998\" size=\"110.36\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Agenda Page</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 152,
+      "name": "Google Shape;152;p15",
+      "pos": {
+        "topLeft": [
+          159.1,
+          508.6
+        ],
+        "bottomRight": [
+          1120.4,
+          581.6
+        ],
+        "center": [
+          639.8,
+          545.1
+        ]
+      },
+      "size": {
+        "w": 961.3,
+        "h": 73.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write an agenda here.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Nunito Sans\" line-height=\"1.2\" size=\"45.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Write an agenda here.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Google Shape;153;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          621.8
+        ],
+        "bottomRight": [
+          121.0,
+          675.4
+        ],
+        "center": [
+          95.1,
+          648.6
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "154",
+        "155"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Google Shape;154;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          623.7
+        ],
+        "bottomRight": [
+          121.0,
+          675.5
+        ],
+        "center": [
+          95.1,
+          649.6
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 51.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#040926"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 155,
+      "name": "Google Shape;155;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          621.8
+        ],
+        "bottomRight": [
+          121.0,
+          675.4
+        ],
+        "center": [
+          95.1,
+          648.6
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 156,
+      "name": "Google Shape;156;p15",
+      "pos": {
+        "topLeft": [
+          159.1,
+          617.9
+        ],
+        "bottomRight": [
+          1120.4,
+          690.9
+        ],
+        "center": [
+          639.8,
+          654.4
+        ]
+      },
+      "size": {
+        "w": 961.3,
+        "h": 73.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write an agenda here.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Nunito Sans\" line-height=\"1.2\" size=\"45.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Write an agenda here.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 157,
+      "name": "Google Shape;157;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          731.1
+        ],
+        "bottomRight": [
+          121.0,
+          784.7
+        ],
+        "center": [
+          95.1,
+          757.9
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "158",
+        "159"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Google Shape;158;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          732.9
+        ],
+        "bottomRight": [
+          121.0,
+          784.7
+        ],
+        "center": [
+          95.1,
+          758.8
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 51.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#7D2AE8"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 159,
+      "name": "Google Shape;159;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          731.1
+        ],
+        "bottomRight": [
+          121.0,
+          784.7
+        ],
+        "center": [
+          95.1,
+          757.9
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 160,
+      "name": "Google Shape;160;p15",
+      "pos": {
+        "topLeft": [
+          159.1,
+          727.1
+        ],
+        "bottomRight": [
+          1120.4,
+          800.1
+        ],
+        "center": [
+          639.8,
+          763.6
+        ]
+      },
+      "size": {
+        "w": 961.3,
+        "h": 73.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write an agenda here.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Nunito Sans\" line-height=\"1.2\" size=\"45.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Write an agenda here.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Google Shape;161;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          840.3
+        ],
+        "bottomRight": [
+          121.0,
+          893.9
+        ],
+        "center": [
+          95.1,
+          867.1
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "162",
+        "163"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Google Shape;162;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          842.1
+        ],
+        "bottomRight": [
+          121.0,
+          893.9
+        ],
+        "center": [
+          95.1,
+          868.0
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 51.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#040926"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 163,
+      "name": "Google Shape;163;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          840.3
+        ],
+        "bottomRight": [
+          121.0,
+          893.9
+        ],
+        "center": [
+          95.1,
+          867.1
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 164,
+      "name": "Google Shape;164;p15",
+      "pos": {
+        "topLeft": [
+          159.1,
+          836.3
+        ],
+        "bottomRight": [
+          1120.4,
+          909.3
+        ],
+        "center": [
+          639.8,
+          872.8
+        ]
+      },
+      "size": {
+        "w": 961.3,
+        "h": 73.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write an agenda here.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Nunito Sans\" line-height=\"1.2\" size=\"45.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Write an agenda here.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Google Shape;165;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          949.5
+        ],
+        "bottomRight": [
+          121.0,
+          1003.1
+        ],
+        "center": [
+          95.1,
+          976.3
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "166",
+        "167"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Google Shape;166;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          951.4
+        ],
+        "bottomRight": [
+          121.0,
+          1003.2
+        ],
+        "center": [
+          95.1,
+          977.3
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 51.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#7D2AE8"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 167,
+      "name": "Google Shape;167;p15",
+      "pos": {
+        "topLeft": [
+          69.2,
+          949.5
+        ],
+        "bottomRight": [
+          121.0,
+          1003.1
+        ],
+        "center": [
+          95.1,
+          976.3
+        ]
+      },
+      "size": {
+        "w": 51.8,
+        "h": 53.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 168,
+      "name": "Google Shape;168;p15",
+      "pos": {
+        "topLeft": [
+          159.1,
+          945.6
+        ],
+        "bottomRight": [
+          1120.4,
+          1018.6
+        ],
+        "center": [
+          639.8,
+          982.1
+        ]
+      },
+      "size": {
+        "w": 961.3,
+        "h": 73.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write an agenda here.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#040926\" font=\"Nunito Sans\" line-height=\"1.2\" size=\"45.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Write an agenda here.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#DEC0F1"
+  }
+}

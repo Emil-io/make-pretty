@@ -1,0 +1,1 @@
+Please delete the middle box and one line - the other line should now separate the two remaining boxes in the middle. Resize the two boxes so that they use as much space of the slide as possible.

@@ -1,0 +1,1 @@
+Please add a "takeaway" box to the right side of the slide. Adjust the lenght of the existing boxes accordingly. Make it have the same layout to the existing boxes.

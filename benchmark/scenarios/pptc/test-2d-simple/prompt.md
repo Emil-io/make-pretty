@@ -1,0 +1,1 @@
+All the grey boxes with name and job title are somehow less high than the images/ purple boxes, can you please increase their height to be the same.

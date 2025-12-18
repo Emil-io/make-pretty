@@ -1,0 +1,1 @@
+I want "Meet Our Team" to be on the left third of the slide and spaced so that each word is a single row and it's vertically centered. For the right 2 thirds of the slide, I want the three people to be rows instaed of columns, with the text being right of each picture.

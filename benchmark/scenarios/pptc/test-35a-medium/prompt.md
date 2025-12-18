@@ -1,0 +1,1 @@
+Please resize the box on the bottom right so that is closes with the bottom of the left box. Please then align the text box inside like with the text box above.

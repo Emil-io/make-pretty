@@ -1,0 +1,1 @@
+Check if there is any content in the presentation that is not work appropriate for our client presentation tomorrow. If yes, please delete these words/ sentences but keep all the content that is correct.

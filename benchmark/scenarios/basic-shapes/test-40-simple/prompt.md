@@ -1,0 +1,1 @@
+Please resize the rightmost box so that its horizontal (but still same width) - then copy it so that there are three small boxes above each other in the right most column.

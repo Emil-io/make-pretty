@@ -1,0 +1,1 @@
+Remove the border of all boxes, also delete the right one and align them to two columns.

@@ -1,0 +1,1 @@
+Please move the two boxes on the right to the left side of the slide below the two other boxes. Resize them to a nice 2x2 grid. Add three wider boxes on the right hand side.

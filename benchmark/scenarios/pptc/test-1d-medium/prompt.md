@@ -1,0 +1,1 @@
+Delete all the icons in the lowest row and realign all the others to refill the full space again.

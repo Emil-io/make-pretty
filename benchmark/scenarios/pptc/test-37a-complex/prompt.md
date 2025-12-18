@@ -1,0 +1,1 @@
+Please align the 4 headings and put them at the position of the first box. Please also align the boxes. Duplicate the arrow and put it in the spaces between the boxes where currently the arrow is missing.

@@ -1,0 +1,241 @@
+{
+  "id": 290,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 486,
+      "name": "Google Shape;486;p36",
+      "pos": {
+        "topLeft": [
+          -366.5,
+          345.4
+        ],
+        "bottomRight": [
+          711.3,
+          1512.1
+        ],
+        "center": [
+          172.4,
+          928.8
+        ]
+      },
+      "size": {
+        "w": 1077.8,
+        "h": 1166.7
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 487,
+      "name": "Google Shape;487;p36",
+      "pos": {
+        "topLeft": [
+          1556.5,
+          402.0
+        ],
+        "bottomRight": [
+          1954.7,
+          516.7
+        ],
+        "center": [
+          1755.6,
+          459.4
+        ]
+      },
+      "size": {
+        "w": 398.2,
+        "h": 114.7
+      },
+      "style": {
+        "rotation": 264.2609
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 488,
+      "name": "Google Shape;488;p36",
+      "pos": {
+        "topLeft": [
+          172.4,
+          296.4
+        ],
+        "bottomRight": [
+          1747.6,
+          870.4
+        ],
+        "center": [
+          960.0,
+          583.4
+        ]
+      },
+      "size": {
+        "w": 1575.2,
+        "h": 574.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 489,
+      "name": "Google Shape;489;p36",
+      "pos": {
+        "topLeft": [
+          54.9,
+          107.0
+        ],
+        "bottomRight": [
+          668.3,
+          212.0
+        ],
+        "center": [
+          361.6,
+          159.5
+        ]
+      },
+      "size": {
+        "w": 613.4,
+        "h": 105.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Credits",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Pacifico\" line-height=\"1.2\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Credits</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 490,
+      "name": "Google Shape;490;p36",
+      "pos": {
+        "topLeft": [
+          838.8,
+          106.0
+        ],
+        "bottomRight": [
+          1747.6,
+          195.2
+        ],
+        "center": [
+          1293.2,
+          150.6
+        ]
+      },
+      "size": {
+        "w": 908.8,
+        "h": 89.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "This presentation template is free for\neveryone to use thanks to the following:",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">This presentation template is free for</span></p>\n<p align=\"right\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">everyone to use thanks to the following:</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 491,
+      "name": "Google Shape;491;p36",
+      "pos": {
+        "topLeft": [
+          1106.0,
+          975.9
+        ],
+        "bottomRight": [
+          1747.6,
+          1013.1
+        ],
+        "center": [
+          1426.8,
+          994.5
+        ]
+      },
+      "size": {
+        "w": 641.6,
+        "h": 37.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "SlidesCarnival for the presentation template",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">SlidesCarnival for the presentation template</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 492,
+      "name": "Google Shape;492;p36",
+      "pos": {
+        "topLeft": [
+          718.6,
+          975.9
+        ],
+        "bottomRight": [
+          1008.4,
+          1013.1
+        ],
+        "center": [
+          863.5,
+          994.5
+        ]
+      },
+      "size": {
+        "w": 289.8,
+        "h": 37.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Pexels for the photos",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Pexels for the photos</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#D5F1FF"
+  }
+}

@@ -1,0 +1,1 @@
+Make the three icons on the slide be upright again.

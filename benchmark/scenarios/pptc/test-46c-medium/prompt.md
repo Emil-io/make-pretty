@@ -1,0 +1,1 @@
+Pls align the three boxes and their headings.

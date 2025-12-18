@@ -1,0 +1,1 @@
+Please align all the icons on the slide into a 7x6 grid. For the correct order, simply choose row by row after each other.

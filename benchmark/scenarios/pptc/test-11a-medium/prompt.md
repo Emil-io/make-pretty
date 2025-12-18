@@ -1,0 +1,1 @@
+I want the text on the right to have half the space on this slide. Please crop the image on the left for this, and then rearrange the numbers and the text on the right so have a nicer look than right now.

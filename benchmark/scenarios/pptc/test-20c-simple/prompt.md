@@ -1,0 +1,1 @@
+make all the text and headings in the three columns centered.

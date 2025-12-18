@@ -1,0 +1,1 @@
+Please align the boxes (same sizes, same spaces) in a nice 4x2 grid. Then make the line thicker, dotted, and red - and align its size so that it perfectly divides the grid into two 2x2 grids. Then copy the line, rotate it 90° and align it so that it creates a cross with the other line, perfectly splitting the rows horizontally (now we have 4 quadrants with 2 boxes each). 

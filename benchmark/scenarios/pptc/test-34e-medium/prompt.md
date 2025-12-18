@@ -1,0 +1,1 @@
+Please delethe the third (dark green) point/column - and distrubute/stretch the other three points so that they fill the layout.

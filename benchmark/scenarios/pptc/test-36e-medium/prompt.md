@@ -1,0 +1,1 @@
+Please add black boxes to "Strengths" and "Threats".

@@ -1,0 +1,1 @@
+Please remove Item 5 from the chart. All the others items actually have 25%, so please change both their text values as well as the chart composition.

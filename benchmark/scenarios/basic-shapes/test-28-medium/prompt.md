@@ -1,0 +1,1 @@
+Please make the right box wider - let it be approx the same with as the boxes on the left (and adjust the others on the left).

@@ -1,0 +1,220 @@
+{
+  "id": 288,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 398,
+      "name": "Google Shape;398;p28",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          563.3,
+          1080.0
+        ],
+        "center": [
+          281.7,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 563.3,
+        "h": 1080.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 399,
+      "name": "Google Shape;399;p28",
+      "pos": {
+        "topLeft": [
+          563.3,
+          25.8
+        ],
+        "bottomRight": [
+          1126.6,
+          428.2
+        ],
+        "center": [
+          845.0,
+          227.0
+        ]
+      },
+      "size": {
+        "w": 563.3,
+        "h": 402.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 400,
+      "name": "Google Shape;400;p28",
+      "pos": {
+        "topLeft": [
+          563.3,
+          402.4
+        ],
+        "bottomRight": [
+          1126.6,
+          1080.0
+        ],
+        "center": [
+          845.0,
+          741.2
+        ]
+      },
+      "size": {
+        "w": 563.3,
+        "h": 677.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 401,
+      "name": "Google Shape;401;p28",
+      "pos": {
+        "topLeft": [
+          21.8,
+          -7.7
+        ],
+        "bottomRight": [
+          194.1,
+          223.6
+        ],
+        "center": [
+          108.0,
+          108.0
+        ]
+      },
+      "size": {
+        "w": 172.3,
+        "h": 231.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 402,
+      "name": "Google Shape;402;p28",
+      "pos": {
+        "topLeft": [
+          1770.2,
+          856.3
+        ],
+        "bottomRight": [
+          1942.5,
+          1087.6
+        ],
+        "center": [
+          1856.4,
+          972.0
+        ]
+      },
+      "size": {
+        "w": 172.3,
+        "h": 231.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 403,
+      "name": "Google Shape;403;p28",
+      "pos": {
+        "topLeft": [
+          808.2,
+          453.9
+        ],
+        "bottomRight": [
+          881.6,
+          540.0
+        ],
+        "center": [
+          844.9,
+          497.0
+        ]
+      },
+      "size": {
+        "w": 73.4,
+        "h": 86.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 404,
+      "name": "Google Shape;404;p28",
+      "pos": {
+        "topLeft": [
+          1252.0,
+          524.9
+        ],
+        "bottomRight": [
+          1812.0,
+          554.0
+        ],
+        "center": [
+          1532.0,
+          539.4
+        ]
+      },
+      "size": {
+        "w": 560.0,
+        "h": 29.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write a caption for the photos.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"1.23\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Write a caption for the photos.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#E8E6E5"
+  }
+}

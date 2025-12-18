@@ -1,0 +1,995 @@
+openapi: 3.1.0
+info:
+  title: make-pretty.com PowerPoint AI Schemas API
+  version: 1.0.0
+  description: Unified schema definitions for PowerPoint AI operations including changeset, inputs, and common schemas
+servers:
+  - url: https://make-pretty.com
+components:
+  schemas:
+    AIPos:
+      type: object
+      properties:
+        topLeft:
+          type: array
+          prefixItems:
+            - type: number
+            - type: number
+        bottomRight:
+          type: array
+          prefixItems:
+            - type: number
+            - type: number
+        center:
+          type: array
+          prefixItems:
+            - type: number
+            - type: number
+      description: >-
+        Position of the shape as X/Y coordinates. Starting from the top left corner of the slide. Must provide **only
+        one** of the three anchor points.
+    AISize:
+      type: object
+      properties:
+        w:
+          type: number
+        h:
+          type: number
+      required:
+        - w
+        - h
+    AIFillPicture:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - PICTURE (6)
+      required:
+        - type
+    AIFillSolid:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - SOLID (1)
+        foreColor:
+          type:
+            - string
+            - "null"
+      required:
+        - type
+        - foreColor
+    AIFillGradient:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - GRADIENT (2)
+        foreColor:
+          type:
+            - string
+            - "null"
+        backColor:
+          type:
+            - string
+            - "null"
+      required:
+        - type
+        - foreColor
+        - backColor
+    AIFillPattern:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - PATTERN (3)
+        foreColor:
+          type:
+            - string
+            - "null"
+        backColor:
+          type:
+            - string
+            - "null"
+      required:
+        - type
+        - foreColor
+        - backColor
+    AIFillTexture:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - TEXTURE (4)
+        foreColor:
+          type:
+            - string
+            - "null"
+      required:
+        - type
+        - foreColor
+    AIFillGroup:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - GROUP (101)
+      required:
+        - type
+    AIFill:
+      oneOf:
+        - $ref: "#/components/schemas/AIFillPicture"
+        - $ref: "#/components/schemas/AIFillSolid"
+        - $ref: "#/components/schemas/AIFillGradient"
+        - $ref: "#/components/schemas/AIFillPattern"
+        - $ref: "#/components/schemas/AIFillTexture"
+        - $ref: "#/components/schemas/AIFillGroup"
+      discriminator:
+        propertyName: type
+        mapping:
+          PICTURE (6): "#/components/schemas/AIFillPicture"
+          SOLID (1): "#/components/schemas/AIFillSolid"
+          GRADIENT (2): "#/components/schemas/AIFillGradient"
+          PATTERN (3): "#/components/schemas/AIFillPattern"
+          TEXTURE (4): "#/components/schemas/AIFillTexture"
+          GROUP (101): "#/components/schemas/AIFillGroup"
+    AILine:
+      type: object
+      properties:
+        color:
+          type: string
+        width:
+          type: number
+      required:
+        - color
+        - width
+    AIStyle:
+      type: object
+      properties:
+        fill:
+          $ref: "#/components/schemas/AIFill"
+        line:
+          $ref: "#/components/schemas/AILine"
+      additionalProperties: {}
+    AIRectAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - rect
+      required:
+        - autoShapeType
+    AIRoundRectAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - roundRect
+        cornerRadius:
+          type: number
+          description: Corner radius as a percentage (0-100)
+      required:
+        - autoShapeType
+        - cornerRadius
+    AIRound2SameRectAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - round2SameRect
+        topCornerRadius:
+          type: number
+          description: Top corner radius as a percentage (0-100)
+        bottomCornerRadius:
+          type: number
+          description: Bottom corner radius as a percentage (0-100)
+      required:
+        - autoShapeType
+        - topCornerRadius
+        - bottomCornerRadius
+    AIRound2DiagRectAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - round2DiagRect
+        topLeftCornerRadius:
+          type: number
+          description: Top-left corner radius as a percentage (0-100)
+        bottomRightCornerRadius:
+          type: number
+          description: Bottom-right corner radius as a percentage (0-100)
+      required:
+        - autoShapeType
+        - topLeftCornerRadius
+        - bottomRightCornerRadius
+    AIOvalAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - ellipse
+      required:
+        - autoShapeType
+    AIPlusAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - plus
+      required:
+        - autoShapeType
+    AIRightArrowAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - rightArrow
+        tailWidth:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Tail width as percentage of head width (0-100)
+        headLength:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Head length as percentage of total arrow length (0-100)
+      required:
+        - autoShapeType
+        - tailWidth
+        - headLength
+    AILeftArrowAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - leftArrow
+        tailWidth:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Tail width as percentage of head width (0-100)
+        headLength:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Head length as percentage of total arrow length (0-100)
+      required:
+        - autoShapeType
+        - tailWidth
+        - headLength
+    AIUpArrowAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - upArrow
+        tailWidth:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Tail width as percentage of head height (0-100)
+        headLength:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Head length as percentage of total arrow length (0-100)
+      required:
+        - autoShapeType
+        - tailWidth
+        - headLength
+    AIDownArrowAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - downArrow
+        tailWidth:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Tail width as percentage of head height (0-100)
+        headLength:
+          type: number
+          minimum: 0
+          maximum: 100
+          description: Head length as percentage of total arrow length (0-100)
+      required:
+        - autoShapeType
+        - tailWidth
+        - headLength
+    AISpeechBubbleAutoShape:
+      type: object
+      properties:
+        autoShapeType:
+          type: string
+          enum:
+            - wedgeRectCallout
+      required:
+        - autoShapeType
+    AIAutoShapeTypeSchema:
+      oneOf:
+        - $ref: "#/components/schemas/AIRectAutoShape"
+        - $ref: "#/components/schemas/AIRoundRectAutoShape"
+        - $ref: "#/components/schemas/AIRound2SameRectAutoShape"
+        - $ref: "#/components/schemas/AIRound2DiagRectAutoShape"
+        - $ref: "#/components/schemas/AIOvalAutoShape"
+        - $ref: "#/components/schemas/AIPlusAutoShape"
+        - $ref: "#/components/schemas/AIRightArrowAutoShape"
+        - $ref: "#/components/schemas/AILeftArrowAutoShape"
+        - $ref: "#/components/schemas/AIUpArrowAutoShape"
+        - $ref: "#/components/schemas/AIDownArrowAutoShape"
+        - $ref: "#/components/schemas/AISpeechBubbleAutoShape"
+      discriminator:
+        propertyName: autoShapeType
+        mapping:
+          rect: "#/components/schemas/AIRectAutoShape"
+          roundRect: "#/components/schemas/AIRoundRectAutoShape"
+          round2SameRect: "#/components/schemas/AIRound2SameRectAutoShape"
+          round2DiagRect: "#/components/schemas/AIRound2DiagRectAutoShape"
+          ellipse: "#/components/schemas/AIOvalAutoShape"
+          plus: "#/components/schemas/AIPlusAutoShape"
+          rightArrow: "#/components/schemas/AIRightArrowAutoShape"
+          leftArrow: "#/components/schemas/AILeftArrowAutoShape"
+          upArrow: "#/components/schemas/AIUpArrowAutoShape"
+          downArrow: "#/components/schemas/AIDownArrowAutoShape"
+          wedgeRectCallout: "#/components/schemas/AISpeechBubbleAutoShape"
+    AIBackground:
+      type: object
+      properties:
+        color:
+          type: string
+        fill:
+          $ref: "#/components/schemas/AIFill"
+      required:
+        - color
+    AIBorder:
+      type: object
+      properties:
+        color:
+          type: string
+        width:
+          type: number
+    AIAutoSize:
+      type: string
+      enum:
+        - NONE
+        - SHAPE_TO_FIT_TEXT
+        - TEXT_TO_FIT_SHAPE
+        - MIXED
+      default: TEXT_TO_FIT_SHAPE
+    AIFontInfoInput:
+      type: object
+      properties:
+        margin:
+          type: array
+          prefixItems:
+            - type: number
+            - type: number
+            - type: number
+            - type: number
+        wordWrap:
+          type: boolean
+          default: true
+        autoSize:
+          $ref: "#/components/schemas/AIAutoSize"
+        _fontSizeRef:
+          type: string
+          description: >-
+            If we insert multiple textboxes that we want to have the same font size, we can reference the same font size
+            group here. It can be any arbitrary string. Then, all textboxes in that group will have the same (largest
+            that works for all) font size.
+    AIAutoShapeTextSchema:
+      type: object
+      properties:
+        markdown:
+          type: string
+        fontInfo:
+          $ref: "#/components/schemas/AIFontInfoInput"
+    AIShapeTypeEnum:
+      type: string
+      enum:
+        - textbox
+        - image
+        - chart
+        - icon
+        - autoShape
+        - line
+        - group
+    AIAddedShapeBase:
+      type: object
+      properties:
+        shapeType:
+          $ref: "#/components/schemas/AIShapeTypeEnum"
+        _id:
+          type: string
+        pos:
+          $ref: "#/components/schemas/AIPos"
+        size:
+          $ref: "#/components/schemas/AISize"
+        content:
+          type: string
+        style:
+          $ref: "#/components/schemas/AIStyle"
+        inheritStylesFrom:
+          type: string
+      required:
+        - shapeType
+        - _id
+        - pos
+        - size
+    AIAddedAutoShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - autoShape
+            details:
+              $ref: "#/components/schemas/AIAutoShapeTypeSchema"
+            background:
+              $ref: "#/components/schemas/AIBackground"
+            border:
+              $ref: "#/components/schemas/AIBorder"
+            rotation:
+              type: number
+            text:
+              $ref: "#/components/schemas/AIAutoShapeTextSchema"
+          required:
+            - details
+    AIUpdatedShapeBase:
+      type: object
+      properties:
+        shapeType:
+          $ref: "#/components/schemas/AIShapeTypeEnum"
+        id:
+          type: string
+        inheritStylesFrom:
+          type: string
+      required:
+        - shapeType
+        - id
+    AIUpdatedAutoShape:
+      allOf:
+        - $ref: "#/components/schemas/AIUpdatedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - autoShape
+            pos:
+              $ref: "#/components/schemas/AIPos"
+            size:
+              $ref: "#/components/schemas/AISize"
+            rotation:
+              type: number
+            details:
+              $ref: "#/components/schemas/AIAutoShapeTypeSchema"
+            background:
+              $ref: "#/components/schemas/AIBackground"
+            border:
+              $ref: "#/components/schemas/AIBorder"
+            text:
+              $ref: "#/components/schemas/AIAutoShapeTextSchema"
+    PPAutoShapeType:
+      type: string
+      enum:
+        - actionButtonBackPrevious
+        - actionButtonBeginning
+        - actionButtonBlank
+        - actionButtonDocument
+        - actionButtonEnd
+        - actionButtonForwardNext
+        - actionButtonHelp
+        - actionButtonHome
+        - actionButtonInformation
+        - actionButtonMovie
+        - actionButtonReturn
+        - actionButtonSound
+        - arc
+        - wedgeRoundRectCallout
+        - bentArrow
+        - bentUpArrow
+        - bevel
+        - blockArc
+        - can
+        - chartPlus
+        - chartStar
+        - chartX
+        - chevron
+        - chord
+        - circularArrow
+        - cloud
+        - cloudCallout
+        - corner
+        - cornerTabs
+        - plus
+        - cube
+        - curvedDownArrow
+        - ellipseRibbon
+        - curvedLeftArrow
+        - curvedRightArrow
+        - curvedUpArrow
+        - ellipseRibbon2
+        - decagon
+        - diagStripe
+        - diamond
+        - dodecagon
+        - donut
+        - bracePair
+        - bracketPair
+        - doubleWave
+        - downArrow
+        - downArrowCallout
+        - ribbon
+        - irregularSeal1
+        - irregularSeal2
+        - flowChartAlternateProcess
+        - flowChartPunchedCard
+        - flowChartCollate
+        - flowChartConnector
+        - flowChartInputOutput
+        - flowChartDecision
+        - flowChartDelay
+        - flowChartMagneticDrum
+        - flowChartDisplay
+        - flowChartDocument
+        - flowChartExtract
+        - flowChartInternalStorage
+        - flowChartMagneticDisk
+        - flowChartManualInput
+        - flowChartManualOperation
+        - flowChartMerge
+        - flowChartMultidocument
+        - flowChartOfflineStorage
+        - flowChartOffpageConnector
+        - flowChartOr
+        - flowChartPredefinedProcess
+        - flowChartPreparation
+        - flowChartProcess
+        - flowChartPunchedTape
+        - flowChartMagneticTape
+        - flowChartSort
+        - flowChartOnlineStorage
+        - flowChartSummingJunction
+        - flowChartTerminator
+        - foldedCorner
+        - frame
+        - funnel
+        - gear6
+        - gear9
+        - halfFrame
+        - heart
+        - heptagon
+        - hexagon
+        - horizontalScroll
+        - triangle
+        - leftArrow
+        - leftArrowCallout
+        - leftBrace
+        - leftBracket
+        - leftCircularArrow
+        - leftRightArrow
+        - leftRightArrowCallout
+        - leftRightCircularArrow
+        - leftRightRibbon
+        - leftRightUpArrow
+        - leftUpArrow
+        - lightningBolt
+        - borderCallout1
+        - accentCallout1
+        - accentBorderCallout1
+        - callout1
+        - borderCallout2
+        - accentCallout2
+        - accentBorderCallout2
+        - callout2
+        - borderCallout3
+        - accentCallout3
+        - accentBorderCallout3
+        - callout3
+        - borderCallout4
+        - accentCallout4
+        - accentBorderCallout4
+        - callout4
+        - lineInv
+        - mathDivide
+        - mathEqual
+        - mathMinus
+        - mathMultiply
+        - mathNotEqual
+        - mathPlus
+        - moon
+        - nonIsoscelesTrapezoid
+        - notchedRightArrow
+        - noSmoking
+        - octagon
+        - ellipse
+        - wedgeEllipseCallout
+        - parallelogram
+        - homePlate
+        - pie
+        - pieWedge
+        - plaque
+        - plaqueTabs
+        - quadArrow
+        - quadArrowCallout
+        - rect
+        - wedgeRectCallout
+        - pentagon
+        - rightArrow
+        - rightArrowCallout
+        - rightBrace
+        - rightBracket
+        - rtTriangle
+        - roundRect
+        - round1Rect
+        - round2DiagRect
+        - round2SameRect
+        - smileyFace
+        - snip1Rect
+        - snip2DiagRect
+        - snip2SameRect
+        - snipRoundRect
+        - squareTabs
+        - star10
+        - star12
+        - star16
+        - star24
+        - star32
+        - star4
+        - star5
+        - star6
+        - star7
+        - star8
+        - stripedRightArrow
+        - sun
+        - swooshArrow
+        - teardrop
+        - trapezoid
+        - upArrow
+        - upArrowCallout
+        - upDownArrow
+        - upDownArrowCallout
+        - ribbon2
+        - uturnArrow
+        - verticalScroll
+        - wave
+    AICornerRadiusSchema:
+      anyOf:
+        - type: number
+          description: Corner radius as a percentage if only one radius can be set, i.e., all 4 corners are the same radius.
+        - type: array
+          prefixItems:
+            - type: number
+            - type: number
+          description: >-
+            Corner radius as a percentage if only two radii can be set, i.e., two corners are the same radius and the
+            other two are the other radius, like round2SameRect or round2DiagRect.
+    AIAddedImageShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - image
+            url:
+              type: string
+            base64:
+              type: string
+            filePath:
+              type: string
+            autoShapeType:
+              $ref: "#/components/schemas/PPAutoShapeType"
+            cornerRadius:
+              $ref: "#/components/schemas/AICornerRadiusSchema"
+    AIAddedTextboxShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - textbox
+            markdown:
+              type: string
+            fontInfo:
+              $ref: "#/components/schemas/AIFontInfoInput"
+            rotation:
+              type: number
+    AIAddedChartShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - chart
+    AIAddedIconShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - icon
+            iconName:
+              type: string
+            url:
+              type: string
+            filePath:
+              type: string
+    AILineDashStyle:
+      type: string
+      enum:
+        - dash
+        - dashDot
+        - dashDotDot
+        - dashStyleMixed
+        - longDash
+        - longDashDot
+        - roundDot
+        - solid
+        - squareDot
+    AIArrowheadStyle:
+      type: string
+      enum:
+        - none
+        - triangle
+        - stealth
+        - oval
+        - diamond
+        - open
+    AIArrowheadLength:
+      type: string
+      enum:
+        - arrowheadLengthShort
+        - arrowheadLengthMedium
+        - arrowheadLengthLong
+    AIArrowheadWidth:
+      type: string
+      enum:
+        - arrowheadWidthNarrow
+        - arrowheadWidthMedium
+        - arrowheadWidthWide
+    AILineStyle:
+      type: object
+      properties:
+        width:
+          type: number
+          minimum: 0
+        color:
+          type: string
+        dashStyle:
+          $ref: "#/components/schemas/AILineDashStyle"
+        beginArrowStyle:
+          $ref: "#/components/schemas/AIArrowheadStyle"
+        beginArrowLength:
+          $ref: "#/components/schemas/AIArrowheadLength"
+        beginArrowWidth:
+          $ref: "#/components/schemas/AIArrowheadWidth"
+        endArrowStyle:
+          $ref: "#/components/schemas/AIArrowheadStyle"
+        endArrowLength:
+          $ref: "#/components/schemas/AIArrowheadLength"
+        endArrowWidth:
+          $ref: "#/components/schemas/AIArrowheadWidth"
+    AIConnectorType:
+      type: string
+      enum:
+        - curvedConnector3
+        - bentConnector3
+        - line
+        - UNKNOWN
+    AIConnectionPointSchema:
+      type: object
+      properties:
+        id:
+          type: string
+          description: ID of the shape to connect to.
+        placement:
+          type: number
+          minimum: 0
+          maximum: 8
+          description: |-
+            Connection point index (0-8). For rectangles and images, only 0-3 are valid.
+                                0: Top
+                                1: Left
+                                2: Bottom
+                                3: Right
+                                4: Top-left corner
+                                5: Top-right corner
+                                6: Bottom-left corner
+                                7: Bottom-right corner
+                                8: Center
+                            If omitted, the default connection point may be used.
+      required:
+        - id
+      description: >-
+        Describes a connection point on a shape for connectors. The 'id' references the target shape, and 'placement'
+        specifies which anchor point on that shape to connect to.
+    AIAddedLineShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - line
+            style:
+              $ref: "#/components/schemas/AILineStyle"
+            inheritFrom:
+              type: string
+            lineType:
+              $ref: "#/components/schemas/AIConnectorType"
+            startFrom:
+              $ref: "#/components/schemas/AIConnectionPointSchema"
+            startPos:
+              $ref: "#/components/schemas/AIPos"
+            endFrom:
+              $ref: "#/components/schemas/AIConnectionPointSchema"
+            endPos:
+              $ref: "#/components/schemas/AIPos"
+          required:
+            - lineType
+    AIAddedGroupShape:
+      allOf:
+        - $ref: "#/components/schemas/AIAddedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - group
+            items:
+              type: array
+              items:
+                type: string
+          required:
+            - items
+    AIAddedShapeSchema:
+      oneOf:
+        - $ref: "#/components/schemas/AIAddedImageShape"
+        - $ref: "#/components/schemas/AIAddedAutoShape"
+        - $ref: "#/components/schemas/AIAddedTextboxShape"
+        - $ref: "#/components/schemas/AIAddedChartShape"
+        - $ref: "#/components/schemas/AIAddedIconShape"
+        - $ref: "#/components/schemas/AIAddedLineShape"
+        - $ref: "#/components/schemas/AIAddedGroupShape"
+      discriminator:
+        propertyName: shapeType
+        mapping:
+          image: "#/components/schemas/AIAddedImageShape"
+          autoShape: "#/components/schemas/AIAddedAutoShape"
+          textbox: "#/components/schemas/AIAddedTextboxShape"
+          chart: "#/components/schemas/AIAddedChartShape"
+          icon: "#/components/schemas/AIAddedIconShape"
+          line: "#/components/schemas/AIAddedLineShape"
+          group: "#/components/schemas/AIAddedGroupShape"
+    AIUpdatedLineShape:
+      allOf:
+        - $ref: "#/components/schemas/AIUpdatedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - line
+            style:
+              $ref: "#/components/schemas/AILineStyle"
+            lineType:
+              $ref: "#/components/schemas/AIConnectorType"
+            startFrom:
+              $ref: "#/components/schemas/AIConnectionPointSchema"
+            startPos:
+              $ref: "#/components/schemas/AIPos"
+            endFrom:
+              $ref: "#/components/schemas/AIConnectionPointSchema"
+            endPos:
+              $ref: "#/components/schemas/AIPos"
+    AIUpdatedTextboxShape:
+      allOf:
+        - $ref: "#/components/schemas/AIUpdatedShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - textbox
+            pos:
+              $ref: "#/components/schemas/AIPos"
+            size:
+              $ref: "#/components/schemas/AISize"
+            rotation:
+              type: number
+            markdown:
+              type: string
+            fontInfo:
+              $ref: "#/components/schemas/AIFontInfoInput"
+    AIUpdatedShapeSchema:
+      oneOf:
+        - $ref: "#/components/schemas/AIUpdatedLineShape"
+        - $ref: "#/components/schemas/AIUpdatedAutoShape"
+        - $ref: "#/components/schemas/AIUpdatedTextboxShape"
+      discriminator:
+        propertyName: shapeType
+        mapping:
+          line: "#/components/schemas/AIUpdatedLineShape"
+          autoShape: "#/components/schemas/AIUpdatedAutoShape"
+          textbox: "#/components/schemas/AIUpdatedTextboxShape"
+    AIShapeBase:
+      type: object
+      properties:
+        id:
+          type: string
+      required:
+        - id
+    AIDeleteGroupShape:
+      allOf:
+        - $ref: "#/components/schemas/AIShapeBase"
+        - type: object
+          properties:
+            shapeType:
+              type: string
+              enum:
+                - group
+            unloadItems:
+              type: boolean
+              default: true
+          required:
+            - shapeType
+    AIDeletedShapeBase:
+      type: object
+      properties:
+        id:
+          type: string
+      required:
+        - id
+    AIDeletedShapeSchema:
+      anyOf:
+        - $ref: "#/components/schemas/AIDeleteGroupShape"
+        - $ref: "#/components/schemas/AIDeletedShapeBase"
+    AIChangesetSchema:
+      type: object
+      properties:
+        added:
+          type: array
+          items:
+            $ref: "#/components/schemas/AIAddedShapeSchema"
+        modified:
+          type: array
+          items:
+            $ref: "#/components/schemas/AIUpdatedShapeSchema"
+        deleted:
+          type: array
+          items:
+            $ref: "#/components/schemas/AIDeletedShapeSchema"
+  parameters: {}
+paths: {}
+webhooks: {}

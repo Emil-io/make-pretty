@@ -1,0 +1,1 @@
+Can you please edit the two trapeze so that the slope of their sides is the same as the triangle on top? Then please resize the trapeze so that they align with the triangle and create a pyramid.

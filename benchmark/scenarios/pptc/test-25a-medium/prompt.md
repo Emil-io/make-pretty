@@ -1,0 +1,1 @@
+Delete the Line and text on the right and align and distribute the three "columns" of content ("Powerpoint" column in the center) so that they fill the slide.

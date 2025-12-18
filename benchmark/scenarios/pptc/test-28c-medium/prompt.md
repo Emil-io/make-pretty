@@ -1,0 +1,1 @@
+Pls align the middle picture and border with the other two (maybe resize the picture accordingly).

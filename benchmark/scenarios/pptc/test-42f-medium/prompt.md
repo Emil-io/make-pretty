@@ -1,0 +1,1 @@
+Pls align the pricing features. Pls also make the box perfectly surround the word "Pricing".

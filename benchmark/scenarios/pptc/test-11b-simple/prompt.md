@@ -1,0 +1,1 @@
+Please move everything in this slide up (except for the most outer border) as it is too narrow to the bottom right now.

@@ -1,0 +1,251 @@
+{
+    "affected_layout": "Main Content Area",
+    "current_boundaries": [[0, 90], [1280, 660]],
+    "proposed_change": {
+      "new_type": "column",
+      "updated_sublayouts": [
+        {
+          "name": "Header Row",
+          "type": "row",
+          "boundaries": [[0, 90], [1280, 130]],
+          "sublayouts": [
+            {
+              "name": "Measures Header",
+              "type": "group",
+              "boundaries": [[0, 90], [300, 130]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "8",
+                  "topLeft": [54, 99],
+                  "size": [240, 26]
+                }
+              ]
+            },
+            {
+              "name": "Rationale Header",
+              "type": "group",
+              "boundaries": [[300, 90], [1080, 130]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "13",
+                  "topLeft": [312, 99],
+                  "size": [768, 26]
+                }
+              ]
+            },
+            {
+              "name": "New Column Header",
+              "type": "group",
+              "boundaries": [[1080, 90], [1280, 130]],
+              "sublayouts": [],
+              "shapes": []
+            }
+          ]
+        },
+        {
+          "name": "Content Row 1 (North America)",
+          "type": "row",
+          "boundaries": [[0, 130], [1280, 235]],
+          "sublayouts": [
+            {
+              "name": "Measure 1",
+              "type": "group",
+              "boundaries": [[0, 130], [300, 235]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "15",
+                  "topLeft": [54, 133],
+                  "size": [240, 92]
+                }
+              ]
+            },
+            {
+              "name": "Rationale 1",
+              "type": "group",
+              "boundaries": [[300, 130], [1080, 235]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "14",
+                  "topLeft": [313, 133],
+                  "size": [767, 72]
+                }
+              ]
+            },
+            {
+              "name": "New Column 1",
+              "type": "group",
+              "boundaries": [[1080, 130], [1280, 235]],
+              "sublayouts": [],
+              "shapes": []
+            }
+          ]
+        },
+        {
+          "name": "Content Row 2 (Express and courier services)",
+          "type": "row",
+          "boundaries": [[0, 235], [1280, 345]],
+          "sublayouts": [
+            {
+              "name": "Measure 2",
+              "type": "group",
+              "boundaries": [[0, 235], [300, 345]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "24",
+                  "topLeft": [54, 243],
+                  "size": [240, 92]
+                }
+              ]
+            },
+            {
+              "name": "Rationale 2",
+              "type": "group",
+              "boundaries": [[300, 235], [1080, 345]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "23",
+                  "topLeft": [313, 243],
+                  "size": [767, 72]
+                }
+              ]
+            },
+            {
+              "name": "New Column 2",
+              "type": "group",
+              "boundaries": [[1080, 235], [1280, 345]],
+              "sublayouts": [],
+              "shapes": []
+            }
+          ]
+        },
+        {
+          "name": "Content Row 3 (NLP and other unstructured analysis)",
+          "type": "row",
+          "boundaries": [[0, 345], [1280, 455]],
+          "sublayouts": [
+            {
+              "name": "Measure 3",
+              "type": "group",
+              "boundaries": [[0, 345], [300, 455]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "17",
+                  "topLeft": [54, 353],
+                  "size": [240, 92]
+                }
+              ]
+            },
+            {
+              "name": "Rationale 3",
+              "type": "group",
+              "boundaries": [[300, 345], [1080, 455]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "16",
+                  "topLeft": [312, 353],
+                  "size": [768, 72]
+                }
+              ]
+            },
+            {
+              "name": "New Column 3",
+              "type": "group",
+              "boundaries": [[1080, 345], [1280, 455]],
+              "sublayouts": [],
+              "shapes": []
+            }
+          ]
+        },
+        {
+          "name": "Content Row 4 (Asia Pacific)",
+          "type": "row",
+          "boundaries": [[0, 455], [1280, 565]],
+          "sublayouts": [
+            {
+              "name": "Measure 4",
+              "type": "group",
+              "boundaries": [[0, 455], [300, 565]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "19",
+                  "topLeft": [54, 463],
+                  "size": [240, 92]
+                }
+              ]
+            },
+            {
+              "name": "Rationale 4",
+              "type": "group",
+              "boundaries": [[300, 455], [1080, 565]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "18",
+                  "topLeft": [313, 463],
+                  "size": [767, 48]
+                }
+              ]
+            },
+            {
+              "name": "New Column 4",
+              "type": "group",
+              "boundaries": [[1080, 455], [1280, 565]],
+              "sublayouts": [],
+              "shapes": []
+            }
+          ]
+        },
+        {
+          "name": "Content Row 5 (Coal mining)",
+          "type": "row",
+          "boundaries": [[0, 565], [1280, 660]],
+          "sublayouts": [
+            {
+              "name": "Measure 5",
+              "type": "group",
+              "boundaries": [[0, 565], [300, 660]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "21",
+                  "topLeft": [54, 573],
+                  "size": [240, 92]
+                }
+              ]
+            },
+            {
+              "name": "Rationale 5",
+              "type": "group",
+              "boundaries": [[300, 565], [1080, 660]],
+              "sublayouts": [],
+              "shapes": [
+                {
+                  "id": "20",
+                  "topLeft": [313, 573],
+                  "size": [767, 48]
+                }
+              ]
+            },
+            {
+              "name": "New Column 5",
+              "type": "group",
+              "boundaries": [[1080, 565], [1280, 660]],
+              "sublayouts": [],
+              "shapes": []
+            }
+          ]
+        }
+      ],
+      "notes": "Resized the 'Rationale' column in each row to accommodate a new 200px wide column on the right. The 'Measures' column width remains 300px. The 'Rationale' column is now 780px wide. The new column is 200px wide."
+    },
+    "deleted": []
+  }

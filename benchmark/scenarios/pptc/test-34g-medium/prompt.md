@@ -1,0 +1,1 @@
+Please align the text boxes of the SWOT (Headings aligned, text boxes aligned).

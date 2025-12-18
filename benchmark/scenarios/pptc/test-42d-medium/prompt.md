@@ -1,0 +1,1 @@
+Pls align the layout with all the icons and text below it!

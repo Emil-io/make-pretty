@@ -1,0 +1,1 @@
+The percent values on the left are wrong, the biggest circle is only 60% and the smallest one is actualy 40%. Please change the values and also make sure to rescale their circles proportionally.asA

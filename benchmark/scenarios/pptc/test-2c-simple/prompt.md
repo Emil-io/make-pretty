@@ -1,0 +1,1 @@
+The texts on the right are too small, increase.

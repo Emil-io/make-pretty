@@ -1,0 +1,214 @@
+{
+  "id": 266,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Can we change the layout?",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Can we change the layout?</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rounded Rectangle 5",
+      "pos": {
+        "topLeft": [
+          88.2,
+          277.2
+        ],
+        "bottomRight": [
+          308.8,
+          450.5
+        ],
+        "center": [
+          198.5,
+          363.9
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Box Left 1</span></p>\n</root>",
+        "rawText": "Box Left 1",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rounded Rectangle 6",
+      "pos": {
+        "topLeft": [
+          363.6,
+          277.2
+        ],
+        "bottomRight": [
+          584.2,
+          450.5
+        ],
+        "center": [
+          473.9,
+          363.9
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Box Left 2</span></p>\n</root>",
+        "rawText": "Box Left 2",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Rounded Rectangle 8",
+      "pos": {
+        "topLeft": [
+          696.0,
+          275.3
+        ],
+        "bottomRight": [
+          916.6,
+          448.6
+        ],
+        "center": [
+          806.3,
+          362.0
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Box Right 1</span></p>\n</root>",
+        "rawText": "Box Right 1",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rounded Rectangle 10",
+      "pos": {
+        "topLeft": [
+          971.4,
+          273.3
+        ],
+        "bottomRight": [
+          1192.0,
+          446.6
+        ],
+        "center": [
+          1081.7,
+          360.0
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Box Right 2</span></p>\n</root>",
+        "rawText": "Box Right 2",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the three boxes”"
+  }
+}

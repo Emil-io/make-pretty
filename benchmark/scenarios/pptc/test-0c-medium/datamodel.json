@@ -1,0 +1,278 @@
+{
+  "id": 278,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 290,
+      "name": "Google Shape;290;p14",
+      "pos": {
+        "topLeft": [
+          989.5,
+          159.9
+        ],
+        "bottomRight": [
+          1780.0,
+          1001.9
+        ],
+        "center": [
+          1384.8,
+          580.9
+        ]
+      },
+      "size": {
+        "w": 790.5,
+        "h": 842.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 291,
+      "name": "Google Shape;291;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          138.3
+        ],
+        "bottomRight": [
+          960.0,
+          272.5
+        ],
+        "center": [
+          534.0,
+          205.4
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 134.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Get In Touch",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#B171D4\" font=\"Ubuntu\" line-height=\"1.11997\" size=\"83.02\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Get In Touch</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 292,
+      "name": "Google Shape;292;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          432.3
+        ],
+        "bottomRight": [
+          960.0,
+          972.0
+        ],
+        "center": [
+          534.0,
+          702.2
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 539.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "293",
+        "294",
+        "295",
+        "296",
+        "297",
+        "298"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Google Shape;293;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          432.3
+        ],
+        "bottomRight": [
+          960.0,
+          471.0
+        ],
+        "center": [
+          534.0,
+          451.7
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 38.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Email ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#000000\" font=\"Ubuntu\" line-height=\"1.19958\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Email </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 294,
+      "name": "Google Shape;294;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          480.3
+        ],
+        "bottomRight": [
+          960.0,
+          519.0
+        ],
+        "center": [
+          534.0,
+          499.7
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 38.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "hello@reallygreatsite.com",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Ubuntu\" line-height=\"1.19958\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">hello@reallygreatsite.com</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 295,
+      "name": "Google Shape;295;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          658.8
+        ],
+        "bottomRight": [
+          960.0,
+          697.5
+        ],
+        "center": [
+          534.0,
+          678.2
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 38.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Social Media ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#000000\" font=\"Ubuntu\" line-height=\"1.19958\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Social Media </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 296,
+      "name": "Google Shape;296;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          706.8
+        ],
+        "bottomRight": [
+          960.0,
+          745.5
+        ],
+        "center": [
+          534.0,
+          726.2
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 38.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "@reallygreatsite",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Ubuntu\" line-height=\"1.19958\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">@reallygreatsite</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 297,
+      "name": "Google Shape;297;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          885.2
+        ],
+        "bottomRight": [
+          960.0,
+          923.9
+        ],
+        "center": [
+          534.0,
+          904.6
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 38.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Call us ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#000000\" font=\"Ubuntu\" line-height=\"1.19958\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Call us </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 298,
+      "name": "Google Shape;298;p14",
+      "pos": {
+        "topLeft": [
+          108.0,
+          933.2
+        ],
+        "bottomRight": [
+          960.0,
+          971.9
+        ],
+        "center": [
+          534.0,
+          952.6
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 38.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "123-456-7890",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Ubuntu\" line-height=\"1.19958\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">123-456-7890</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ]
+}

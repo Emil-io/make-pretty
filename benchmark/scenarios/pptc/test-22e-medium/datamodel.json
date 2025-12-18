@@ -1,0 +1,767 @@
+{
+  "id": 305,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 469,
+      "name": "Google Shape;469;p43",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 469,
+        "name": "Google Shape;469;p43",
+        "pos": {
+          "topLeft": [
+            97.7,
+            93.0
+          ],
+          "bottomRight": [
+            862.3,
+            131.2
+          ],
+          "center": [
+            480.0,
+            112.1
+          ]
+        },
+        "size": {
+          "w": 764.6,
+          "h": 38.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Funnel",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\" wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" font=\"Ubuntu\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Funnel</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 470,
+      "name": "Google Shape;470;p43",
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 470,
+        "name": "Google Shape;470;p43",
+        "pos": {
+          "topLeft": [
+            862.3,
+            446.0
+          ],
+          "bottomRight": [
+            911.2,
+            495.8
+          ],
+          "center": [
+            886.8,
+            470.9
+          ]
+        },
+        "size": {
+          "w": 48.9,
+          "h": 49.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "1",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"sldNum\" wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"right\" bold=\"true\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"16.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\">1</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 471,
+      "name": "Google Shape;471;p43",
+      "pos": {
+        "topLeft": [
+          97.7,
+          153.9
+        ],
+        "bottomRight": [
+          422.7,
+          446.1
+        ],
+        "center": [
+          260.2,
+          300.0
+        ]
+      },
+      "size": {
+        "w": 325.0,
+        "h": 292.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "472",
+        "473",
+        "474",
+        "475",
+        "476",
+        "477",
+        "478"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "Google Shape;472;p43",
+      "pos": {
+        "topLeft": [
+          178.2,
+          353.2
+        ],
+        "bottomRight": [
+          342.8,
+          403.1
+        ],
+        "center": [
+          260.5,
+          378.2
+        ]
+      },
+      "size": {
+        "w": 164.6,
+        "h": 49.9
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#39B8E3"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">PURCHASE</span></p>\n</root>",
+        "rawText": "PURCHASE",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 473,
+      "name": "Google Shape;473;p43",
+      "pos": {
+        "topLeft": [
+          198.5,
+          397.2
+        ],
+        "bottomRight": [
+          322.6,
+          446.0
+        ],
+        "center": [
+          260.6,
+          421.6
+        ]
+      },
+      "size": {
+        "w": 124.1,
+        "h": 48.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#412D8C"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">LOYALTY</span></p>\n</root>",
+        "rawText": "LOYALTY",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 474,
+      "name": "Google Shape;474;p43",
+      "pos": {
+        "topLeft": [
+          98.4,
+          180.3
+        ],
+        "bottomRight": [
+          422.7,
+          232.3
+        ],
+        "center": [
+          260.6,
+          206.3
+        ]
+      },
+      "size": {
+        "w": 324.3,
+        "h": 52.0
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#E9204E"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">AWARENESS</span></p>\n</root>",
+        "rawText": "AWARENESS",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 475,
+      "name": "Google Shape;475;p43",
+      "pos": {
+        "topLeft": [
+          138.3,
+          266.7
+        ],
+        "bottomRight": [
+          382.8,
+          317.5
+        ],
+        "center": [
+          260.6,
+          292.1
+        ]
+      },
+      "size": {
+        "w": 244.5,
+        "h": 50.8
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#FCB42E"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">EVALUATION</span></p>\n</root>",
+        "rawText": "EVALUATION",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 476,
+      "name": "Google Shape;476;p43",
+      "pos": {
+        "topLeft": [
+          118.6,
+          223.5
+        ],
+        "bottomRight": [
+          402.7,
+          275.0
+        ],
+        "center": [
+          260.7,
+          249.3
+        ]
+      },
+      "size": {
+        "w": 284.1,
+        "h": 51.5
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#ED4636"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">DISCOVERY</span></p>\n</root>",
+        "rawText": "DISCOVERY",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 477,
+      "name": "Google Shape;477;p43",
+      "pos": {
+        "topLeft": [
+          158.1,
+          309.9
+        ],
+        "bottomRight": [
+          362.8,
+          360.5
+        ],
+        "center": [
+          260.5,
+          335.2
+        ]
+      },
+      "size": {
+        "w": 204.7,
+        "h": 50.6
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#94C486"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">INTENT</span></p>\n</root>",
+        "rawText": "INTENT",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 478,
+      "name": "Google Shape;478;p43",
+      "pos": {
+        "topLeft": [
+          97.7,
+          153.9
+        ],
+        "bottomRight": [
+          422.2,
+          189.6
+        ],
+        "center": [
+          260.0,
+          171.8
+        ]
+      },
+      "size": {
+        "w": 324.5,
+        "h": 35.7
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#E9DDEC"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            7.2,
+            7.2,
+            3.6,
+            3.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 479,
+      "name": "Google Shape;479;p43",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EA9999",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        415.5,
+        202.2
+      ],
+      "endPos": [
+        510.7,
+        202.2
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Google Shape;480;p43",
+      "pos": {
+        "topLeft": [
+          537.3,
+          155.9
+        ],
+        "bottomRight": [
+          788.3,
+          186.9
+        ],
+        "center": [
+          662.8,
+          171.4
+        ]
+      },
+      "size": {
+        "w": 251.0,
+        "h": 31.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Insert your content",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" cap=\"none\" color=\"#0D0335\" font=\"Ubuntu\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Insert your content</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 481,
+      "name": "Google Shape;481;p43",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#DD7E6B",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        401.5,
+        245.6
+      ],
+      "endPos": [
+        510.7,
+        245.6
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Google Shape;482;p43",
+      "pos": {
+        "topLeft": [
+          516.2,
+          230.1
+        ],
+        "bottomRight": [
+          767.2,
+          261.1
+        ],
+        "center": [
+          641.7,
+          245.6
+        ]
+      },
+      "size": {
+        "w": 251.0,
+        "h": 31.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Insert your content",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" cap=\"none\" color=\"#0D0335\" font=\"Ubuntu\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Insert your content</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 483,
+      "name": "Google Shape;483;p43",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#FCB42E",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        381.5,
+        289.0
+      ],
+      "endPos": [
+        510.6,
+        289.0
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Google Shape;484;p43",
+      "pos": {
+        "topLeft": [
+          516.2,
+          273.5
+        ],
+        "bottomRight": [
+          767.2,
+          304.5
+        ],
+        "center": [
+          641.7,
+          289.0
+        ]
+      },
+      "size": {
+        "w": 251.0,
+        "h": 31.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Insert your content",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" cap=\"none\" color=\"#0D0335\" font=\"Ubuntu\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Insert your content</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 485,
+      "name": "Google Shape;485;p43",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#94C486",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        364.6,
+        353.2
+      ],
+      "endPos": [
+        510.7,
+        353.2
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Google Shape;486;p43",
+      "pos": {
+        "topLeft": [
+          516.2,
+          316.9
+        ],
+        "bottomRight": [
+          767.2,
+          347.9
+        ],
+        "center": [
+          641.7,
+          332.4
+        ]
+      },
+      "size": {
+        "w": 251.0,
+        "h": 31.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Insert your content",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" cap=\"none\" color=\"#0D0335\" font=\"Ubuntu\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Insert your content</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 487,
+      "name": "Google Shape;487;p43",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#39B8E3",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        346.1,
+        375.8
+      ],
+      "endPos": [
+        510.7,
+        375.8
+      ]
+    },
+    {
+      "id": 488,
+      "name": "Google Shape;488;p43",
+      "pos": {
+        "topLeft": [
+          617.2,
+          366.3
+        ],
+        "bottomRight": [
+          868.2,
+          397.3
+        ],
+        "center": [
+          742.7,
+          381.8
+        ]
+      },
+      "size": {
+        "w": 251.0,
+        "h": 31.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Insert your content",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" cap=\"none\" color=\"#0D0335\" font=\"Ubuntu\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Insert your content</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 489,
+      "name": "Google Shape;489;p43",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#412D8C",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        324.0,
+        446.1
+      ],
+      "endPos": [
+        507.0,
+        446.1
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Google Shape;490;p43",
+      "pos": {
+        "topLeft": [
+          516.2,
+          403.6
+        ],
+        "bottomRight": [
+          767.2,
+          434.6
+        ],
+        "center": [
+          641.7,
+          419.1
+        ]
+      },
+      "size": {
+        "w": 251.0,
+        "h": 31.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Insert your content",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" cap=\"none\" color=\"#0D0335\" font=\"Ubuntu\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Insert your content</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    }
+  ]
+}

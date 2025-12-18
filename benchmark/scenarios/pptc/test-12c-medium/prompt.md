@@ -1,0 +1,1 @@
+The icons on the right half of the screen are not in a grid. Please make a grid out of them. I don't exactly know the dimensions of the grid, it should be somewhat quadratic (perhaps a bit wider than high), please count the number of icons and find a good dimension for the grid, then put all the icons into it.

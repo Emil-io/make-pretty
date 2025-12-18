@@ -1,0 +1,1 @@
+Pls delete the middle bar columns (the golden ones), and add a 5th group with 2 columns.

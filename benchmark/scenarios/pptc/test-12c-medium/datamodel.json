@@ -1,0 +1,1242 @@
+{
+  "id": 281,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 471,
+      "name": "Google Shape;471;p38",
+      "pos": {
+        "topLeft": [
+          98.4,
+          117.4
+        ],
+        "bottomRight": [
+          548.5,
+          358.4
+        ],
+        "center": [
+          323.5,
+          237.9
+        ]
+      },
+      "size": {
+        "w": 450.1,
+        "h": 241.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Resource \nPage",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Zilla Slab Medium\" line-height=\"1.2\" size=\"75.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Resource </span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Zilla Slab Medium\" line-height=\"1.2\" size=\"75.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Page</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 472,
+      "name": "Google Shape;472;p38",
+      "pos": {
+        "topLeft": [
+          98.4,
+          738.1
+        ],
+        "bottomRight": [
+          629.5,
+          972.0
+        ],
+        "center": [
+          364.0,
+          855.1
+        ]
+      },
+      "size": {
+        "w": 531.1,
+        "h": 233.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Use these design resources\nin your Canva Presentation.\nHappy designing! \n\nDon't forget to delete this\npage before presenting. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Use these design resources</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">in your Canva Presentation.</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Happy designing! </span></p>\n<br/>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Don't forget to delete this</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">page before presenting. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 473,
+      "name": "Google Shape;473;p38",
+      "pos": {
+        "topLeft": [
+          1760.0,
+          692.7
+        ],
+        "bottomRight": [
+          1831.4,
+          827.2
+        ],
+        "center": [
+          1795.7,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 71.4,
+        "h": 134.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 474,
+      "name": "Google Shape;474;p38",
+      "pos": {
+        "topLeft": [
+          1342.7,
+          125.6
+        ],
+        "bottomRight": [
+          1389.4,
+          242.3
+        ],
+        "center": [
+          1366.1,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 46.7,
+        "h": 116.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 475,
+      "name": "Google Shape;475;p38",
+      "pos": {
+        "topLeft": [
+          1576.4,
+          853.4
+        ],
+        "bottomRight": [
+          1657.8,
+          1011.1
+        ],
+        "center": [
+          1617.1,
+          932.3
+        ]
+      },
+      "size": {
+        "w": 81.4,
+        "h": 157.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 476,
+      "name": "Google Shape;476;p38",
+      "pos": {
+        "topLeft": [
+          656.7,
+          98.6
+        ],
+        "bottomRight": [
+          777.2,
+          269.4
+        ],
+        "center": [
+          717.0,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 120.5,
+        "h": 170.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 477,
+      "name": "Google Shape;477;p38",
+      "pos": {
+        "topLeft": [
+          917.2,
+          71.3
+        ],
+        "bottomRight": [
+          1023.8,
+          296.7
+        ],
+        "center": [
+          970.5,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 106.6,
+        "h": 225.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 478,
+      "name": "Google Shape;478;p38",
+      "pos": {
+        "topLeft": [
+          1422.7,
+          102.4
+        ],
+        "bottomRight": [
+          1501.6,
+          265.6
+        ],
+        "center": [
+          1462.2,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 78.9,
+        "h": 163.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 479,
+      "name": "Google Shape;479;p38",
+      "pos": {
+        "topLeft": [
+          810.5,
+          83.5
+        ],
+        "bottomRight": [
+          883.9,
+          284.4
+        ],
+        "center": [
+          847.2,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 73.4,
+        "h": 200.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 480,
+      "name": "Google Shape;480;p38",
+      "pos": {
+        "topLeft": [
+          1240.1,
+          490.1
+        ],
+        "bottomRight": [
+          1350.5,
+          643.9
+        ],
+        "center": [
+          1295.3,
+          567.0
+        ]
+      },
+      "size": {
+        "w": 110.4,
+        "h": 153.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 481,
+      "name": "Google Shape;481;p38",
+      "pos": {
+        "topLeft": [
+          1057.1,
+          116.1
+        ],
+        "bottomRight": [
+          1168.7,
+          251.9
+        ],
+        "center": [
+          1112.9,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 111.6,
+        "h": 135.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 482,
+      "name": "Google Shape;482;p38",
+      "pos": {
+        "topLeft": [
+          1162.9,
+          282.9
+        ],
+        "bottomRight": [
+          1241.1,
+          480.2
+        ],
+        "center": [
+          1202.0,
+          381.5
+        ]
+      },
+      "size": {
+        "w": 78.2,
+        "h": 197.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 483,
+      "name": "Google Shape;483;p38",
+      "pos": {
+        "topLeft": [
+          662.6,
+          683.6
+        ],
+        "bottomRight": [
+          777.5,
+          836.3
+        ],
+        "center": [
+          720.1,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 114.9,
+        "h": 152.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 484,
+      "name": "Google Shape;484;p38",
+      "pos": {
+        "topLeft": [
+          660.8,
+          313.0
+        ],
+        "bottomRight": [
+          770.0,
+          450.1
+        ],
+        "center": [
+          715.4,
+          381.6
+        ]
+      },
+      "size": {
+        "w": 109.2,
+        "h": 137.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 485,
+      "name": "Google Shape;485;p38",
+      "pos": {
+        "topLeft": [
+          1551.6,
+          495.1
+        ],
+        "bottomRight": [
+          1672.9,
+          638.9
+        ],
+        "center": [
+          1612.3,
+          567.0
+        ]
+      },
+      "size": {
+        "w": 121.3,
+        "h": 143.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 486,
+      "name": "Google Shape;486;p38",
+      "pos": {
+        "topLeft": [
+          1213.4,
+          862.1
+        ],
+        "bottomRight": [
+          1283.5,
+          1002.4
+        ],
+        "center": [
+          1248.5,
+          932.3
+        ]
+      },
+      "size": {
+        "w": 70.1,
+        "h": 140.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 487,
+      "name": "Google Shape;487;p38",
+      "pos": {
+        "topLeft": [
+          1377.0,
+          860.1
+        ],
+        "bottomRight": [
+          1482.9,
+          1004.3
+        ],
+        "center": [
+          1430.0,
+          932.2
+        ]
+      },
+      "size": {
+        "w": 105.9,
+        "h": 144.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 488,
+      "name": "Google Shape;488;p38",
+      "pos": {
+        "topLeft": [
+          677.5,
+          876.9
+        ],
+        "bottomRight": [
+          762.6,
+          987.5
+        ],
+        "center": [
+          720.1,
+          932.2
+        ]
+      },
+      "size": {
+        "w": 85.1,
+        "h": 110.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 489,
+      "name": "Google Shape;489;p38",
+      "pos": {
+        "topLeft": [
+          1459.7,
+          336.0
+        ],
+        "bottomRight": [
+          1524.3,
+          427.1
+        ],
+        "center": [
+          1492.0,
+          381.6
+        ]
+      },
+      "size": {
+        "w": 64.6,
+        "h": 91.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 490,
+      "name": "Google Shape;490;p38",
+      "pos": {
+        "topLeft": [
+          1724.9,
+          508.3
+        ],
+        "bottomRight": [
+          1842.4,
+          625.8
+        ],
+        "center": [
+          1783.7,
+          567.1
+        ]
+      },
+      "size": {
+        "w": 117.5,
+        "h": 117.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 491,
+      "name": "Google Shape;491;p38",
+      "pos": {
+        "topLeft": [
+          1402.5,
+          485.7
+        ],
+        "bottomRight": [
+          1499.5,
+          648.3
+        ],
+        "center": [
+          1451.0,
+          567.0
+        ]
+      },
+      "size": {
+        "w": 97.0,
+        "h": 162.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 492,
+      "name": "Google Shape;492;p38",
+      "pos": {
+        "topLeft": [
+          1327.6,
+          333.2
+        ],
+        "bottomRight": [
+          1373.2,
+          430.0
+        ],
+        "center": [
+          1350.4,
+          381.6
+        ]
+      },
+      "size": {
+        "w": 45.6,
+        "h": 96.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 493,
+      "name": "Google Shape;493;p38",
+      "pos": {
+        "topLeft": [
+          1751.3,
+          856.9
+        ],
+        "bottomRight": [
+          1822.5,
+          1007.6
+        ],
+        "center": [
+          1786.9,
+          932.3
+        ]
+      },
+      "size": {
+        "w": 71.2,
+        "h": 150.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 494,
+      "name": "Google Shape;494;p38",
+      "pos": {
+        "topLeft": [
+          1751.3,
+          316.9
+        ],
+        "bottomRight": [
+          1821.8,
+          446.2
+        ],
+        "center": [
+          1786.6,
+          381.5
+        ]
+      },
+      "size": {
+        "w": 70.5,
+        "h": 129.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 495,
+      "name": "Google Shape;495;p38",
+      "pos": {
+        "topLeft": [
+          1610.8,
+          324.0
+        ],
+        "bottomRight": [
+          1664.8,
+          439.1
+        ],
+        "center": [
+          1637.8,
+          381.6
+        ]
+      },
+      "size": {
+        "w": 54.0,
+        "h": 115.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 496,
+      "name": "Google Shape;496;p38",
+      "pos": {
+        "topLeft": [
+          1029.5,
+          315.6
+        ],
+        "bottomRight": [
+          1076.5,
+          447.4
+        ],
+        "center": [
+          1053.0,
+          381.5
+        ]
+      },
+      "size": {
+        "w": 47.0,
+        "h": 131.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 497,
+      "name": "Google Shape;497;p38",
+      "pos": {
+        "topLeft": [
+          1735.1,
+          87.2
+        ],
+        "bottomRight": [
+          1837.9,
+          280.8
+        ],
+        "center": [
+          1786.5,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 102.8,
+        "h": 193.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 498,
+      "name": "Google Shape;498;p38",
+      "pos": {
+        "topLeft": [
+          856.4,
+          324.7
+        ],
+        "bottomRight": [
+          942.9,
+          438.3
+        ],
+        "center": [
+          899.7,
+          381.5
+        ]
+      },
+      "size": {
+        "w": 86.5,
+        "h": 113.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 499,
+      "name": "Google Shape;499;p38",
+      "pos": {
+        "topLeft": [
+          1558.0,
+          123.6
+        ],
+        "bottomRight": [
+          1678.8,
+          244.4
+        ],
+        "center": [
+          1618.4,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 120.8,
+        "h": 120.8
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 57.399883333333335
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 500,
+      "name": "Google Shape;500;p38",
+      "pos": {
+        "topLeft": [
+          988.0,
+          499.3
+        ],
+        "bottomRight": [
+          1165.7,
+          634.7
+        ],
+        "center": [
+          1076.9,
+          567.0
+        ]
+      },
+      "size": {
+        "w": 177.7,
+        "h": 135.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 501,
+      "name": "Google Shape;501;p38",
+      "pos": {
+        "topLeft": [
+          848.6,
+          730.4
+        ],
+        "bottomRight": [
+          956.4,
+          789.6
+        ],
+        "center": [
+          902.5,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 107.8,
+        "h": 59.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 502,
+      "name": "Google Shape;502;p38",
+      "pos": {
+        "topLeft": [
+          1322.1,
+          717.3
+        ],
+        "bottomRight": [
+          1407.5,
+          802.7
+        ],
+        "center": [
+          1364.8,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 85.4,
+        "h": 85.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 503,
+      "name": "Google Shape;503;p38",
+      "pos": {
+        "topLeft": [
+          846.1,
+          862.1
+        ],
+        "bottomRight": [
+          931.8,
+          1002.4
+        ],
+        "center": [
+          889.0,
+          932.3
+        ]
+      },
+      "size": {
+        "w": 85.7,
+        "h": 140.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 504,
+      "name": "Google Shape;504;p38",
+      "pos": {
+        "topLeft": [
+          1027.5,
+          695.9
+        ],
+        "bottomRight": [
+          1105.8,
+          824.1
+        ],
+        "center": [
+          1066.7,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 78.3,
+        "h": 128.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 505,
+      "name": "Google Shape;505;p38",
+      "pos": {
+        "topLeft": [
+          1015.2,
+          851.3
+        ],
+        "bottomRight": [
+          1112.9,
+          1002.2
+        ],
+        "center": [
+          1064.1,
+          926.8
+        ]
+      },
+      "size": {
+        "w": 97.7,
+        "h": 150.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 506,
+      "name": "Google Shape;506;p38",
+      "pos": {
+        "topLeft": [
+          1176.9,
+          697.0
+        ],
+        "bottomRight": [
+          1251.1,
+          822.9
+        ],
+        "center": [
+          1214.0,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 74.2,
+        "h": 125.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 507,
+      "name": "Google Shape;507;p38",
+      "pos": {
+        "topLeft": [
+          1481.4,
+          691.9
+        ],
+        "bottomRight": [
+          1540.1,
+          828.1
+        ],
+        "center": [
+          1510.8,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 58.7,
+        "h": 136.2
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 2.4643
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 508,
+      "name": "Google Shape;508;p38",
+      "pos": {
+        "topLeft": [
+          1614.1,
+          695.9
+        ],
+        "bottomRight": [
+          1688.9,
+          824.1
+        ],
+        "center": [
+          1651.5,
+          760.0
+        ]
+      },
+      "size": {
+        "w": 74.8,
+        "h": 128.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 509,
+      "name": "Google Shape;509;p38",
+      "pos": {
+        "topLeft": [
+          680.0,
+          488.4
+        ],
+        "bottomRight": [
+          760.1,
+          645.7
+        ],
+        "center": [
+          720.1,
+          567.1
+        ]
+      },
+      "size": {
+        "w": 80.1,
+        "h": 157.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 510,
+      "name": "Google Shape;510;p38",
+      "pos": {
+        "topLeft": [
+          812.2,
+          492.0
+        ],
+        "bottomRight": [
+          913.7,
+          642.1
+        ],
+        "center": [
+          863.0,
+          567.1
+        ]
+      },
+      "size": {
+        "w": 101.5,
+        "h": 150.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 511,
+      "name": "Google Shape;511;p38",
+      "pos": {
+        "topLeft": [
+          1202.0,
+          125.1
+        ],
+        "bottomRight": [
+          1309.4,
+          242.8
+        ],
+        "center": [
+          1255.7,
+          184.0
+        ]
+      },
+      "size": {
+        "w": 107.4,
+        "h": 117.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FBF4EB"
+  }
+}

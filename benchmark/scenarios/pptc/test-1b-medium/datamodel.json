@@ -1,0 +1,516 @@
+{
+  "id": 274,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 434,
+      "name": "Google Shape;434;p19",
+      "pos": {
+        "topLeft": [
+          78.0,
+          99.0
+        ],
+        "bottomRight": [
+          531.4,
+          428.4
+        ],
+        "center": [
+          304.7,
+          263.7
+        ]
+      },
+      "size": {
+        "w": 453.4,
+        "h": 329.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "435",
+        "436",
+        "437"
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Google Shape;435;p19",
+      "pos": {
+        "topLeft": [
+          234.5,
+          99.0
+        ],
+        "bottomRight": [
+          375.0,
+          211.3
+        ],
+        "center": [
+          304.8,
+          155.2
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 112.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "S",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">S</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 436,
+      "name": "Google Shape;436;p19",
+      "pos": {
+        "topLeft": [
+          136.4,
+          230.1
+        ],
+        "bottomRight": [
+          473.1,
+          276.7
+        ],
+        "center": [
+          304.8,
+          253.4
+        ]
+      },
+      "size": {
+        "w": 336.7,
+        "h": 46.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "STRENGTHS",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"27.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">STRENGTHS</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 437,
+      "name": "Google Shape;437;p19",
+      "pos": {
+        "topLeft": [
+          78.0,
+          304.8
+        ],
+        "bottomRight": [
+          531.4,
+          428.4
+        ],
+        "center": [
+          304.7,
+          366.6
+        ]
+      },
+      "size": {
+        "w": 453.4,
+        "h": 123.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are you doing well? \nWhat sets you apart?\nWhat are your good qualities?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are you doing well? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What sets you apart?</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are your good qualities?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 438,
+      "name": "Google Shape;438;p19",
+      "pos": {
+        "topLeft": [
+          587.7,
+          167.7
+        ],
+        "bottomRight": [
+          1332.4,
+          912.4
+        ],
+        "center": [
+          960.1,
+          540.1
+        ]
+      },
+      "size": {
+        "w": 744.7,
+        "h": 744.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 439,
+      "name": "Google Shape;439;p19",
+      "pos": {
+        "topLeft": [
+          51.5,
+          531.0
+        ],
+        "bottomRight": [
+          557.9,
+          909.9
+        ],
+        "center": [
+          304.7,
+          720.5
+        ]
+      },
+      "size": {
+        "w": 506.4,
+        "h": 378.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "440",
+        "441",
+        "442"
+      ]
+    },
+    {
+      "id": 440,
+      "name": "Google Shape;440;p19",
+      "pos": {
+        "topLeft": [
+          234.5,
+          531.0
+        ],
+        "bottomRight": [
+          375.0,
+          643.3
+        ],
+        "center": [
+          304.8,
+          587.2
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 112.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "W",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">W</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 441,
+      "name": "Google Shape;441;p19",
+      "pos": {
+        "topLeft": [
+          136.4,
+          662.1
+        ],
+        "bottomRight": [
+          473.1,
+          708.7
+        ],
+        "center": [
+          304.8,
+          685.4
+        ]
+      },
+      "size": {
+        "w": 336.7,
+        "h": 46.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "WEAKNESSES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"27.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">WEAKNESSES</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 442,
+      "name": "Google Shape;442;p19",
+      "pos": {
+        "topLeft": [
+          51.5,
+          744.3
+        ],
+        "bottomRight": [
+          557.9,
+          909.9
+        ],
+        "center": [
+          304.7,
+          827.1
+        ]
+      },
+      "size": {
+        "w": 506.4,
+        "h": 165.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Where do you need to improve? \nAre resources adequate?\nWhat do others do\nbetter than you?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Where do you need to improve? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Are resources adequate?</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What do others do</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">better than you?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 443,
+      "name": "Google Shape;443;p19",
+      "pos": {
+        "topLeft": [
+          1415.9,
+          99.0
+        ],
+        "bottomRight": [
+          1824.2,
+          436.4
+        ],
+        "center": [
+          1620.1,
+          267.7
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 337.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "444",
+        "445",
+        "446"
+      ]
+    },
+    {
+      "id": 444,
+      "name": "Google Shape;444;p19",
+      "pos": {
+        "topLeft": [
+          1549.8,
+          99.0
+        ],
+        "bottomRight": [
+          1690.3,
+          211.3
+        ],
+        "center": [
+          1620.1,
+          155.2
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 112.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "O",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">O</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 445,
+      "name": "Google Shape;445;p19",
+      "pos": {
+        "topLeft": [
+          1415.9,
+          230.1
+        ],
+        "bottomRight": [
+          1824.2,
+          276.7
+        ],
+        "center": [
+          1620.1,
+          253.4
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 46.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "OPPORTUNITIES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"27.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">OPPORTUNITIES</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 446,
+      "name": "Google Shape;446;p19",
+      "pos": {
+        "topLeft": [
+          1415.9,
+          312.8
+        ],
+        "bottomRight": [
+          1824.2,
+          436.4
+        ],
+        "center": [
+          1620.1,
+          374.6
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 123.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are your goals? \nAre demands shifting?\nHow can it be improved?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are your goals? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Are demands shifting?</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">How can it be improved?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 447,
+      "name": "Google Shape;447;p19",
+      "pos": {
+        "topLeft": [
+          1413.9,
+          550.1
+        ],
+        "bottomRight": [
+          1826.1,
+          929.0
+        ],
+        "center": [
+          1620.0,
+          739.6
+        ]
+      },
+      "size": {
+        "w": 412.2,
+        "h": 378.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "448",
+        "449",
+        "450"
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Google Shape;448;p19",
+      "pos": {
+        "topLeft": [
+          1549.8,
+          550.1
+        ],
+        "bottomRight": [
+          1690.3,
+          662.4
+        ],
+        "center": [
+          1620.1,
+          606.3
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 112.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "T",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">T</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 449,
+      "name": "Google Shape;449;p19",
+      "pos": {
+        "topLeft": [
+          1451.7,
+          681.3
+        ],
+        "bottomRight": [
+          1788.4,
+          727.9
+        ],
+        "center": [
+          1620.1,
+          704.6
+        ]
+      },
+      "size": {
+        "w": 336.7,
+        "h": 46.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "THREATS",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"27.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">THREATS</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 450,
+      "name": "Google Shape;450;p19",
+      "pos": {
+        "topLeft": [
+          1413.9,
+          763.4
+        ],
+        "bottomRight": [
+          1826.1,
+          929.0
+        ],
+        "center": [
+          1620.0,
+          846.2
+        ]
+      },
+      "size": {
+        "w": 412.2,
+        "h": 165.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are the blockers\nyou're facing? \nWhat are factors outside\nof your control?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are the blockers</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you're facing? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are factors outside</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">of your control?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#4054BB"
+  }
+}

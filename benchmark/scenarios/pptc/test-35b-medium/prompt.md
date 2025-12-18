@@ -1,0 +1,1 @@
+Please move the three boxes at the bottom up so that they fit on the slide (with enough spacing to the bottom and heading). If necessary pls reduce spaing inside the boxes (or resize) so that it fits.

@@ -1,0 +1,1 @@
+Please add a third shape in the same style, adjust sizing of all three accordingly and align them

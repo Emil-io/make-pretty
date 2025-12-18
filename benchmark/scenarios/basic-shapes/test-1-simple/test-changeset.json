@@ -1,0 +1,46 @@
+{
+    "modified": [
+      {
+        "shapeType": "autoShape",
+        "id": 4,
+        "pos": {
+          "center": [
+            257.0,
+            360.0
+          ]
+        },
+        "size": {
+          "w": 338.0,
+          "h": 508.0
+        }
+      },
+      {
+        "shapeType": "autoShape",
+        "id": 5,
+        "pos": {
+          "center": [
+            622.5,
+            360.0
+          ]
+        },
+        "size": {
+          "w": 338.0,
+          "h": 508.0
+        }
+      },
+      {
+        "shapeType": "autoShape",
+        "id": 6,
+        "pos": {
+          "center": [
+            988.0,
+            360.0
+          ]
+        },
+        "size": {
+          "w": 338.0,
+          "h": 508.0
+        }
+      }
+    ]
+  }

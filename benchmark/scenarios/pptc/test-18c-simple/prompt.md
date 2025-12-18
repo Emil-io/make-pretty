@@ -1,0 +1,1 @@
+Align the content horizontally WITHIN THE COLOURED BOX so that the space between the 'columns' is exactly equal to the space to the box border on both sides.

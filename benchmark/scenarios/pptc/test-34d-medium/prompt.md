@@ -1,0 +1,1 @@
+Please align the four pictures in one row (above the text boxes) - resize if necessary.

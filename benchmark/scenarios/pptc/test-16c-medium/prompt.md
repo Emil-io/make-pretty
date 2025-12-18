@@ -1,0 +1,1 @@
+Please exchange the left and right hand side of the entire slide. Make sure the ananas is now on the right side of the image and also make sure the bottle now points in the other direction when moved to the right side.

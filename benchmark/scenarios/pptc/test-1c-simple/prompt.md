@@ -1,0 +1,1 @@
+The icons and names are somewaht scattered around the slide, I don't like that. Align them somehow.

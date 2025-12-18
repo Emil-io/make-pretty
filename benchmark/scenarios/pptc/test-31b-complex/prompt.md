@@ -1,0 +1,1 @@
+Pls align the 4 headings of the SWOT with each other and the belonging text boxes.

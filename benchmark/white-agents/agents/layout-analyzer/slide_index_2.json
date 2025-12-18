@@ -1,0 +1,645 @@
+{
+  "id": 489,
+  "index": 2,
+  "shapes": [
+    {
+      "id": 135,
+      "pos": {
+        "topLeft": [
+          0,
+          0
+        ],
+        "bottomRight": [
+          16,
+          16
+        ],
+        "center": [
+          8.0,
+          8.0
+        ]
+      },
+      "size": {
+        "w": 16.0,
+        "h": 16.0
+      },
+      "style": {
+        "border": {
+          "width": 0.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "fontInfo": {
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "pos": {
+          "topLeft": [
+            54,
+            28
+          ],
+          "bottomRight": [
+            1224,
+            59
+          ],
+          "center": [
+            639.0,
+            43.5
+          ]
+        },
+        "size": {
+          "w": 1170.0,
+          "h": 31.0
+        },
+        "style": {},
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Qualitative slide – example pages",
+        "markdown": "Qualitative slide – example pages",
+        "fontInfo": {
+          "margin": [
+            9,
+            9,
+            4,
+            4
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 5,
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 5,
+        "pos": {
+          "topLeft": [
+            904,
+            677
+          ],
+          "bottomRight": [
+            1225,
+            715
+          ],
+          "center": [
+            1064.5,
+            696.0
+          ]
+        },
+        "size": {
+          "w": 321.0,
+          "h": 38.0
+        },
+        "style": {},
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "3",
+        "markdown": "",
+        "fontInfo": {
+          "margin": [
+            9,
+            9,
+            4,
+            4
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 9,
+      "pos": {
+        "topLeft": [
+          449,
+          677
+        ],
+        "bottomRight": [
+          830,
+          715
+        ],
+        "center": [
+          639.5,
+          696.0
+        ]
+      },
+      "size": {
+        "w": 381.0,
+        "h": 38.0
+      },
+      "style": {},
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "CONFIDENTIAL – Copyright: Firm Learning",
+      "markdown": "<p align=\"center\">CONFIDENTIAL – Copyright: Firm Learning</p>",
+      "fontInfo": {
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 8,
+      "pos": {
+        "topLeft": [
+          54,
+          99
+        ],
+        "bottomRight": [
+          294,
+          125
+        ],
+        "center": [
+          174.0,
+          112.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 26.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "id": 12,
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "lineType": "line"
+      },
+      "startPos": [
+        313,
+        125
+      ],
+      "endPos": [
+        1225,
+        125
+      ]
+    },
+    {
+      "id": 13,
+      "pos": {
+        "topLeft": [
+          312,
+          99
+        ],
+        "bottomRight": [
+          1226,
+          125
+        ],
+        "center": [
+          769.0,
+          112.0
+        ]
+      },
+      "size": {
+        "w": 914.0,
+        "h": 26.0
+      },
+      "style": {
+        "border": {
+          "width": 0.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "leftRightArrow"
+      },
+      "text": {
+        "markdown": "<div style='font-family: Arial; font-size: 15.0pt'>\n\n**Rationale**\n\n</div>",
+        "rawText": "Rationale",
+        "fontInfo": {
+          "margin": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "wordWrap": true,
+          "autoSize": "SHAPE_TO_FIT_TEXT"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "pos": {
+        "topLeft": [
+          313,
+          133
+        ],
+        "bottomRight": [
+          1225,
+          205
+        ],
+        "center": [
+          769.0,
+          169.0
+        ]
+      },
+      "size": {
+        "w": 912.0,
+        "h": 72.0
+      },
+      "style": {},
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Company already has a footprint in North America with existing market shares and acquisitions completed. Exploring this track further is largely feasible, even though the exact magnitude of success cannot be projected with certainty.",
+      "markdown": "<div style='font-size: 15.0pt'>\n\n- Company already has a footprint in North America with existing market shares and acquisitions completed. Exploring this track further is largely feasible, even though the exact magnitude of success cannot be projected with certainty.\n\n</div>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 15,
+      "pos": {
+        "topLeft": [
+          54,
+          133
+        ],
+        "bottomRight": [
+          294,
+          225
+        ],
+        "center": [
+          174.0,
+          179.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 92.0
+      },
+      "style": {
+        "border": {
+          "width": 1.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "markdown": "<div style='font-family: Arial; font-size: 15.0pt'>\n\n**~~North America~~**\n\n</div>",
+        "rawText": "North America",
+        "fontInfo": {
+          "margin": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "pos": {
+        "topLeft": [
+          312,
+          353
+        ],
+        "bottomRight": [
+          1228,
+          425
+        ],
+        "center": [
+          770.0,
+          389.0
+        ]
+      },
+      "size": {
+        "w": 916.0,
+        "h": 72.0
+      },
+      "style": {},
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Although moving into NLP is feasible in itself, it would require new players or new capabilities. Alternatively, one could think of an M&A operation/anorganic growth with the associated benefits and complications.",
+      "markdown": "<div style='font-size: 15.0pt'>\n\n- Although moving into NLP is feasible in itself, it would require new players or new capabilities. Alternatively, one could think of an M&A operation/anorganic growth with the associated benefits and complications.\n\n</div>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 17,
+      "pos": {
+        "topLeft": [
+          54,
+          353
+        ],
+        "bottomRight": [
+          294,
+          445
+        ],
+        "center": [
+          174.0,
+          399.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 92.0
+      },
+      "style": {
+        "border": {
+          "width": 1.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "markdown": "<div style='font-family: Arial; font-size: 15.0pt'>\n\n**~~NLP~~****~~ and other~~****~~ unstructured~~****~~ analysis~~**\n\n</div>",
+        "rawText": "NLP and other unstructured analysis",
+        "fontInfo": {
+          "margin": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "pos": {
+        "topLeft": [
+          313,
+          463
+        ],
+        "bottomRight": [
+          1225,
+          511
+        ],
+        "center": [
+          769.0,
+          487.0
+        ]
+      },
+      "size": {
+        "w": 912.0,
+        "h": 48.0
+      },
+      "style": {},
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Asia Pacific is a big enough market to enable implementation with high CAGR. Company already has a presence in Asia Pacific with a good opportunity to confirm this presence going forward",
+      "markdown": "<div style='font-size: 15.0pt'>\n\n- Asia Pacific is a big enough market to enable implementation with high CAGR. Company already has a presence in Asia Pacific with a good opportunity to confirm this presence going forward\n\n</div>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 19,
+      "pos": {
+        "topLeft": [
+          54,
+          463
+        ],
+        "bottomRight": [
+          294,
+          555
+        ],
+        "center": [
+          174.0,
+          509.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 92.0
+      },
+      "style": {
+        "border": {
+          "width": 1.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "markdown": "<div style='font-family: Arial; font-size: 15.0pt'>\n\n**~~Asia Pacific~~**\n\n</div>",
+        "rawText": "Asia Pacific",
+        "fontInfo": {
+          "margin": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "pos": {
+        "topLeft": [
+          313,
+          573
+        ],
+        "bottomRight": [
+          1225,
+          621
+        ],
+        "center": [
+          769.0,
+          597.0
+        ]
+      },
+      "size": {
+        "w": 912.0,
+        "h": 48.0
+      },
+      "style": {},
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "The Coal discovery process if rather difficult therefore out of the five options presented this one seems to be the least feasible. ",
+      "markdown": "<div style='font-size: 15.0pt'>\n\n- The Coal discovery process if rather difficult therefore out of the five options presented this one seems to be the least feasible. \n\n</div>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 21,
+      "pos": {
+        "topLeft": [
+          54,
+          573
+        ],
+        "bottomRight": [
+          294,
+          665
+        ],
+        "center": [
+          174.0,
+          619.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 92.0
+      },
+      "style": {
+        "border": {
+          "width": 1.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "markdown": "<div style='font-family: Arial; font-size: 15.0pt'>\n\n**~~Coal mining~~**\n\n</div>",
+        "rawText": "Coal mining",
+        "fontInfo": {
+          "margin": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "pos": {
+        "topLeft": [
+          313,
+          243
+        ],
+        "bottomRight": [
+          1225,
+          315
+        ],
+        "center": [
+          769.0,
+          279.0
+        ]
+      },
+      "size": {
+        "w": 912.0,
+        "h": 72.0
+      },
+      "style": {},
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Express and courier services will be fairly feasible. Improvement of IT services in this area is close to some other activities where company is already active therefore it should be easy to penetrate those industries. ",
+      "markdown": "<div style='font-size: 15.0pt'>\n\n- Express and courier services will be fairly feasible. Improvement of IT services in this area is close to some other activities where company is already active therefore it should be easy to penetrate those industries. \n\n</div>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 24,
+      "pos": {
+        "topLeft": [
+          54,
+          243
+        ],
+        "bottomRight": [
+          294,
+          335
+        ],
+        "center": [
+          174.0,
+          289.0
+        ]
+      },
+      "size": {
+        "w": 240.0,
+        "h": 92.0
+      },
+      "style": {
+        "border": {
+          "width": 1.0
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "markdown": "<div style='font-family: Arial; font-size: 15.0pt'>\n\n**Express and courier services**\n\n</div>",
+        "rawText": "Express and courier services",
+        "fontInfo": {
+          "margin": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "pos": {
+        "topLeft": [
+          53,
+          234
+        ],
+        "bottomRight": [
+          1224,
+          564
+        ],
+        "center": [
+          638.5,
+          399.0
+        ]
+      },
+      "size": {
+        "w": 1171.0,
+        "h": 330.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ]
+    }
+  ]
+}

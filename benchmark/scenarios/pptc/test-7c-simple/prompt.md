@@ -1,0 +1,1 @@
+Change the text formatting to be height-aligned with the top of the images.

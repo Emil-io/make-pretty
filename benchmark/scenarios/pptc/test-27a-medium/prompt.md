@@ -1,0 +1,1 @@
+Please delete the "Edit in Google Slides" Textbox and stretch the powerpoint textbox accordingly (maybe then also move the textbox at the bottom a little bit higher).

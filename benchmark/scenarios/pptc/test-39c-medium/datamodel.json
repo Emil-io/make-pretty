@@ -1,0 +1,630 @@
+{
+  "id": 268,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Group 2",
+      "pos": {
+        "topLeft": [
+          108.0,
+          715.0
+        ],
+        "bottomRight": [
+          597.0,
+          1077.3
+        ],
+        "center": [
+          352.5,
+          896.2
+        ]
+      },
+      "size": {
+        "w": 489.0,
+        "h": 362.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "TextBox 3",
+      "pos": {
+        "topLeft": [
+          256.0,
+          941.3
+        ],
+        "bottomRight": [
+          453.6,
+          1077.3
+        ],
+        "center": [
+          354.8,
+          1009.3
+        ]
+      },
+      "size": {
+        "w": 197.6,
+        "h": 136.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "61%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"0.1014\" size=\"72.45\"><span>61%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Group 4",
+      "pos": {
+        "topLeft": [
+          108.0,
+          715.0
+        ],
+        "bottomRight": [
+          597.0,
+          972.0
+        ],
+        "center": [
+          352.5,
+          843.5
+        ]
+      },
+      "size": {
+        "w": 489.0,
+        "h": 257.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Group 7",
+      "pos": {
+        "topLeft": [
+          715.5,
+          728.6
+        ],
+        "bottomRight": [
+          1204.5,
+          1055.5
+        ],
+        "center": [
+          960.0,
+          892.1
+        ]
+      },
+      "size": {
+        "w": 489.0,
+        "h": 326.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "TextBox 8",
+      "pos": {
+        "topLeft": [
+          814.0,
+          919.5
+        ],
+        "bottomRight": [
+          1007.4,
+          1055.5
+        ],
+        "center": [
+          910.7,
+          987.5
+        ]
+      },
+      "size": {
+        "w": 193.4,
+        "h": 136.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "29%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"0.1014\" size=\"72.45\"><span>29%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Group 9",
+      "pos": {
+        "topLeft": [
+          715.5,
+          728.6
+        ],
+        "bottomRight": [
+          1204.5,
+          972.0
+        ],
+        "center": [
+          960.0,
+          850.3
+        ]
+      },
+      "size": {
+        "w": 489.0,
+        "h": 243.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Group 12",
+      "pos": {
+        "topLeft": [
+          1323.0,
+          712.4
+        ],
+        "bottomRight": [
+          1812.0,
+          1038.7
+        ],
+        "center": [
+          1567.5,
+          875.6
+        ]
+      },
+      "size": {
+        "w": 489.0,
+        "h": 326.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "13",
+        "14"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "TextBox 13",
+      "pos": {
+        "topLeft": [
+          1521.9,
+          902.7
+        ],
+        "bottomRight": [
+          1712.5,
+          1038.7
+        ],
+        "center": [
+          1617.2,
+          970.7
+        ]
+      },
+      "size": {
+        "w": 190.6,
+        "h": 136.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "70%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"0.1014\" size=\"72.45\"><span>70%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Group 14",
+      "pos": {
+        "topLeft": [
+          1323.0,
+          712.4
+        ],
+        "bottomRight": [
+          1812.0,
+          972.0
+        ],
+        "center": [
+          1567.5,
+          842.2
+        ]
+      },
+      "size": {
+        "w": 489.0,
+        "h": 259.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "TextBox 17",
+      "pos": {
+        "topLeft": [
+          276.7,
+          298.2
+        ],
+        "bottomRight": [
+          1643.3,
+          339.8
+        ],
+        "center": [
+          960.0,
+          319.0
+        ]
+      },
+      "size": {
+        "w": 1366.6,
+        "h": 41.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are communication tools that can be used as demonstrations.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Noto Sans Bold\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>Presentations are communication tools that can be used as demonstrations.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 18,
+      "name": "TextBox 18",
+      "pos": {
+        "topLeft": [
+          164.5,
+          537.3
+        ],
+        "bottomRight": [
+          540.4,
+          648.0
+        ],
+        "center": [
+          352.5,
+          592.7
+        ]
+      },
+      "size": {
+        "w": 375.9,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are communication tools that can be used as demonstrations.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Noto Sans\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Presentations are communication tools that can be used as demonstrations.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 19,
+      "name": "TextBox 19",
+      "pos": {
+        "topLeft": [
+          164.5,
+          483.7
+        ],
+        "bottomRight": [
+          540.4,
+          525.6
+        ],
+        "center": [
+          352.5,
+          504.7
+        ]
+      },
+      "size": {
+        "w": 375.9,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Scenario 1",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Lato Bold\" line-height=\"0.0322\" size=\"23.0\" space-before=\"0.0\"><span>Scenario 1</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 20,
+      "name": "TextBox 20",
+      "pos": {
+        "topLeft": [
+          772.0,
+          537.3
+        ],
+        "bottomRight": [
+          1147.9,
+          648.0
+        ],
+        "center": [
+          960.0,
+          592.7
+        ]
+      },
+      "size": {
+        "w": 375.9,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are communication tools that can be used as demonstrations.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Noto Sans\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Presentations are communication tools that can be used as demonstrations.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 21,
+      "name": "TextBox 21",
+      "pos": {
+        "topLeft": [
+          772.0,
+          483.7
+        ],
+        "bottomRight": [
+          1147.9,
+          525.6
+        ],
+        "center": [
+          960.0,
+          504.7
+        ]
+      },
+      "size": {
+        "w": 375.9,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Scenario 2",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Lato Bold\" line-height=\"0.0322\" size=\"23.0\" space-before=\"0.0\"><span>Scenario 2</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 22,
+      "name": "TextBox 22",
+      "pos": {
+        "topLeft": [
+          1379.5,
+          537.3
+        ],
+        "bottomRight": [
+          1755.4,
+          648.0
+        ],
+        "center": [
+          1567.5,
+          592.7
+        ]
+      },
+      "size": {
+        "w": 375.9,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are communication tools that can be used as demonstrations.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Noto Sans\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Presentations are communication tools that can be used as demonstrations.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 23,
+      "name": "TextBox 23",
+      "pos": {
+        "topLeft": [
+          1379.5,
+          483.7
+        ],
+        "bottomRight": [
+          1755.4,
+          525.6
+        ],
+        "center": [
+          1567.5,
+          504.7
+        ]
+      },
+      "size": {
+        "w": 375.9,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Scenario 3",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#353839\" font=\"Lato Bold\" line-height=\"0.0322\" size=\"23.0\" space-before=\"0.0\"><span>Scenario 3</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Group 24",
+      "pos": {
+        "topLeft": [
+          0.0,
+          -22.8
+        ],
+        "bottomRight": [
+          1920.0,
+          324.0
+        ],
+        "center": [
+          960.0,
+          150.6
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "25",
+        "26"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "TextBox 26",
+      "pos": {
+        "topLeft": [
+          0.0,
+          -22.8
+        ],
+        "bottomRight": [
+          324.0,
+          324.0
+        ],
+        "center": [
+          162.0,
+          150.6
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 27,
+      "name": "Group 27",
+      "pos": {
+        "topLeft": [
+          0.0,
+          28.9
+        ],
+        "bottomRight": [
+          375.0,
+          371.9
+        ],
+        "center": [
+          187.5,
+          200.4
+        ]
+      },
+      "size": {
+        "w": 375.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "TextBox 29",
+      "pos": {
+        "topLeft": [
+          0.0,
+          28.9
+        ],
+        "bottomRight": [
+          324.0,
+          371.9
+        ],
+        "center": [
+          162.0,
+          200.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 30,
+      "name": "TextBox 30",
+      "pos": {
+        "topLeft": [
+          0.0,
+          98.8
+        ],
+        "bottomRight": [
+          1920.0,
+          191.0
+        ],
+        "center": [
+          960.0,
+          144.9
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 92.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Infographic Slide Report",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sans Bold\" line-height=\"0.0696\" size=\"60.0\" space-before=\"0.0\"><span>Infographic Slide Report</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ]
+}

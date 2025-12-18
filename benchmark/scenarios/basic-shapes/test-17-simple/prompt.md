@@ -1,0 +1,1 @@
+Please turn the picture so that is is upright. Resize it and make the shape the same width as the picture and put it below the picture.

@@ -1,0 +1,1 @@
+Please align the two headings "12m" and "2 of 5" with each other and in their respective columns. Also align the text boxes below that.

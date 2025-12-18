@@ -1,0 +1,700 @@
+{
+  "id": 271,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 350,
+      "name": "Google Shape;350;p28",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          148.5
+        ],
+        "center": [
+          960.0,
+          74.3
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 148.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Google Shape;351;p28",
+      "pos": {
+        "topLeft": [
+          0.0,
+          931.5
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          960.0,
+          1005.8
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 148.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Google Shape;352;p28",
+      "pos": {
+        "topLeft": [
+          1572.8,
+          460.9
+        ],
+        "bottomRight": [
+          1716.9,
+          606.9
+        ],
+        "center": [
+          1644.9,
+          533.9
+        ]
+      },
+      "size": {
+        "w": 144.1,
+        "h": 146.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 353,
+      "name": "Google Shape;353;p28",
+      "pos": {
+        "topLeft": [
+          211.6,
+          467.3
+        ],
+        "bottomRight": [
+          334.8,
+          612.1
+        ],
+        "center": [
+          273.2,
+          539.7
+        ]
+      },
+      "size": {
+        "w": 123.2,
+        "h": 144.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 354,
+      "name": "Google Shape;354;p28",
+      "pos": {
+        "topLeft": [
+          1677.0,
+          36.5
+        ],
+        "bottomRight": [
+          1772.3,
+          123.5
+        ],
+        "center": [
+          1724.7,
+          80.0
+        ]
+      },
+      "size": {
+        "w": 95.3,
+        "h": 87.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 355,
+      "name": "Google Shape;355;p28",
+      "pos": {
+        "topLeft": [
+          72.3,
+          108.0
+        ],
+        "bottomRight": [
+          160.2,
+          179.7
+        ],
+        "center": [
+          116.3,
+          143.9
+        ]
+      },
+      "size": {
+        "w": 87.9,
+        "h": 71.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 356,
+      "name": "Google Shape;356;p28",
+      "pos": {
+        "topLeft": [
+          1565.1,
+          893.3
+        ],
+        "bottomRight": [
+          1651.3,
+          975.6
+        ],
+        "center": [
+          1608.2,
+          934.5
+        ]
+      },
+      "size": {
+        "w": 86.2,
+        "h": 82.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 357,
+      "name": "Google Shape;357;p28",
+      "pos": {
+        "topLeft": [
+          202.9,
+          227.5
+        ],
+        "bottomRight": [
+          343.4,
+          351.8
+        ],
+        "center": [
+          273.2,
+          289.7
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 124.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "S",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.16\" size=\"80.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">S</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 358,
+      "name": "Google Shape;358;p28",
+      "pos": {
+        "topLeft": [
+          104.8,
+          344.3
+        ],
+        "bottomRight": [
+          441.5,
+          407.9
+        ],
+        "center": [
+          273.2,
+          376.1
+        ]
+      },
+      "size": {
+        "w": 336.7,
+        "h": 63.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Strengths",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.37\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Strengths</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 359,
+      "name": "Google Shape;359;p28",
+      "pos": {
+        "topLeft": [
+          20.0,
+          621.5
+        ],
+        "bottomRight": [
+          526.4,
+          752.3
+        ],
+        "center": [
+          273.2,
+          686.9
+        ]
+      },
+      "size": {
+        "w": 506.4,
+        "h": 130.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are you doing well? \nWhat sets you apart?\nWhat are your good qualities?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are you doing well? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What sets you apart?</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are your good qualities?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 360,
+      "name": "Google Shape;360;p28",
+      "pos": {
+        "topLeft": [
+          904.7,
+          226.8
+        ],
+        "bottomRight": [
+          1389.3,
+          797.1
+        ],
+        "center": [
+          1147.0,
+          512.0
+        ]
+      },
+      "size": {
+        "w": 484.6,
+        "h": 570.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "361",
+        "362",
+        "363",
+        "364"
+      ]
+    },
+    {
+      "id": 361,
+      "name": "Google Shape;361;p28",
+      "pos": {
+        "topLeft": [
+          1100.1,
+          469.2
+        ],
+        "bottomRight": [
+          1270.1,
+          607.4
+        ],
+        "center": [
+          1185.1,
+          538.3
+        ]
+      },
+      "size": {
+        "w": 170.0,
+        "h": 138.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 362,
+      "name": "Google Shape;362;p28",
+      "pos": {
+        "topLeft": [
+          1114.8,
+          226.8
+        ],
+        "bottomRight": [
+          1255.3,
+          351.8
+        ],
+        "center": [
+          1185.1,
+          289.3
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 125.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "O",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.16\" size=\"80.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">O</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 363,
+      "name": "Google Shape;363;p28",
+      "pos": {
+        "topLeft": [
+          981.0,
+          345.5
+        ],
+        "bottomRight": [
+          1389.3,
+          407.9
+        ],
+        "center": [
+          1185.2,
+          376.7
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 62.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Opportunities",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.37\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Opportunities</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 364,
+      "name": "Google Shape;364;p28",
+      "pos": {
+        "topLeft": [
+          904.7,
+          668.8
+        ],
+        "bottomRight": [
+          1313.0,
+          797.1
+        ],
+        "center": [
+          1108.9,
+          732.9
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 128.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are your goals? \nAre demands shifting?\nHow can it be improved?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are your goals? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Are demands shifting?</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">How can it be improved?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 365,
+      "name": "Google Shape;365;p28",
+      "pos": {
+        "topLeft": [
+          1574.6,
+          227.5
+        ],
+        "bottomRight": [
+          1715.1,
+          351.8
+        ],
+        "center": [
+          1644.9,
+          289.7
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 124.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "T",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.16\" size=\"80.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">T</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 366,
+      "name": "Google Shape;366;p28",
+      "pos": {
+        "topLeft": [
+          441.5,
+          226.8
+        ],
+        "bottomRight": [
+          1060.4,
+          848.3
+        ],
+        "center": [
+          751.0,
+          537.6
+        ]
+      },
+      "size": {
+        "w": 618.9,
+        "h": 621.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "367",
+        "368",
+        "369",
+        "370"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Google Shape;367;p28",
+      "pos": {
+        "topLeft": [
+          687.5,
+          472.3
+        ],
+        "bottomRight": [
+          814.4,
+          601.4
+        ],
+        "center": [
+          751.0,
+          536.9
+        ]
+      },
+      "size": {
+        "w": 126.9,
+        "h": 129.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 368,
+      "name": "Google Shape;368;p28",
+      "pos": {
+        "topLeft": [
+          680.7,
+          226.8
+        ],
+        "bottomRight": [
+          821.2,
+          351.8
+        ],
+        "center": [
+          751.0,
+          289.3
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 125.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "W",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.16\" size=\"80.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">W</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 369,
+      "name": "Google Shape;369;p28",
+      "pos": {
+        "topLeft": [
+          582.6,
+          345.5
+        ],
+        "bottomRight": [
+          919.3,
+          407.9
+        ],
+        "center": [
+          751.0,
+          376.7
+        ]
+      },
+      "size": {
+        "w": 336.7,
+        "h": 62.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Weaknesses",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.37\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Weaknesses</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 370,
+      "name": "Google Shape;370;p28",
+      "pos": {
+        "topLeft": [
+          441.5,
+          676.0
+        ],
+        "bottomRight": [
+          1060.4,
+          848.3
+        ],
+        "center": [
+          751.0,
+          762.2
+        ]
+      },
+      "size": {
+        "w": 618.9,
+        "h": 172.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Where do you need to improve? \nAre resources adequate?\nWhat do others do\nbetter than you?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Where do you need to improve? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Are resources adequate?</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What do others do</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">better than you?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 371,
+      "name": "Google Shape;371;p28",
+      "pos": {
+        "topLeft": [
+          1438.7,
+          628.9
+        ],
+        "bottomRight": [
+          1850.9,
+          803.7
+        ],
+        "center": [
+          1644.8,
+          716.3
+        ]
+      },
+      "size": {
+        "w": 412.2,
+        "h": 174.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are the blockers\nyou're facing? \nWhat are factors outside\nof your control?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are the blockers</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you're facing? </span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">What are factors outside</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.6\" lvl=\"1\" size=\"21.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">of your control?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 372,
+      "name": "Google Shape;372;p28",
+      "pos": {
+        "topLeft": [
+          1476.5,
+          344.3
+        ],
+        "bottomRight": [
+          1813.2,
+          407.9
+        ],
+        "center": [
+          1644.9,
+          376.1
+        ]
+      },
+      "size": {
+        "w": 336.7,
+        "h": 63.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Threats",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.37\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Threats</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#F8E6DA"
+  }
+}

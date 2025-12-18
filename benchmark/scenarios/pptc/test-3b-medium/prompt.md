@@ -1,0 +1,1 @@
+Move the most right column of items the be the most left one, and shift all other icons in the grid one to the right then.

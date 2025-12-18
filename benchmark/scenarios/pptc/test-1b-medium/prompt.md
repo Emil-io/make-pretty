@@ -1,0 +1,1 @@
+Exchange the entire W and O sections with each other so that weaknesses is right of strengths and not below it.

@@ -1,0 +1,146 @@
+{
+  "id": 296,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 112,
+      "name": "Google Shape;112;p19",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 112,
+        "name": "Google Shape;112;p19",
+        "pos": {
+          "topLeft": [
+            97.7,
+            148.6
+          ],
+          "bottomRight": [
+            454.9,
+            441.3
+          ],
+          "center": [
+            276.3,
+            295.0
+          ]
+        },
+        "size": {
+          "w": 357.2,
+          "h": 292.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Black\nIs the color of milk and fresh snow, the color produced by the combination of all the colors of the visible spectrum.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Ubuntu Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Black</span></p>\n<p align=\"left\" font=\"Ubuntu Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the color of milk and fresh snow, the color produced by the combination of all the colors of the visible spectrum.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 113,
+      "name": "Google Shape;113;p19",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 113,
+        "name": "Google Shape;113;p19",
+        "pos": {
+          "topLeft": [
+            97.7,
+            93.0
+          ],
+          "bottomRight": [
+            862.3,
+            131.2
+          ],
+          "center": [
+            480.0,
+            112.1
+          ]
+        },
+        "size": {
+          "w": 764.6,
+          "h": 38.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "You can also split your content",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\" wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" font=\"Ubuntu\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>You can also split your content</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 114,
+      "name": "Google Shape;114;p19",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 114,
+        "name": "Google Shape;114;p19",
+        "pos": {
+          "topLeft": [
+            505.1,
+            148.6
+          ],
+          "bottomRight": [
+            862.3,
+            441.3
+          ],
+          "center": [
+            683.7,
+            295.0
+          ]
+        },
+        "size": {
+          "w": 357.2,
+          "h": 292.7
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "White\nIs the color of ebony and of outer space. It has been the symbolic color of elegance, solemnity and authority.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Ubuntu Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>White</span></p>\n<p align=\"left\" font=\"Ubuntu Light\" size=\"20.0\" space-after-pt=\"0.0\" space-before-pt=\"6.0\"><span>Is the color of ebony and of outer space. It has been the symbolic color of elegance, solemnity and authority.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 115,
+      "name": "Google Shape;115;p19",
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 115,
+        "name": "Google Shape;115;p19",
+        "pos": {
+          "topLeft": [
+            862.3,
+            446.0
+          ],
+          "bottomRight": [
+            911.2,
+            495.8
+          ],
+          "center": [
+            886.8,
+            470.9
+          ]
+        },
+        "size": {
+          "w": 48.9,
+          "h": 49.8
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "1",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"sldNum\" wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"right\" bold=\"true\" color=\"#FFFFFF\" font=\"Ubuntu\" line-height=\"1.0\" size=\"16.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\">1</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    }
+  ]
+}

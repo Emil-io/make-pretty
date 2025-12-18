@@ -1,0 +1,1 @@
+Pls help me make the table of contents pretty. I need all the numbers inside the yellow boxes - the yellow boxes on the position as at point 2&6. Also make objects/text that belongs together in the same size.

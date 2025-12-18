@@ -1,0 +1,232 @@
+{
+  "id": 273,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 526,
+      "name": "Google Shape;526;p30",
+      "pos": {
+        "topLeft": [
+          442.1,
+          109.0
+        ],
+        "bottomRight": [
+          1478.0,
+          315.0
+        ],
+        "center": [
+          960.1,
+          212.0
+        ]
+      },
+      "size": {
+        "w": 1035.9,
+        "h": 206.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add A Table",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#17254E\" font=\"Oleo Script\" line-height=\"1.2\" size=\"130.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Add A Table</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 527,
+      "name": "Google Shape;527;p30",
+      "pos": {
+        "topLeft": [
+          372.5,
+          345.9
+        ],
+        "bottomRight": [
+          1547.5,
+          972.0
+        ],
+        "center": [
+          960.0,
+          659.0
+        ]
+      },
+      "size": {
+        "w": 1175.0,
+        "h": 626.1
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 5,
+      "columns": 4,
+      "cells": [
+        {
+          "text": "Table 1",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "Table 2",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "Table 3",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "Table 4",
+          "rowIndex": 0,
+          "colIndex": 3
+        },
+        {
+          "text": "42",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "49",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "74",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "12",
+          "rowIndex": 1,
+          "colIndex": 3
+        },
+        {
+          "text": "89",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "166",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "196",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "432",
+          "rowIndex": 2,
+          "colIndex": 3
+        },
+        {
+          "text": "275",
+          "rowIndex": 3,
+          "colIndex": 0
+        },
+        {
+          "text": "395",
+          "rowIndex": 3,
+          "colIndex": 1
+        },
+        {
+          "text": "397",
+          "rowIndex": 3,
+          "colIndex": 2
+        },
+        {
+          "text": "653",
+          "rowIndex": 3,
+          "colIndex": 3
+        },
+        {
+          "text": "402",
+          "rowIndex": 4,
+          "colIndex": 0
+        },
+        {
+          "text": "427",
+          "rowIndex": 4,
+          "colIndex": 1
+        },
+        {
+          "text": "487",
+          "rowIndex": 4,
+          "colIndex": 2
+        },
+        {
+          "text": "764",
+          "rowIndex": 4,
+          "colIndex": 3
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    },
+    {
+      "id": 528,
+      "name": "Google Shape;528;p30",
+      "pos": {
+        "topLeft": [
+          1495.8,
+          84.7
+        ],
+        "bottomRight": [
+          2128.2,
+          1027.3
+        ],
+        "center": [
+          1812.0,
+          556.0
+        ]
+      },
+      "size": {
+        "w": 632.4,
+        "h": 942.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 529,
+      "name": "Google Shape;529;p30",
+      "pos": {
+        "topLeft": [
+          -277.5,
+          84.7
+        ],
+        "bottomRight": [
+          324.0,
+          1027.3
+        ],
+        "center": [
+          23.3,
+          556.0
+        ]
+      },
+      "size": {
+        "w": 601.5,
+        "h": 942.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FCDCB0"
+  }
+}

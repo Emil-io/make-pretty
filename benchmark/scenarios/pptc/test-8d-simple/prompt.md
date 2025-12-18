@@ -1,0 +1,1 @@
+The spacing here is very off, the yellow headings flow into the purple background and the text on the bottom overflows. Please move everything up so that these mistakes are no longer there, and move the top section up more so that the purple is further away from the headings.

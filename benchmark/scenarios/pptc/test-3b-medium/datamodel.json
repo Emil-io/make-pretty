@@ -1,0 +1,1249 @@
+{
+  "id": 285,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 604,
+      "name": "Google Shape;604;p40",
+      "pos": {
+        "topLeft": [
+          835.1,
+          680.7
+        ],
+        "bottomRight": [
+          948.4,
+          794.0
+        ],
+        "center": [
+          891.8,
+          737.4
+        ]
+      },
+      "size": {
+        "w": 113.3,
+        "h": 113.3
+      },
+      "style": {
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 605,
+      "name": "Google Shape;605;p40",
+      "pos": {
+        "topLeft": [
+          622.9,
+          875.3
+        ],
+        "bottomRight": [
+          741.9,
+          988.9
+        ],
+        "center": [
+          682.4,
+          932.1
+        ]
+      },
+      "size": {
+        "w": 119.0,
+        "h": 113.6
+      },
+      "style": {
+        "rotation": 180.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 606,
+      "name": "Google Shape;606;p40",
+      "pos": {
+        "topLeft": [
+          1242.1,
+          299.6
+        ],
+        "bottomRight": [
+          1371.1,
+          428.6
+        ],
+        "center": [
+          1306.6,
+          364.1
+        ]
+      },
+      "size": {
+        "w": 129.0,
+        "h": 129.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 607,
+      "name": "Google Shape;607;p40",
+      "pos": {
+        "topLeft": [
+          1465.9,
+          109.9
+        ],
+        "bottomRight": [
+          1589.1,
+          233.1
+        ],
+        "center": [
+          1527.5,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 123.2,
+        "h": 123.2
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 608,
+      "name": "Google Shape;608;p40",
+      "pos": {
+        "topLeft": [
+          820.4,
+          884.5
+        ],
+        "bottomRight": [
+          985.3,
+          979.5
+        ],
+        "center": [
+          902.9,
+          932.0
+        ]
+      },
+      "size": {
+        "w": 164.9,
+        "h": 95.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 609,
+      "name": "Google Shape;609;p40",
+      "pos": {
+        "topLeft": [
+          1685.6,
+          869.2
+        ],
+        "bottomRight": [
+          1811.3,
+          994.9
+        ],
+        "center": [
+          1748.5,
+          932.1
+        ]
+      },
+      "size": {
+        "w": 125.7,
+        "h": 125.7
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 610,
+      "name": "Google Shape;610;p40",
+      "pos": {
+        "topLeft": [
+          1062.3,
+          472.0
+        ],
+        "bottomRight": [
+          1198.3,
+          608.0
+        ],
+        "center": [
+          1130.3,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 136.0,
+        "h": 136.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 611,
+      "name": "Google Shape;611;p40",
+      "pos": {
+        "topLeft": [
+          854.5,
+          488.1
+        ],
+        "bottomRight": [
+          958.3,
+          591.9
+        ],
+        "center": [
+          906.4,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 103.8,
+        "h": 103.8
+      },
+      "style": {
+        "rotation": 180.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 612,
+      "name": "Google Shape;612;p40",
+      "pos": {
+        "topLeft": [
+          614.3,
+          471.9
+        ],
+        "bottomRight": [
+          750.6,
+          608.2
+        ],
+        "center": [
+          682.4,
+          540.1
+        ]
+      },
+      "size": {
+        "w": 136.3,
+        "h": 136.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 613,
+      "name": "Google Shape;613;p40",
+      "pos": {
+        "topLeft": [
+          1696.9,
+          119.9
+        ],
+        "bottomRight": [
+          1800.0,
+          223.0
+        ],
+        "center": [
+          1748.5,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 103.1,
+        "h": 103.1
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 614,
+      "name": "Google Shape;614;p40",
+      "pos": {
+        "topLeft": [
+          1047.9,
+          108.0
+        ],
+        "bottomRight": [
+          1149.5,
+          234.9
+        ],
+        "center": [
+          1098.7,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 101.6,
+        "h": 126.9
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 615,
+      "name": "Google Shape;615;p40",
+      "pos": {
+        "topLeft": [
+          1679.8,
+          292.1
+        ],
+        "bottomRight": [
+          1817.1,
+          436.1
+        ],
+        "center": [
+          1748.5,
+          364.1
+        ]
+      },
+      "size": {
+        "w": 137.3,
+        "h": 144.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 616,
+      "name": "Google Shape;616;p40",
+      "pos": {
+        "topLeft": [
+          614.3,
+          669.2
+        ],
+        "bottomRight": [
+          750.6,
+          805.5
+        ],
+        "center": [
+          682.4,
+          737.4
+        ]
+      },
+      "size": {
+        "w": 136.3,
+        "h": 136.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 617,
+      "name": "Google Shape;617;p40",
+      "pos": {
+        "topLeft": [
+          1457.4,
+          296.1
+        ],
+        "bottomRight": [
+          1593.4,
+          432.1
+        ],
+        "center": [
+          1525.4,
+          364.1
+        ]
+      },
+      "size": {
+        "w": 136.0,
+        "h": 136.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 618,
+      "name": "Google Shape;618;p40",
+      "pos": {
+        "topLeft": [
+          1057.2,
+          314.9
+        ],
+        "bottomRight": [
+          1155.7,
+          413.4
+        ],
+        "center": [
+          1106.5,
+          364.2
+        ]
+      },
+      "size": {
+        "w": 98.5,
+        "h": 98.5
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 619,
+      "name": "Google Shape;619;p40",
+      "pos": {
+        "topLeft": [
+          1685.2,
+          674.1
+        ],
+        "bottomRight": [
+          1811.6,
+          800.5
+        ],
+        "center": [
+          1748.4,
+          737.3
+        ]
+      },
+      "size": {
+        "w": 126.4,
+        "h": 126.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 620,
+      "name": "Google Shape;620;p40",
+      "pos": {
+        "topLeft": [
+          1693.6,
+          497.3
+        ],
+        "bottomRight": [
+          1803.2,
+          582.6
+        ],
+        "center": [
+          1748.4,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 109.6,
+        "h": 85.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 621,
+      "name": "Google Shape;621;p40",
+      "pos": {
+        "topLeft": [
+          1491.5,
+          497.3
+        ],
+        "bottomRight": [
+          1589.7,
+          582.6
+        ],
+        "center": [
+          1540.6,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 98.2,
+        "h": 85.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 622,
+      "name": "Google Shape;622;p40",
+      "pos": {
+        "topLeft": [
+          1302.3,
+          497.3
+        ],
+        "bottomRight": [
+          1387.6,
+          582.6
+        ],
+        "center": [
+          1345.0,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 85.3,
+        "h": 85.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 623,
+      "name": "Google Shape;623;p40",
+      "pos": {
+        "topLeft": [
+          1471.8,
+          864.4
+        ],
+        "bottomRight": [
+          1607.1,
+          999.7
+        ],
+        "center": [
+          1539.5,
+          932.1
+        ]
+      },
+      "size": {
+        "w": 135.3,
+        "h": 135.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 624,
+      "name": "Google Shape;624;p40",
+      "pos": {
+        "topLeft": [
+          840.0,
+          299.6
+        ],
+        "bottomRight": [
+          970.9,
+          428.6
+        ],
+        "center": [
+          905.5,
+          364.1
+        ]
+      },
+      "size": {
+        "w": 130.9,
+        "h": 129.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 625,
+      "name": "Google Shape;625;p40",
+      "pos": {
+        "topLeft": [
+          1032.9,
+          674.2
+        ],
+        "bottomRight": [
+          1159.2,
+          800.5
+        ],
+        "center": [
+          1096.1,
+          737.4
+        ]
+      },
+      "size": {
+        "w": 126.3,
+        "h": 126.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 626,
+      "name": "Google Shape;626;p40",
+      "pos": {
+        "topLeft": [
+          1243.7,
+          669.2
+        ],
+        "bottomRight": [
+          1380.0,
+          805.5
+        ],
+        "center": [
+          1311.9,
+          737.4
+        ]
+      },
+      "size": {
+        "w": 136.3,
+        "h": 136.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 627,
+      "name": "Google Shape;627;p40",
+      "pos": {
+        "topLeft": [
+          1464.5,
+          669.2
+        ],
+        "bottomRight": [
+          1600.8,
+          805.5
+        ],
+        "center": [
+          1532.7,
+          737.4
+        ]
+      },
+      "size": {
+        "w": 136.3,
+        "h": 136.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 628,
+      "name": "Google Shape;628;p40",
+      "pos": {
+        "topLeft": [
+          611.2,
+          292.9
+        ],
+        "bottomRight": [
+          753.6,
+          435.3
+        ],
+        "center": [
+          682.4,
+          364.1
+        ]
+      },
+      "size": {
+        "w": 142.4,
+        "h": 142.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 629,
+      "name": "Google Shape;629;p40",
+      "pos": {
+        "topLeft": [
+          1257.3,
+          121.2
+        ],
+        "bottomRight": [
+          1358.0,
+          221.7
+        ],
+        "center": [
+          1307.6,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 100.7,
+        "h": 100.5
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 630,
+      "name": "Google Shape;630;p40",
+      "pos": {
+        "topLeft": [
+          1262.9,
+          869.2
+        ],
+        "bottomRight": [
+          1393.3,
+          994.9
+        ],
+        "center": [
+          1328.1,
+          932.1
+        ]
+      },
+      "size": {
+        "w": 130.4,
+        "h": 125.7
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 631,
+      "name": "Google Shape;631;p40",
+      "pos": {
+        "topLeft": [
+          1063.8,
+          876.4
+        ],
+        "bottomRight": [
+          1184.5,
+          987.6
+        ],
+        "center": [
+          1124.1,
+          932.0
+        ]
+      },
+      "size": {
+        "w": 120.7,
+        "h": 111.2
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 632,
+      "name": "Google Shape;632;p40",
+      "pos": {
+        "topLeft": [
+          840.2,
+          121.6
+        ],
+        "bottomRight": [
+          940.0,
+          221.4
+        ],
+        "center": [
+          890.1,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 99.8,
+        "h": 99.8
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 633,
+      "name": "Google Shape;633;p40",
+      "pos": {
+        "topLeft": [
+          632.5,
+          121.6
+        ],
+        "bottomRight": [
+          732.3,
+          221.4
+        ],
+        "center": [
+          682.4,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 99.8,
+        "h": 99.8
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 634,
+      "name": "Google Shape;634;p40",
+      "pos": {
+        "topLeft": [
+          98.4,
+          739.1
+        ],
+        "bottomRight": [
+          519.8,
+          972.0
+        ],
+        "center": [
+          309.1,
+          855.6
+        ]
+      },
+      "size": {
+        "w": 421.4,
+        "h": 232.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Use these design resources in\nyour Canva Presentation.\nHappy designing! \n\nDon't forget to delete this\npage before presenting. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#FFFFFF\" font=\"Cabin\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Use these design resources in</span></p>\n<p align=\"left\" cap=\"none\" color=\"#FFFFFF\" font=\"Cabin\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">your Canva Presentation.</span></p>\n<p align=\"left\" cap=\"none\" color=\"#FFFFFF\" font=\"Cabin\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Happy designing! </span></p>\n<br/>\n<p align=\"left\" cap=\"none\" color=\"#FFFFFF\" font=\"Cabin\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Don't forget to delete this</span></p>\n<p align=\"left\" cap=\"none\" color=\"#FFFFFF\" font=\"Cabin\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">page before presenting. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 635,
+      "name": "Google Shape;635;p40",
+      "pos": {
+        "topLeft": [
+          108.0,
+          108.0
+        ],
+        "bottomRight": [
+          494.2,
+          318.0
+        ],
+        "center": [
+          301.1,
+          213.0
+        ]
+      },
+      "size": {
+        "w": 386.2,
+        "h": 210.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Resource  Page ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#EAFD8F\" font=\"Cabin SemiBold\" line-height=\"1.20003\" size=\"65.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Resource  Page </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#303030"
+  }
+}

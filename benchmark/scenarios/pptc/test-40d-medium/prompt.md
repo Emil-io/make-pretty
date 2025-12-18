@@ -1,0 +1,1 @@
+Pls align the headings in the 4 boxes.

@@ -1,0 +1,1 @@
+Pls delete one W column and resize the table/text accordingly (should have the same outer dimensions).

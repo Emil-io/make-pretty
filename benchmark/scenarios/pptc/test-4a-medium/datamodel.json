@@ -1,0 +1,149 @@
+{
+  "id": 269,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 451,
+      "name": "Google Shape;451;p23",
+      "pos": {
+        "topLeft": [
+          -516.6,
+          684.8
+        ],
+        "bottomRight": [
+          464.0,
+          1538.5
+        ],
+        "center": [
+          -26.3,
+          1111.7
+        ]
+      },
+      "size": {
+        "w": 980.6,
+        "h": 853.7
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#FCBDF8"
+        },
+        "rotation": 77.42536666666666
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 452,
+      "name": "Google Shape;452;p23",
+      "pos": {
+        "topLeft": [
+          118.3,
+          73.1
+        ],
+        "bottomRight": [
+          1832.0,
+          887.5
+        ],
+        "center": [
+          975.2,
+          480.3
+        ]
+      },
+      "size": {
+        "w": 1713.7,
+        "h": 814.4
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 3,
+      "columns": 4,
+      "cells": [
+        {
+          "text": "S",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "W",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "O",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "T",
+          "rowIndex": 0,
+          "colIndex": 3
+        },
+        {
+          "text": "STRENGTHS",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "WEAKNESSES",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "OPPORTUNITIES",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "THREATS",
+          "rowIndex": 1,
+          "colIndex": 3
+        },
+        {
+          "text": "What are you doing well? \nWhat sets you apart? \nWhat are your good qualities?",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "Where do you need to improve?\nAre resources adequate? \nWhat do others do better than you?",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "What are your goals? \nHow can it be improved?",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "What are the blockers you're facing? \nWhat are factors outside of your control?",
+          "rowIndex": 2,
+          "colIndex": 3
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FFED00"
+  }
+}

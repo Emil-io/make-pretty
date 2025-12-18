@@ -1,0 +1,553 @@
+{
+  "id": 266,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 242,
+      "name": "Google Shape;242;p23",
+      "pos": {
+        "topLeft": [
+          0.0,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          540.0
+        ],
+        "center": [
+          960.0,
+          270.0
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 540.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 243,
+      "name": "Google Shape;243;p23",
+      "pos": {
+        "topLeft": [
+          119.4,
+          112.6
+        ],
+        "bottomRight": [
+          214.8,
+          351.6
+        ],
+        "center": [
+          167.1,
+          232.1
+        ]
+      },
+      "size": {
+        "w": 95.4,
+        "h": 239.0
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 353.5264833333333
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 244,
+      "name": "Google Shape;244;p23",
+      "pos": {
+        "topLeft": [
+          451.6,
+          322.7
+        ],
+        "bottomRight": [
+          568.6,
+          432.5
+        ],
+        "center": [
+          510.1,
+          377.6
+        ]
+      },
+      "size": {
+        "w": 117.0,
+        "h": 109.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Google Shape;245;p23",
+      "pos": {
+        "topLeft": [
+          1789.0,
+          59.2
+        ],
+        "bottomRight": [
+          1892.8,
+          281.4
+        ],
+        "center": [
+          1840.9,
+          170.3
+        ]
+      },
+      "size": {
+        "w": 103.8,
+        "h": 222.2
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 318.00958333333335
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 246,
+      "name": "Google Shape;246;p23",
+      "pos": {
+        "topLeft": [
+          1302.5,
+          65.3
+        ],
+        "bottomRight": [
+          1409.4,
+          198.7
+        ],
+        "center": [
+          1356.0,
+          132.0
+        ]
+      },
+      "size": {
+        "w": 106.9,
+        "h": 133.4
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 16.293133333333333
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 247,
+      "name": "Google Shape;247;p23",
+      "pos": {
+        "topLeft": [
+          604.6,
+          203.2
+        ],
+        "bottomRight": [
+          1315.3,
+          356.2
+        ],
+        "center": [
+          960.0,
+          279.7
+        ]
+      },
+      "size": {
+        "w": 710.7,
+        "h": 153.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Our Services",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Marcellus\" line-height=\"1.2\" size=\"95.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Our Services</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 248,
+      "name": "Google Shape;248;p23",
+      "pos": {
+        "topLeft": [
+          70.6,
+          793.5
+        ],
+        "bottomRight": [
+          477.0,
+          851.5
+        ],
+        "center": [
+          273.8,
+          822.5
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service One",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Service One</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 249,
+      "name": "Google Shape;249;p23",
+      "pos": {
+        "topLeft": [
+          167.1,
+          609.8
+        ],
+        "bottomRight": [
+          380.4,
+          743.1
+        ],
+        "center": [
+          273.8,
+          676.4
+        ]
+      },
+      "size": {
+        "w": 213.3,
+        "h": 133.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "01",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"83.55\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">01</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 250,
+      "name": "Google Shape;250;p23",
+      "pos": {
+        "topLeft": [
+          613.3,
+          662.1
+        ],
+        "bottomRight": [
+          826.6,
+          795.4
+        ],
+        "center": [
+          719.9,
+          728.8
+        ]
+      },
+      "size": {
+        "w": 213.3,
+        "h": 133.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "02",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"83.55\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">02</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 251,
+      "name": "Google Shape;251;p23",
+      "pos": {
+        "topLeft": [
+          1531.1,
+          702.0
+        ],
+        "bottomRight": [
+          1744.4,
+          835.3
+        ],
+        "center": [
+          1637.8,
+          768.7
+        ]
+      },
+      "size": {
+        "w": 213.3,
+        "h": 133.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "04",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"83.55\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">04</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 252,
+      "name": "Google Shape;252;p23",
+      "pos": {
+        "topLeft": [
+          986.8,
+          635.3
+        ],
+        "bottomRight": [
+          1200.1,
+          768.6
+        ],
+        "center": [
+          1093.5,
+          701.9
+        ]
+      },
+      "size": {
+        "w": 213.3,
+        "h": 133.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "03",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"83.55\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">03</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 253,
+      "name": "Google Shape;253;p23",
+      "pos": {
+        "topLeft": [
+          70.6,
+          863.9
+        ],
+        "bottomRight": [
+          477.0,
+          946.0
+        ],
+        "center": [
+          273.8,
+          905.0
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 82.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 254,
+      "name": "Google Shape;254;p23",
+      "pos": {
+        "topLeft": [
+          516.7,
+          793.5
+        ],
+        "bottomRight": [
+          923.1,
+          851.5
+        ],
+        "center": [
+          719.9,
+          822.5
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service Two",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Service Two</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 255,
+      "name": "Google Shape;255;p23",
+      "pos": {
+        "topLeft": [
+          516.7,
+          863.9
+        ],
+        "bottomRight": [
+          923.1,
+          946.0
+        ],
+        "center": [
+          719.9,
+          905.0
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 82.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 256,
+      "name": "Google Shape;256;p23",
+      "pos": {
+        "topLeft": [
+          962.9,
+          791.8
+        ],
+        "bottomRight": [
+          1386.3,
+          849.8
+        ],
+        "center": [
+          1174.6,
+          820.8
+        ]
+      },
+      "size": {
+        "w": 423.4,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service Three",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Service Three</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 257,
+      "name": "Google Shape;257;p23",
+      "pos": {
+        "topLeft": [
+          971.4,
+          863.9
+        ],
+        "bottomRight": [
+          1377.8,
+          946.0
+        ],
+        "center": [
+          1174.6,
+          905.0
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 82.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 258,
+      "name": "Google Shape;258;p23",
+      "pos": {
+        "topLeft": [
+          1426.0,
+          791.8
+        ],
+        "bottomRight": [
+          1849.4,
+          849.8
+        ],
+        "center": [
+          1637.7,
+          820.8
+        ]
+      },
+      "size": {
+        "w": 423.4,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service Four",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#7A97EF\" font=\"Marcellus\" line-height=\"1.2\" size=\"37.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Service Four</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 259,
+      "name": "Google Shape;259;p23",
+      "pos": {
+        "topLeft": [
+          1434.5,
+          863.9
+        ],
+        "bottomRight": [
+          1840.9,
+          946.0
+        ],
+        "center": [
+          1637.7,
+          905.0
+        ]
+      },
+      "size": {
+        "w": 406.4,
+        "h": 82.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.4\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#F8E6DA"
+  }
+}

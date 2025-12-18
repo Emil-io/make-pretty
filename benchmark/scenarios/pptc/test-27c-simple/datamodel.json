@@ -1,0 +1,1476 @@
+{
+  "id": 282,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 371,
+      "name": "Google Shape;371;p37",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 371,
+        "name": "Google Shape;371;p37",
+        "pos": {
+          "topLeft": [
+            53.4,
+            40.2
+          ],
+          "bottomRight": [
+            592.7,
+            98.2
+          ],
+          "center": [
+            323.0,
+            69.2
+          ]
+        },
+        "size": {
+          "w": 539.3,
+          "h": 58.0
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Timeline",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\" wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" font=\"Dancing Script\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Timeline</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 372,
+      "name": "Google Shape;372;p37",
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 372,
+        "name": "Google Shape;372;p37",
+        "pos": {
+          "topLeft": [
+            890.4,
+            498.7
+          ],
+          "bottomRight": [
+            948.0,
+            540.0
+          ],
+          "center": [
+            919.2,
+            519.4
+          ]
+        },
+        "size": {
+          "w": 57.6,
+          "h": 41.3
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "1",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"sldNum\" wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"right\" font=\"Dancing Script\" size=\"13.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>1</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 373,
+      "name": "Google Shape;373;p37",
+      "pos": {
+        "topLeft": [
+          680.8,
+          289.3
+        ],
+        "bottomRight": [
+          753.2,
+          330.6
+        ],
+        "center": [
+          717.0,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#D89168"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>DEC</span></p>\n</root>",
+        "rawText": "DEC",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 374,
+      "name": "Google Shape;374;p37",
+      "pos": {
+        "topLeft": [
+          622.7,
+          289.3
+        ],
+        "bottomRight": [
+          695.1,
+          330.6
+        ],
+        "center": [
+          658.9,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#D89168"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>NOV</span></p>\n</root>",
+        "rawText": "NOV",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 375,
+      "name": "Google Shape;375;p37",
+      "pos": {
+        "topLeft": [
+          563.7,
+          268.7
+        ],
+        "bottomRight": [
+          636.1,
+          310.0
+        ],
+        "center": [
+          599.9,
+          289.3
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#D89168"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>OCT</span></p>\n</root>",
+        "rawText": "OCT",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 376,
+      "name": "Google Shape;376;p37",
+      "pos": {
+        "topLeft": [
+          506.5,
+          289.3
+        ],
+        "bottomRight": [
+          578.9,
+          330.6
+        ],
+        "center": [
+          542.7,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#D8CA7E"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>SEP</span></p>\n</root>",
+        "rawText": "SEP",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 377,
+      "name": "Google Shape;377;p37",
+      "pos": {
+        "topLeft": [
+          457.1,
+          277.3
+        ],
+        "bottomRight": [
+          529.5,
+          318.6
+        ],
+        "center": [
+          493.3,
+          298.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#D8CA7E"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>AUG</span></p>\n</root>",
+        "rawText": "AUG",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 378,
+      "name": "Google Shape;378;p37",
+      "pos": {
+        "topLeft": [
+          390.3,
+          289.3
+        ],
+        "bottomRight": [
+          462.7,
+          330.6
+        ],
+        "center": [
+          426.5,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#D8CA7E"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>JUL</span></p>\n</root>",
+        "rawText": "JUL",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 379,
+      "name": "Google Shape;379;p37",
+      "pos": {
+        "topLeft": [
+          332.2,
+          289.3
+        ],
+        "bottomRight": [
+          404.6,
+          330.6
+        ],
+        "center": [
+          368.4,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#998B36"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>JUN</span></p>\n</root>",
+        "rawText": "JUN",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 380,
+      "name": "Google Shape;380;p37",
+      "pos": {
+        "topLeft": [
+          284.0,
+          297.4
+        ],
+        "bottomRight": [
+          356.4,
+          338.7
+        ],
+        "center": [
+          320.2,
+          318.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#998B36"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>MAY</span></p>\n</root>",
+        "rawText": "MAY",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 381,
+      "name": "Google Shape;381;p37",
+      "pos": {
+        "topLeft": [
+          216.0,
+          289.3
+        ],
+        "bottomRight": [
+          288.4,
+          330.6
+        ],
+        "center": [
+          252.2,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#998B36"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>APR</span></p>\n</root>",
+        "rawText": "APR",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 382,
+      "name": "Google Shape;382;p37",
+      "pos": {
+        "topLeft": [
+          151.0,
+          299.9
+        ],
+        "bottomRight": [
+          223.4,
+          341.2
+        ],
+        "center": [
+          187.2,
+          320.5
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#E2AB30"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>MAR</span></p>\n</root>",
+        "rawText": "MAR",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 383,
+      "name": "Google Shape;383;p37",
+      "pos": {
+        "topLeft": [
+          99.8,
+          289.3
+        ],
+        "bottomRight": [
+          172.2,
+          330.6
+        ],
+        "center": [
+          136.0,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#E2AB30"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>FEB</span></p>\n</root>",
+        "rawText": "FEB",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 384,
+      "name": "Google Shape;384;p37",
+      "pos": {
+        "topLeft": [
+          39.9,
+          307.4
+        ],
+        "bottomRight": [
+          112.3,
+          348.7
+        ],
+        "center": [
+          76.1,
+          328.0
+        ]
+      },
+      "size": {
+        "w": 72.4,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#E2AB30"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Bitter\" line-height=\"1.0\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>JAN</span></p>\n</root>",
+        "rawText": "JAN",
+        "fontInfo": {
+          "margin": [
+            28.8,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 385,
+      "name": "Google Shape;385;p37",
+      "pos": {
+        "topLeft": [
+          0.0,
+          289.3
+        ],
+        "bottomRight": [
+          56.1,
+          330.6
+        ],
+        "center": [
+          28.1,
+          310.0
+        ]
+      },
+      "size": {
+        "w": 56.1,
+        "h": 41.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#EDEADE"
+        },
+        "shadow": {
+          "type": "outer",
+          "transparency": 80.0,
+          "color": "#000000",
+          "size": 100.0,
+          "blur": 2.25,
+          "distance": 0.75,
+          "inherited": false
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "homePlate"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 386,
+      "name": "Google Shape;386;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        67.7,
+        292.0
+      ],
+      "endPos": [
+        67.7,
+        239.7
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Google Shape;387;p37",
+      "pos": {
+        "topLeft": [
+          64.1,
+          181.3
+        ],
+        "bottomRight": [
+          174.1,
+          237.3
+        ],
+        "center": [
+          119.1,
+          209.3
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Blue is the colour of the clear sky and the deep sea",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Blue is the colour of the clear sky and the deep sea</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 388,
+      "name": "Google Shape;388;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        184.0,
+        292.0
+      ],
+      "endPos": [
+        184.0,
+        239.7
+      ]
+    },
+    {
+      "id": 389,
+      "name": "Google Shape;389;p37",
+      "pos": {
+        "topLeft": [
+          180.5,
+          181.3
+        ],
+        "bottomRight": [
+          290.5,
+          237.3
+        ],
+        "center": [
+          235.5,
+          209.3
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Red is the colour of danger and courage",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Red is the colour of danger and courage</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 390,
+      "name": "Google Shape;390;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        300.3,
+        292.0
+      ],
+      "endPos": [
+        300.3,
+        239.7
+      ]
+    },
+    {
+      "id": 391,
+      "name": "Google Shape;391;p37",
+      "pos": {
+        "topLeft": [
+          296.9,
+          181.3
+        ],
+        "bottomRight": [
+          406.9,
+          237.3
+        ],
+        "center": [
+          351.9,
+          209.3
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Black is the color of ebony and of outer space",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Black is the color of ebony and of outer space</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 392,
+      "name": "Google Shape;392;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        416.6,
+        292.0
+      ],
+      "endPos": [
+        416.6,
+        239.7
+      ]
+    },
+    {
+      "id": 393,
+      "name": "Google Shape;393;p37",
+      "pos": {
+        "topLeft": [
+          413.3,
+          181.3
+        ],
+        "bottomRight": [
+          523.3,
+          237.3
+        ],
+        "center": [
+          468.3,
+          209.3
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Yellow is the color of gold, butter and ripe lemons",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Yellow is the color of gold, butter and ripe lemons</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 394,
+      "name": "Google Shape;394;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        532.9,
+        292.0
+      ],
+      "endPos": [
+        532.9,
+        239.7
+      ]
+    },
+    {
+      "id": 395,
+      "name": "Google Shape;395;p37",
+      "pos": {
+        "topLeft": [
+          529.8,
+          181.3
+        ],
+        "bottomRight": [
+          639.8,
+          237.3
+        ],
+        "center": [
+          584.8,
+          209.3
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "White is the color of milk and fresh snow",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>White is the color of milk and fresh snow</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 396,
+      "name": "Google Shape;396;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        649.1,
+        292.0
+      ],
+      "endPos": [
+        649.1,
+        239.7
+      ]
+    },
+    {
+      "id": 397,
+      "name": "Google Shape;397;p37",
+      "pos": {
+        "topLeft": [
+          646.2,
+          181.3
+        ],
+        "bottomRight": [
+          756.2,
+          237.3
+        ],
+        "center": [
+          701.2,
+          209.3
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Blue is the colour of the clear sky and the deep sea",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"b\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Blue is the colour of the clear sky and the deep sea</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 398,
+      "name": "Google Shape;398;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        126.7,
+        380.5
+      ],
+      "endPos": [
+        126.7,
+        328.2
+      ]
+    },
+    {
+      "id": 399,
+      "name": "Google Shape;399;p37",
+      "pos": {
+        "topLeft": [
+          120.5,
+          383.0
+        ],
+        "bottomRight": [
+          230.5,
+          439.0
+        ],
+        "center": [
+          175.5,
+          411.0
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Yellow is the color of gold, butter and ripe lemons",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Yellow is the color of gold, butter and ripe lemons</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 400,
+      "name": "Google Shape;400;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        243.0,
+        380.5
+      ],
+      "endPos": [
+        243.0,
+        328.2
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Google Shape;401;p37",
+      "pos": {
+        "topLeft": [
+          237.6,
+          383.0
+        ],
+        "bottomRight": [
+          347.6,
+          439.0
+        ],
+        "center": [
+          292.6,
+          411.0
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "White is the color of milk and fresh snow",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>White is the color of milk and fresh snow</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 402,
+      "name": "Google Shape;402;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        359.3,
+        380.5
+      ],
+      "endPos": [
+        359.3,
+        328.2
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Google Shape;403;p37",
+      "pos": {
+        "topLeft": [
+          354.7,
+          383.0
+        ],
+        "bottomRight": [
+          464.7,
+          439.0
+        ],
+        "center": [
+          409.7,
+          411.0
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Blue is the colour of the clear sky and the deep sea",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Blue is the colour of the clear sky and the deep sea</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 404,
+      "name": "Google Shape;404;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        475.6,
+        380.5
+      ],
+      "endPos": [
+        475.6,
+        328.2
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Google Shape;405;p37",
+      "pos": {
+        "topLeft": [
+          471.8,
+          383.0
+        ],
+        "bottomRight": [
+          581.8,
+          439.0
+        ],
+        "center": [
+          526.8,
+          411.0
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Red is the colour of danger and courage",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Red is the colour of danger and courage</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 406,
+      "name": "Google Shape;406;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        591.9,
+        380.5
+      ],
+      "endPos": [
+        591.9,
+        328.2
+      ]
+    },
+    {
+      "id": 407,
+      "name": "Google Shape;407;p37",
+      "pos": {
+        "topLeft": [
+          588.9,
+          383.0
+        ],
+        "bottomRight": [
+          698.9,
+          439.0
+        ],
+        "center": [
+          643.9,
+          411.0
+        ]
+      },
+      "size": {
+        "w": 110.0,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Black is the color of ebony and of outer space",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Black is the color of ebony and of outer space</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 408,
+      "name": "Google Shape;408;p37",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.75,
+        "color": "#EDEADE",
+        "dashStyle": "solid",
+        "beginArrowStyle": "oval",
+        "beginArrowLength": "med",
+        "beginArrowWidth": "med",
+        "endArrowStyle": "oval",
+        "endArrowLength": "med",
+        "endArrowWidth": "med",
+        "lineType": "line"
+      },
+      "startPos": [
+        708.2,
+        380.5
+      ],
+      "endPos": [
+        708.2,
+        328.2
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Google Shape;409;p37",
+      "pos": {
+        "topLeft": [
+          704.9,
+          383.0
+        ],
+        "bottomRight": [
+          796.0,
+          439.0
+        ],
+        "center": [
+          750.4,
+          411.0
+        ]
+      },
+      "size": {
+        "w": 91.1,
+        "h": 56.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Yellow is the color of gold, butter and ripe lemons",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" color=\"#49413E\" font=\"Bitter\" line-height=\"1.0\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Yellow is the color of gold, butter and ripe lemons</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true
+      }
+    }
+  ]
+}

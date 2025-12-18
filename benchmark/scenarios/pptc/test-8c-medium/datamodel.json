@@ -1,0 +1,479 @@
+{
+  "id": 280,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 432,
+      "name": "Google Shape;432;p40",
+      "pos": {
+        "topLeft": [
+          64.3,
+          79.9
+        ],
+        "bottomRight": [
+          404.6,
+          403.5
+        ],
+        "center": [
+          234.5,
+          241.7
+        ]
+      },
+      "size": {
+        "w": 340.3,
+        "h": 323.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 433,
+      "name": "Google Shape;433;p40",
+      "pos": {
+        "topLeft": [
+          149.2,
+          137.8
+        ],
+        "bottomRight": [
+          343.6,
+          333.1
+        ],
+        "center": [
+          246.4,
+          235.5
+        ]
+      },
+      "size": {
+        "w": 194.4,
+        "h": 195.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "434",
+        "435"
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Google Shape;434;p40",
+      "pos": {
+        "topLeft": [
+          149.2,
+          137.8
+        ],
+        "bottomRight": [
+          343.6,
+          333.1
+        ],
+        "center": [
+          246.4,
+          235.5
+        ]
+      },
+      "size": {
+        "w": 194.4,
+        "h": 195.3
+      },
+      "style": {
+        "fill": {
+          "type": "SOLID",
+          "color": "#3B0E94"
+        }
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            4.8,
+            4.8,
+            4.8,
+            4.8
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 435,
+      "name": "Google Shape;435;p40",
+      "pos": {
+        "topLeft": [
+          167.1,
+          142.4
+        ],
+        "bottomRight": [
+          325.8,
+          314.8
+        ],
+        "center": [
+          246.5,
+          228.6
+        ]
+      },
+      "size": {
+        "w": 158.7,
+        "h": 172.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          2.7,
+          2.7,
+          2.7,
+          2.7
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 436,
+      "name": "Google Shape;436;p40",
+      "pos": {
+        "topLeft": [
+          -33.3,
+          206.1
+        ],
+        "bottomRight": [
+          445.2,
+          490.6
+        ],
+        "center": [
+          206.0,
+          348.4
+        ]
+      },
+      "size": {
+        "w": 478.5,
+        "h": 284.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 437,
+      "name": "Google Shape;437;p40",
+      "pos": {
+        "topLeft": [
+          490.3,
+          44.4
+        ],
+        "bottomRight": [
+          888.7,
+          112.9
+        ],
+        "center": [
+          689.5,
+          78.7
+        ]
+      },
+      "size": {
+        "w": 398.4,
+        "h": 68.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "OUR SERVICES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#3B0E94\" font=\"Poppins ExtraBold\" line-height=\"1.2\" size=\"40.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">OUR SERVICES</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 438,
+      "name": "Google Shape;438;p40",
+      "pos": {
+        "topLeft": [
+          484.5,
+          342.2
+        ],
+        "bottomRight": [
+          637.1,
+          411.5
+        ],
+        "center": [
+          560.8,
+          376.8
+        ]
+      },
+      "size": {
+        "w": 152.6,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service Three",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFE000\" font=\"Gloria Hallelujah\" line-height=\"1.12004\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Service Three</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 439,
+      "name": "Google Shape;439;p40",
+      "pos": {
+        "topLeft": [
+          747.6,
+          342.2
+        ],
+        "bottomRight": [
+          888.7,
+          411.5
+        ],
+        "center": [
+          818.2,
+          376.8
+        ]
+      },
+      "size": {
+        "w": 141.1,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service Four",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFE000\" font=\"Gloria Hallelujah\" line-height=\"1.12004\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Service Four</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 440,
+      "name": "Google Shape;440;p40",
+      "pos": {
+        "topLeft": [
+          474.4,
+          422.6
+        ],
+        "bottomRight": [
+          647.1,
+          461.7
+        ],
+        "center": [
+          560.8,
+          442.2
+        ]
+      },
+      "size": {
+        "w": 172.7,
+        "h": 39.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Poppins\" line-height=\"1.40019\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 441,
+      "name": "Google Shape;441;p40",
+      "pos": {
+        "topLeft": [
+          731.8,
+          422.6
+        ],
+        "bottomRight": [
+          904.5,
+          461.7
+        ],
+        "center": [
+          818.2,
+          442.2
+        ]
+      },
+      "size": {
+        "w": 172.7,
+        "h": 39.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Poppins\" line-height=\"1.40019\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 442,
+      "name": "Google Shape;442;p40",
+      "pos": {
+        "topLeft": [
+          487.8,
+          160.6
+        ],
+        "bottomRight": [
+          633.8,
+          230.1
+        ],
+        "center": [
+          560.8,
+          195.4
+        ]
+      },
+      "size": {
+        "w": 146.0,
+        "h": 69.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service One",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFE000\" font=\"Gloria Hallelujah\" line-height=\"1.12004\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Service One</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 443,
+      "name": "Google Shape;443;p40",
+      "pos": {
+        "topLeft": [
+          747.6,
+          136.8
+        ],
+        "bottomRight": [
+          888.7,
+          206.1
+        ],
+        "center": [
+          818.2,
+          171.5
+        ]
+      },
+      "size": {
+        "w": 141.1,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Service Two",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFE000\" font=\"Gloria Hallelujah\" line-height=\"1.12004\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Service Two</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 444,
+      "name": "Google Shape;444;p40",
+      "pos": {
+        "topLeft": [
+          445.3,
+          264.1
+        ],
+        "bottomRight": [
+          618.0,
+          303.3
+        ],
+        "center": [
+          531.7,
+          283.7
+        ]
+      },
+      "size": {
+        "w": 172.7,
+        "h": 39.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Poppins\" line-height=\"1.4\" size=\"11.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 445,
+      "name": "Google Shape;445;p40",
+      "pos": {
+        "topLeft": [
+          731.8,
+          241.2
+        ],
+        "bottomRight": [
+          904.5,
+          280.3
+        ],
+        "center": [
+          818.2,
+          260.8
+        ]
+      },
+      "size": {
+        "w": 172.7,
+        "h": 39.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Poppins\" line-height=\"1.40019\" size=\"10.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 446,
+      "name": "Google Shape;446;p40",
+      "pos": {
+        "topLeft": [
+          198.8,
+          31.2
+        ],
+        "bottomRight": [
+          445.3,
+          247.2
+        ],
+        "center": [
+          322.1,
+          139.2
+        ]
+      },
+      "size": {
+        "w": 246.5,
+        "h": 216.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#CB6CE6"
+  }
+}

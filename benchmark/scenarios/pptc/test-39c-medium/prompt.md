@@ -1,0 +1,1 @@
+Pls center the percentages in the middle of the half-pie-charts.

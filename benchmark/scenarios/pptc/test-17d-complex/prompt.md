@@ -1,0 +1,1 @@
+Add space for a fifth person image, keep the side borders equal but realign the rest and also make sure to add the texts below and the green lines for the new spot.

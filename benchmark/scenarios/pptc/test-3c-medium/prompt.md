@@ -1,0 +1,1 @@
+This grid is ugly, I want 4 rows instead with the headings on the right and the content on the right, move the rose in the middle to the top right of the screen.

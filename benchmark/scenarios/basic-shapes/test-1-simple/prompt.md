@@ -1,0 +1,1 @@
+Please align the three boxes and make them same size.

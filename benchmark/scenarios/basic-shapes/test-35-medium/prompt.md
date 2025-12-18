@@ -1,0 +1,1 @@
+Please turn the 3 boxes into 6 boxes (3 columns, 2 rows) - resize them properly. Add a new horizontal line that parts the two rows. The two existing vertical lines should be resized so that they are only as high as the boxes in their row - then copy them so that there are in total 4 vertical shorter lines separating the columns (not interfering with the horizontal line) 

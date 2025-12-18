@@ -1,0 +1,1 @@
+Pls align the text within the SWOT.

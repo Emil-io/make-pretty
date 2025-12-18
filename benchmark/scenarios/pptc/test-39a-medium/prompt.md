@@ -1,0 +1,1 @@
+Pls move the yellow boxes with the icons a little bit lower so that there is space to both sides.

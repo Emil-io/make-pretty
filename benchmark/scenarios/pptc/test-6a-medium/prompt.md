@@ -1,0 +1,1 @@
+Somehow the two content columns are a bit smaller than the right image, please align the so that each has 1/3 of the widht.

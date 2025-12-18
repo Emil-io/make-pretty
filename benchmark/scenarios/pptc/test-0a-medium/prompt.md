@@ -1,0 +1,1 @@
+Make the right section of the slide be 2/3 of the total width and the left one 1/3. Keep the line breaks for the text on the left side, i.e do not reflow it.

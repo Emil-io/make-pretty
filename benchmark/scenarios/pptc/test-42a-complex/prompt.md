@@ -1,0 +1,1 @@
+Please align the numbers in the circles. Also align the boxes that surroun the table of contents (they should all have the same width/size, begin at the same x coordinate and be connected to the line.)

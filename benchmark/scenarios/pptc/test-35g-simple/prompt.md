@@ -1,0 +1,1 @@
+Please resize the box on the right so that it matches the bottom border.

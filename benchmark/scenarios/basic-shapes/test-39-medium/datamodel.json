@@ -1,0 +1,400 @@
+{
+  "id": 267,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Can we create a nice 4x2 grid?",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Can we create a nice 4x2 grid?</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rounded Rectangle 5",
+      "pos": {
+        "topLeft": [
+          88.2,
+          199.4
+        ],
+        "bottomRight": [
+          308.8,
+          372.7
+        ],
+        "center": [
+          198.5,
+          286.1
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Some fact</span></p>\n</root>",
+        "rawText": "Some fact",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rounded Rectangle 6",
+      "pos": {
+        "topLeft": [
+          363.6,
+          199.4
+        ],
+        "bottomRight": [
+          584.2,
+          372.7
+        ],
+        "center": [
+          473.9,
+          286.1
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Another fact</span></p>\n</root>",
+        "rawText": "Another fact",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Rounded Rectangle 8",
+      "pos": {
+        "topLeft": [
+          696.0,
+          197.4
+        ],
+        "bottomRight": [
+          916.6,
+          370.7
+        ],
+        "center": [
+          806.3,
+          284.1
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>What the fact</span></p>\n</root>",
+        "rawText": "What the fact",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rounded Rectangle 10",
+      "pos": {
+        "topLeft": [
+          971.4,
+          195.5
+        ],
+        "bottomRight": [
+          1192.0,
+          368.8
+        ],
+        "center": [
+          1081.7,
+          282.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fact?</span></p>\n</root>",
+        "rawText": "Fact?",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rounded Rectangle 2",
+      "pos": {
+        "topLeft": [
+          127.5,
+          430.5
+        ],
+        "bottomRight": [
+          348.1,
+          603.8
+        ],
+        "center": [
+          237.8,
+          517.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fact!</span></p>\n</root>",
+        "rawText": "Fact!",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rounded Rectangle 3",
+      "pos": {
+        "topLeft": [
+          404.3,
+          430.5
+        ],
+        "bottomRight": [
+          624.9,
+          603.8
+        ],
+        "center": [
+          514.6,
+          517.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Faxx</span></p>\n</root>",
+        "rawText": "Faxx",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rounded Rectangle 4",
+      "pos": {
+        "topLeft": [
+          681.0,
+          430.5
+        ],
+        "bottomRight": [
+          901.6,
+          603.8
+        ],
+        "center": [
+          791.3,
+          517.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fake Fact?</span></p>\n</root>",
+        "rawText": "Fake Fact?",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rounded Rectangle 7",
+      "pos": {
+        "topLeft": [
+          957.8,
+          430.5
+        ],
+        "bottomRight": [
+          1178.4,
+          603.8
+        ],
+        "center": [
+          1068.1,
+          517.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fact</span></p>\n</root>",
+        "rawText": "Fact",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Straight Connector 11",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 0.0,
+        "lineType": "line"
+      },
+      "startFrom": {
+        "id": 2.0,
+        "placement": 2.0
+      },
+      "startPos": [
+        640.0,
+        177.5
+      ],
+      "endPos": [
+        640.0,
+        677.2
+      ]
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the three boxes”"
+  }
+}

@@ -1,0 +1,1 @@
+Please align the 4 triangles with the text (evenly spaced). The line should go through the 4 triangles (behind them).

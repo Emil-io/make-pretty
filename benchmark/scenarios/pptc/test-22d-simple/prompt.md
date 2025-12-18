@@ -1,0 +1,1 @@
+Make only the phone height a bit smaller (don't crop, simply shrink) so that it is exactly as high as the two outer sides of the horizontal white lines.

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 103,
+        "name": "Ecken des Rechtecks auf der gleichen Seite abrunden 102",
+        "pos": {
+            "topLeft": [38.8, 190.5],
+            "bottomRight": [199.7, 350.5],
+            "center": [119.2, 270.5]
+        },
+        "size": { "w": 161, "h": 160 },
+        "style": { "border": { "width": 0.5 } },
+        "zIndex": 0,
+        "shapeType": "autoShape",
+        "details": {
+            "autoShapeType": "round2SameRect",
+            "topCornerRadius": 18,
+            "bottomCornerRadius": 0
+        },
+        "text": {
+            "markdown": "<div style='font-size: 24.0pt; color: rgb(38,38,38); font-family: Monument Extended'>\n\n<p align=\"center\">23</p>\n\n</div>",
+            "rawText": "23",
+            "fontInfo": {
+                "margin": [9.6, 9.6, 4.8, 4.8],
+                "wordWrap": true,
+                "autoSize": "NONE"
+            }
+        }
+    },
+    {
+        "id": 58,
+        "name": "Ecken des Rechtecks auf der gleichen Seite abrunden 57",
+        "pos": {
+            "topLeft": [38.8, 350.2],
+            "bottomRight": [199.7, 385.7],
+            "center": [119.2, 367.9]
+        },
+        "size": { "w": 161, "h": 36 },
+        "style": { "border": { "color": "#262626", "width": 0.5 } },
+        "zIndex": 0,
+        "shapeType": "autoShape",
+        "details": {
+            "autoShapeType": "round2SameRect",
+            "topCornerRadius": 0,
+            "bottomCornerRadius": 83.2
+        },
+        "text": {
+            "markdown": "<div style='font-size: 8.0pt; font-family: ABC Monument Grotesk Mono'>\n\n<p align=\"center\">Yearsofexperience</p>\n\n</div>",
+            "rawText": "Years of experience",
+            "fontInfo": {
+                "margin": [9.6, 9.4, 13.2, 9.4],
+                "wordWrap": true,
+                "autoSize": "NONE"
+            }
+        }
+    }
+]

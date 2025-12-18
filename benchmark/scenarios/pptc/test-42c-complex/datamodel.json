@@ -1,0 +1,957 @@
+{
+  "id": 264,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Picture 2",
+      "pos": {
+        "topLeft": [
+          -45.1,
+          0.0
+        ],
+        "bottomRight": [
+          2062.0,
+          1236.5
+        ],
+        "center": [
+          1008.5,
+          618.3
+        ]
+      },
+      "size": {
+        "w": 2107.1,
+        "h": 1236.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Group 3",
+      "pos": {
+        "topLeft": [
+          108.4,
+          51.6
+        ],
+        "bottomRight": [
+          286.5,
+          230.5
+        ],
+        "center": [
+          197.5,
+          141.1
+        ]
+      },
+      "size": {
+        "w": 178.1,
+        "h": 178.9
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "TextBox 5",
+      "pos": {
+        "topLeft": [
+          124.8,
+          57.9
+        ],
+        "bottomRight": [
+          270.2,
+          213.8
+        ],
+        "center": [
+          197.5,
+          135.9
+        ]
+      },
+      "size": {
+        "w": 145.4,
+        "h": 155.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 6,
+      "name": "AutoShape 6",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 4.0,
+        "color": "#225f44",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        145.1,
+        135.4
+      ],
+      "endPos": [
+        1761.5,
+        141.1
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Group 7",
+      "pos": {
+        "topLeft": [
+          462.0,
+          32.7
+        ],
+        "bottomRight": [
+          1008.4,
+          375.7
+        ],
+        "center": [
+          735.2,
+          204.2
+        ]
+      },
+      "size": {
+        "w": 546.4,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "TextBox 9",
+      "pos": {
+        "topLeft": [
+          462.0,
+          32.7
+        ],
+        "bottomRight": [
+          786.0,
+          375.7
+        ],
+        "center": [
+          624.0,
+          204.2
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 10,
+      "name": "Group 10",
+      "pos": {
+        "topLeft": [
+          1738.5,
+          88.3
+        ],
+        "bottomRight": [
+          1828.4,
+          178.6
+        ],
+        "center": [
+          1783.5,
+          133.5
+        ]
+      },
+      "size": {
+        "w": 89.9,
+        "h": 90.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "TextBox 12",
+      "pos": {
+        "topLeft": [
+          1746.8,
+          91.4
+        ],
+        "bottomRight": [
+          1820.2,
+          170.1
+        ],
+        "center": [
+          1783.5,
+          130.8
+        ]
+      },
+      "size": {
+        "w": 73.4,
+        "h": 78.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 13,
+      "name": "Group 13",
+      "pos": {
+        "topLeft": [
+          221.1,
+          467.1
+        ],
+        "bottomRight": [
+          438.2,
+          903.4
+        ],
+        "center": [
+          329.7,
+          685.3
+        ]
+      },
+      "size": {
+        "w": 217.1,
+        "h": 436.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "14"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Picture 14",
+      "pos": {
+        "topLeft": [
+          221.1,
+          467.1
+        ],
+        "bottomRight": [
+          438.2,
+          903.4
+        ],
+        "center": [
+          329.7,
+          685.3
+        ]
+      },
+      "size": {
+        "w": 217.1,
+        "h": 436.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Group 15",
+      "pos": {
+        "topLeft": [
+          499.8,
+          467.1
+        ],
+        "bottomRight": [
+          679.8,
+          643.4
+        ],
+        "center": [
+          589.8,
+          555.3
+        ]
+      },
+      "size": {
+        "w": 180.0,
+        "h": 176.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "16"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Picture 16",
+      "pos": {
+        "topLeft": [
+          499.8,
+          467.1
+        ],
+        "bottomRight": [
+          679.8,
+          643.4
+        ],
+        "center": [
+          589.8,
+          555.3
+        ]
+      },
+      "size": {
+        "w": 180.0,
+        "h": 176.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Group 17",
+      "pos": {
+        "topLeft": [
+          741.5,
+          467.1
+        ],
+        "bottomRight": [
+          958.6,
+          903.4
+        ],
+        "center": [
+          850.1,
+          685.3
+        ]
+      },
+      "size": {
+        "w": 217.1,
+        "h": 436.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "18"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Picture 18",
+      "pos": {
+        "topLeft": [
+          741.5,
+          467.1
+        ],
+        "bottomRight": [
+          958.6,
+          903.4
+        ],
+        "center": [
+          850.1,
+          685.3
+        ]
+      },
+      "size": {
+        "w": 217.1,
+        "h": 436.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 19,
+      "name": "TextBox 19",
+      "pos": {
+        "topLeft": [
+          221.1,
+          340.2
+        ],
+        "bottomRight": [
+          429.5,
+          450.9
+        ],
+        "center": [
+          325.3,
+          395.6
+        ]
+      },
+      "size": {
+        "w": 208.4,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Elaborate on what you want to discuss </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 20,
+      "name": "TextBox 20",
+      "pos": {
+        "topLeft": [
+          502.4,
+          74.3
+        ],
+        "bottomRight": [
+          988.7,
+          202.3
+        ],
+        "center": [
+          745.6,
+          138.3
+        ]
+      },
+      "size": {
+        "w": 486.3,
+        "h": 128.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Timeline",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#225F44\" font=\"+mn-lt\" line-height=\"0.096\" size=\"80.0\" space-before=\"0.0\"><span>Timeline</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 21,
+      "name": "TextBox 21",
+      "pos": {
+        "topLeft": [
+          166.4,
+          77.1
+        ],
+        "bottomRight": [
+          204.5,
+          205.1
+        ],
+        "center": [
+          185.5,
+          141.1
+        ]
+      },
+      "size": {
+        "w": 38.1,
+        "h": 128.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "2",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#FFFFFF\" font=\"+mn-lt\" line-height=\"0.096\" size=\"80.0\" space-before=\"0.0\"><span>2</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Group 22",
+      "pos": {
+        "topLeft": [
+          1020.2,
+          467.1
+        ],
+        "bottomRight": [
+          1200.2,
+          643.4
+        ],
+        "center": [
+          1110.2,
+          555.3
+        ]
+      },
+      "size": {
+        "w": 180.0,
+        "h": 176.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "23"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Picture 23",
+      "pos": {
+        "topLeft": [
+          1020.2,
+          467.1
+        ],
+        "bottomRight": [
+          1200.2,
+          643.4
+        ],
+        "center": [
+          1110.2,
+          555.3
+        ]
+      },
+      "size": {
+        "w": 180.0,
+        "h": 176.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Group 24",
+      "pos": {
+        "topLeft": [
+          1261.8,
+          467.1
+        ],
+        "bottomRight": [
+          1441.8,
+          643.4
+        ],
+        "center": [
+          1351.8,
+          555.3
+        ]
+      },
+      "size": {
+        "w": 180.0,
+        "h": 176.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "25"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Picture 25",
+      "pos": {
+        "topLeft": [
+          1261.8,
+          467.1
+        ],
+        "bottomRight": [
+          1441.8,
+          643.4
+        ],
+        "center": [
+          1351.8,
+          555.3
+        ]
+      },
+      "size": {
+        "w": 180.0,
+        "h": 176.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Group 26",
+      "pos": {
+        "topLeft": [
+          1503.5,
+          467.1
+        ],
+        "bottomRight": [
+          1720.6,
+          895.8
+        ],
+        "center": [
+          1612.1,
+          681.5
+        ]
+      },
+      "size": {
+        "w": 217.1,
+        "h": 428.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "27"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Picture 27",
+      "pos": {
+        "topLeft": [
+          1503.5,
+          467.1
+        ],
+        "bottomRight": [
+          1720.6,
+          895.8
+        ],
+        "center": [
+          1612.1,
+          681.5
+        ]
+      },
+      "size": {
+        "w": 217.1,
+        "h": 428.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 28,
+      "name": "TextBox 28",
+      "pos": {
+        "topLeft": [
+          741.5,
+          340.2
+        ],
+        "bottomRight": [
+          949.9,
+          450.9
+        ],
+        "center": [
+          845.7,
+          395.6
+        ]
+      },
+      "size": {
+        "w": 208.4,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Elaborate on what you want to discuss </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 29,
+      "name": "TextBox 29",
+      "pos": {
+        "topLeft": [
+          1503.5,
+          340.2
+        ],
+        "bottomRight": [
+          1711.9,
+          450.9
+        ],
+        "center": [
+          1607.7,
+          395.6
+        ]
+      },
+      "size": {
+        "w": 208.4,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Elaborate on what you want to discuss </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 30,
+      "name": "TextBox 30",
+      "pos": {
+        "topLeft": [
+          499.8,
+          656.5
+        ],
+        "bottomRight": [
+          708.2,
+          767.2
+        ],
+        "center": [
+          604.0,
+          711.9
+        ]
+      },
+      "size": {
+        "w": 208.4,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Elaborate on what you want to discuss </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 31,
+      "name": "TextBox 31",
+      "pos": {
+        "topLeft": [
+          1020.2,
+          656.5
+        ],
+        "bottomRight": [
+          1228.6,
+          767.2
+        ],
+        "center": [
+          1124.4,
+          711.9
+        ]
+      },
+      "size": {
+        "w": 208.4,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Elaborate on what you want to discuss </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 32,
+      "name": "TextBox 32",
+      "pos": {
+        "topLeft": [
+          1261.8,
+          656.5
+        ],
+        "bottomRight": [
+          1470.2,
+          767.2
+        ],
+        "center": [
+          1366.0,
+          711.9
+        ]
+      },
+      "size": {
+        "w": 208.4,
+        "h": 110.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"+mn-lt\" line-height=\"0.028\" size=\"20.0\" space-before=\"0.0\"><span>Elaborate on what you want to discuss </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Group 33",
+      "pos": {
+        "topLeft": [
+          1661.7,
+          972.8
+        ],
+        "bottomRight": [
+          1988.2,
+          1342.0
+        ],
+        "center": [
+          1825.0,
+          1157.4
+        ]
+      },
+      "size": {
+        "w": 326.5,
+        "h": 369.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "34",
+        "37"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Group 34",
+      "pos": {
+        "topLeft": [
+          1664.2,
+          998.9
+        ],
+        "bottomRight": [
+          1988.2,
+          1341.9
+        ],
+        "center": [
+          1826.2,
+          1170.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "35",
+        "36"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "TextBox 36",
+      "pos": {
+        "topLeft": [
+          1664.2,
+          998.9
+        ],
+        "bottomRight": [
+          1988.2,
+          1341.9
+        ],
+        "center": [
+          1826.2,
+          1170.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 37,
+      "name": "TextBox 37",
+      "pos": {
+        "topLeft": [
+          1661.7,
+          972.8
+        ],
+        "bottomRight": [
+          1962.3,
+          1010.6
+        ],
+        "center": [
+          1812.0,
+          991.7
+        ]
+      },
+      "size": {
+        "w": 300.6,
+        "h": 37.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "YOURLOGO",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"justify\" color=\"#000000\" line-height=\"0.0288\" size=\"24.0\" space-before=\"0.0\"><span>YOURLOGO</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FFF6EA"
+  }
+}

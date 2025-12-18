@@ -1,0 +1,1 @@
+Remove Marcos from the slide and make the other three be horizontal rows instead of three columns.

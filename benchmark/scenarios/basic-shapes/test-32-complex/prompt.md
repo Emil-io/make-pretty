@@ -1,0 +1,1 @@
+Add a larger box around the top two rows (including boxes and circles). Use a white fill and blue border (same style as existing boxes). Resize the current shapes so they fit neatly inside, and send the new box to the background.

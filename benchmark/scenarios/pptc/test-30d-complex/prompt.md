@@ -1,0 +1,1 @@
+Please align the SWOT letters! Also the lines happen to be misaligned (and partly wrong size). Pls also check the text.

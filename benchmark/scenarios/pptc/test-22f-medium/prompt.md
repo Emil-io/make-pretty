@@ -1,0 +1,1 @@
+This is wrong, we are the only company in the top right sector, the competitor that is shown there as well should actually be at the exact same place but one quadrant lower. Also, make sure to make all competitors in the light blue that the one already has.

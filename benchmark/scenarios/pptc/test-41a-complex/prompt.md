@@ -1,0 +1,1 @@
+The three coloured boxes should be as wide as the textblocks below. Adjust them and center/align the headings inside.

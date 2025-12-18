@@ -1,0 +1,122 @@
+{
+  "id": 269,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Can we turn pictures?",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Can we turn pictures?</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rounded Rectangle 2",
+      "pos": {
+        "topLeft": [
+          555.6,
+          527.8
+        ],
+        "bottomRight": [
+          776.2,
+          701.1
+        ],
+        "center": [
+          665.9,
+          614.4
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>As you can see you can’t see.</span></p>\n</root>",
+        "rawText": "As you can see you can’t see.",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Picture 11",
+      "pos": {
+        "topLeft": [
+          440.9,
+          252.4
+        ],
+        "bottomRight": [
+          891.0,
+          552.8
+        ],
+        "center": [
+          666.0,
+          402.6
+        ]
+      },
+      "size": {
+        "w": 450.1,
+        "h": 300.4
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the three boxes”"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": 258,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 4,
+      "name": "Triangle 3",
+      "pos": {
+        "topLeft": [
+          521.9,
+          191.7
+        ],
+        "bottomRight": [
+          758.0,
+          287.7
+        ],
+        "center": [
+          639.9,
+          239.7
+        ]
+      },
+      "size": {
+        "w": 236.1,
+        "h": 96.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "triangle"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Trapezium 5",
+      "pos": {
+        "topLeft": [
+          422.1,
+          301.8
+        ],
+        "bottomRight": [
+          858.0,
+          397.8
+        ],
+        "center": [
+          640.1,
+          349.8
+        ]
+      },
+      "size": {
+        "w": 435.9,
+        "h": 96.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "trapezoid"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Trapezium 6",
+      "pos": {
+        "topLeft": [
+          319.6,
+          412.0
+        ],
+        "bottomRight": [
+          960.5,
+          508.0
+        ],
+        "center": [
+          640.1,
+          460.0
+        ]
+      },
+      "size": {
+        "w": 640.9,
+        "h": 96.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "OTHER",
+        "otherAutoShapeType": "trapezoid"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 8,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Triangles are difficult",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Triangles are difficult</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    }
+  ]
+}

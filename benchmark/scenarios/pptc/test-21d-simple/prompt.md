@@ -1,0 +1,1 @@
+Make the two texts on the bottom bold and make sure they remain one-liners without decreasing the text size.

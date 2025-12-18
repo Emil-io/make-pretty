@@ -1,0 +1,1 @@
+Add the 3 images as new columns right to the already existant one. Copy the 'Name' and 'Title or Positon' texts under each one and make sure everything is spaced properly so that the horizontal spaces between the images are all equal.

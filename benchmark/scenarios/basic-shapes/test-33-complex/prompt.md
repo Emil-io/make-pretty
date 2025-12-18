@@ -1,0 +1,1 @@
+Please encirle the two rows in the middle with a new box (white filling, red border) and bring the new box to the background. Also reduce the width of all the horizontal boxes and add a new vertical box to the right (same styling as the box in the background - red border)

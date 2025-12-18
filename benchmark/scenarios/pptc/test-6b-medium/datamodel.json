@@ -1,0 +1,216 @@
+{
+  "id": 281,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 612,
+      "name": "Google Shape;612;p34",
+      "pos": {
+        "topLeft": [
+          719.1,
+          0.0
+        ],
+        "bottomRight": [
+          1556.6,
+          1082.9
+        ],
+        "center": [
+          1137.9,
+          541.5
+        ]
+      },
+      "size": {
+        "w": 837.5,
+        "h": 1082.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 613,
+      "name": "Google Shape;613;p34",
+      "pos": {
+        "topLeft": [
+          108.0,
+          146.7
+        ],
+        "bottomRight": [
+          829.6,
+          257.7
+        ],
+        "center": [
+          468.8,
+          202.2
+        ]
+      },
+      "size": {
+        "w": 721.6,
+        "h": 111.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Contact Us",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Poppins ExtraBold\" line-height=\"1.2\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Contact Us</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 614,
+      "name": "Google Shape;614;p34",
+      "pos": {
+        "topLeft": [
+          89.9,
+          505.4
+        ],
+        "bottomRight": [
+          699.0,
+          945.0
+        ],
+        "center": [
+          394.5,
+          725.2
+        ]
+      },
+      "size": {
+        "w": 609.1,
+        "h": 439.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "123 Anywhere St., Any City,ST 12345\n\n123-456-7890\n\nhello@reallygreatsite.com\n\n@reallygreatsite\n\nreallygreatsite.com",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.69\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">123 Anywhere St., Any City,ST 12345</span></p>\n<br/>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.69\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">123-456-7890</span></p>\n<br/>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.69\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">hello@reallygreatsite.com</span></p>\n<br/>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.69\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">@reallygreatsite</span></p>\n<br/>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Poppins\" line-height=\"1.69\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">reallygreatsite.com</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 615,
+      "name": "Google Shape;615;p34",
+      "pos": {
+        "topLeft": [
+          1556.6,
+          -2.9
+        ],
+        "bottomRight": [
+          1921.7,
+          362.2
+        ],
+        "center": [
+          1739.2,
+          179.7
+        ]
+      },
+      "size": {
+        "w": 365.1,
+        "h": 365.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 616,
+      "name": "Google Shape;616;p34",
+      "pos": {
+        "topLeft": [
+          1556.6,
+          360.2
+        ],
+        "bottomRight": [
+          1921.7,
+          725.3
+        ],
+        "center": [
+          1739.2,
+          542.8
+        ]
+      },
+      "size": {
+        "w": 365.1,
+        "h": 365.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 617,
+      "name": "Google Shape;617;p34",
+      "pos": {
+        "topLeft": [
+          1556.6,
+          717.8
+        ],
+        "bottomRight": [
+          1921.7,
+          1082.9
+        ],
+        "center": [
+          1739.2,
+          900.4
+        ]
+      },
+      "size": {
+        "w": 365.1,
+        "h": 365.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 618,
+      "name": "Google Shape;618;p34",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 2.25,
+        "color": "#000000",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        718.1,
+        1730.4
+      ],
+      "endPos": [
+        718.1,
+        -193.6
+      ]
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#F8D941"
+  }
+}

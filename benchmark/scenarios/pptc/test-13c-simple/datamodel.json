@@ -1,0 +1,1042 @@
+{
+  "id": 293,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 249,
+      "name": "Google Shape;249;p22",
+      "pos": {
+        "topLeft": [
+          181.9,
+          366.8
+        ],
+        "bottomRight": [
+          467.7,
+          664.4
+        ],
+        "center": [
+          324.8,
+          515.6
+        ]
+      },
+      "size": {
+        "w": 285.8,
+        "h": 297.6
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 7,
+      "columns": 7,
+      "cells": [
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 4
+        },
+        {
+          "text": "2",
+          "rowIndex": 0,
+          "colIndex": 5
+        },
+        {
+          "text": "1",
+          "rowIndex": 0,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "3",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "2",
+          "rowIndex": 1,
+          "colIndex": 3
+        },
+        {
+          "text": "3",
+          "rowIndex": 1,
+          "colIndex": 4
+        },
+        {
+          "text": "1",
+          "rowIndex": 1,
+          "colIndex": 5
+        },
+        {
+          "text": "1",
+          "rowIndex": 1,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "2",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 0
+        },
+        {
+          "text": "1",
+          "rowIndex": 3,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 4,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 5,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 6
+        },
+        {
+          "text": "1",
+          "rowIndex": 6,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 6,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 6
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    },
+    {
+      "id": 250,
+      "name": "Google Shape;250;p22",
+      "pos": {
+        "topLeft": [
+          777.6,
+          366.8
+        ],
+        "bottomRight": [
+          1063.4,
+          664.4
+        ],
+        "center": [
+          920.5,
+          515.6
+        ]
+      },
+      "size": {
+        "w": 285.8,
+        "h": 297.6
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 7,
+      "columns": 7,
+      "cells": [
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 4
+        },
+        {
+          "text": "2",
+          "rowIndex": 0,
+          "colIndex": 5
+        },
+        {
+          "text": "1",
+          "rowIndex": 0,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "3",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "2",
+          "rowIndex": 1,
+          "colIndex": 3
+        },
+        {
+          "text": "3",
+          "rowIndex": 1,
+          "colIndex": 4
+        },
+        {
+          "text": "1",
+          "rowIndex": 1,
+          "colIndex": 5
+        },
+        {
+          "text": "1",
+          "rowIndex": 1,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "2",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 0
+        },
+        {
+          "text": "1",
+          "rowIndex": 3,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 4,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 5,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 6
+        },
+        {
+          "text": "1",
+          "rowIndex": 6,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 6,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 6
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    },
+    {
+      "id": 251,
+      "name": "Google Shape;251;p22",
+      "pos": {
+        "topLeft": [
+          1373.5,
+          366.8
+        ],
+        "bottomRight": [
+          1659.3,
+          664.4
+        ],
+        "center": [
+          1516.4,
+          515.6
+        ]
+      },
+      "size": {
+        "w": 285.8,
+        "h": 297.6
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 7,
+      "columns": 7,
+      "cells": [
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 0,
+          "colIndex": 4
+        },
+        {
+          "text": "2",
+          "rowIndex": 0,
+          "colIndex": 5
+        },
+        {
+          "text": "1",
+          "rowIndex": 0,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "3",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "2",
+          "rowIndex": 1,
+          "colIndex": 3
+        },
+        {
+          "text": "3",
+          "rowIndex": 1,
+          "colIndex": 4
+        },
+        {
+          "text": "1",
+          "rowIndex": 1,
+          "colIndex": 5
+        },
+        {
+          "text": "1",
+          "rowIndex": 1,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "2",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 2,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 0
+        },
+        {
+          "text": "1",
+          "rowIndex": 3,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 3,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 4,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 4,
+          "colIndex": 6
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 5,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 5,
+          "colIndex": 6
+        },
+        {
+          "text": "1",
+          "rowIndex": 6,
+          "colIndex": 0
+        },
+        {
+          "text": "3",
+          "rowIndex": 6,
+          "colIndex": 1
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 2
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 3
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 4
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 5
+        },
+        {
+          "text": "",
+          "rowIndex": 6,
+          "colIndex": 6
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    },
+    {
+      "id": 252,
+      "name": "Google Shape;252;p22",
+      "pos": {
+        "topLeft": [
+          458.9,
+          108.0
+        ],
+        "bottomRight": [
+          1389.8,
+          221.0
+        ],
+        "center": [
+          924.4,
+          164.5
+        ]
+      },
+      "size": {
+        "w": 930.9,
+        "h": 113.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Example of nonogram",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#5F77BB\" font=\"Caveat\" line-height=\"1.2\" size=\"71.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Example of nonogram</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 256,
+      "name": "Google Shape;256;p22",
+      "pos": {
+        "topLeft": [
+          -339.9,
+          -80.7
+        ],
+        "bottomRight": [
+          555.8,
+          296.7
+        ],
+        "center": [
+          108.0,
+          108.0
+        ]
+      },
+      "size": {
+        "w": 895.7,
+        "h": 377.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 257,
+      "name": "Google Shape;257;p22",
+      "pos": {
+        "topLeft": [
+          1413.7,
+          -0.1
+        ],
+        "bottomRight": [
+          2088.9,
+          284.4
+        ],
+        "center": [
+          1751.3,
+          142.2
+        ]
+      },
+      "size": {
+        "w": 675.2,
+        "h": 284.5
+      },
+      "style": {
+        "rotation": 18.494766666666667
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Google Shape;253;p22",
+      "pos": {
+        "topLeft": [
+          138.4,
+          762.8
+        ],
+        "bottomRight": [
+          590.2,
+          887.7
+        ],
+        "center": [
+          364.3,
+          825.3
+        ]
+      },
+      "size": {
+        "w": 451.8,
+        "h": 124.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Look at the numbers on the sides and the top. Use them to find the black cells. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#5F77BB\" font=\"Inter\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Look at the numbers on the sides and the top. Use them to find the black cells. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Google Shape;254;p22",
+      "pos": {
+        "topLeft": [
+          734.1,
+          762.8
+        ],
+        "bottomRight": [
+          1185.9,
+          887.7
+        ],
+        "center": [
+          960.0,
+          825.3
+        ]
+      },
+      "size": {
+        "w": 451.8,
+        "h": 124.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "This means there is a block of\nthree consecutive black cells\nsomewhere on this row.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#5F77BB\" font=\"Inter\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">This means there is a block of</span></p>\n<p align=\"center\" cap=\"none\" color=\"#5F77BB\" font=\"Inter\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">three consecutive black cells</span></p>\n<p align=\"center\" cap=\"none\" color=\"#5F77BB\" font=\"Inter\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">somewhere on this row.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Google Shape;255;p22",
+      "pos": {
+        "topLeft": [
+          1299.7,
+          762.8
+        ],
+        "bottomRight": [
+          1812.0,
+          929.7
+        ],
+        "center": [
+          1555.9,
+          846.3
+        ]
+      },
+      "size": {
+        "w": 512.3,
+        "h": 166.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "This means there is 1 black cell followed by a block of 3 black cells. You must have at least 1 empty cell between these blocks.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#5F77BB\" font=\"Inter\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">This means there is 1 black cell followed by a block of 3 black cells. You must have at least 1 empty cell between these blocks.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#E6D7F4"
+  }
+}

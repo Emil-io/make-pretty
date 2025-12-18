@@ -1,0 +1,1 @@
+Pls crop all the larger pics so that we only have the quadratic pictures in the same size. Crop smart so that we can see the faces. Align all pics and move the text below them.

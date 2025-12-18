@@ -1,0 +1,1 @@
+Check if this slide has any logical/ content errors in the text or headings that I may have messed up, if yes correct them. 

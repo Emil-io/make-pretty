@@ -1,0 +1,1 @@
+Pls delete the second point (incl node, edges) and connect the first point to the third. Align the resulting shape so that it is centered.

@@ -1,0 +1,1 @@
+Make the icons be above the headings in each of the three columns.

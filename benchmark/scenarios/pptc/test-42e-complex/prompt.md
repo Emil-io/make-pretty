@@ -1,0 +1,1 @@
+Pls align the large text so that they all start in the same row. Align the text within their boxes. The middle box should match with its top border the right box and with its bottom border the left box.

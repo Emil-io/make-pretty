@@ -1,0 +1,1 @@
+Pls add a 5th picture in the sequence (just copy the first image and put it in the middle) - pls crop all pictures so that they have the same height but adjusted width. Add and align the text accordingly. 

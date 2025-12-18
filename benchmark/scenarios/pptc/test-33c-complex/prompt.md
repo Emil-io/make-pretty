@@ -1,0 +1,1 @@
+Please align the text and numbers in the 6 boxes.

@@ -1,0 +1,1338 @@
+{
+  "id": 287,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 573,
+      "name": "Google Shape;573;p40",
+      "pos": {
+        "topLeft": [
+          526.5,
+          478.3
+        ],
+        "bottomRight": [
+          1392.0,
+          521.3
+        ],
+        "center": [
+          959.3,
+          499.8
+        ]
+      },
+      "size": {
+        "w": 865.5,
+        "h": 43.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "574",
+        "575",
+        "576",
+        "577"
+      ]
+    },
+    {
+      "id": 574,
+      "name": "Google Shape;574;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        545.4,
+        502.4
+      ],
+      "endPos": [
+        545.4,
+        540.2
+      ]
+    },
+    {
+      "id": 575,
+      "name": "Google Shape;575;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        960.0,
+        459.4
+      ],
+      "endPos": [
+        960.0,
+        497.2
+      ]
+    },
+    {
+      "id": 576,
+      "name": "Google Shape;576;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1373.1,
+        502.4
+      ],
+      "endPos": [
+        1373.1,
+        540.2
+      ]
+    },
+    {
+      "id": 577,
+      "name": "Google Shape;577;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        543.9,
+        502.4
+      ],
+      "endPos": [
+        1378.9,
+        502.4
+      ]
+    },
+    {
+      "id": 578,
+      "name": "Google Shape;578;p40",
+      "pos": {
+        "topLeft": [
+          876.2,
+          295.3
+        ],
+        "bottomRight": [
+          1043.8,
+          462.9
+        ],
+        "center": [
+          960.0,
+          379.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 579,
+      "name": "Google Shape;579;p40",
+      "pos": {
+        "topLeft": [
+          300.6,
+          719.1
+        ],
+        "bottomRight": [
+          787.2,
+          759.9
+        ],
+        "center": [
+          543.9,
+          739.5
+        ]
+      },
+      "size": {
+        "w": 486.6,
+        "h": 40.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "580",
+        "581",
+        "582",
+        "583"
+      ]
+    },
+    {
+      "id": 580,
+      "name": "Google Shape;580;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        543.9,
+        700.2
+      ],
+      "endPos": [
+        543.9,
+        738.0
+      ]
+    },
+    {
+      "id": 581,
+      "name": "Google Shape;581;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        319.5,
+        741.0
+      ],
+      "endPos": [
+        319.5,
+        778.8
+      ]
+    },
+    {
+      "id": 582,
+      "name": "Google Shape;582;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        766.3,
+        734.9
+      ],
+      "endPos": [
+        766.3,
+        776.8
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Google Shape;583;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        318.0,
+        739.5
+      ],
+      "endPos": [
+        761.2,
+        739.5
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Google Shape;584;p40",
+      "pos": {
+        "topLeft": [
+          1127.8,
+          719.1
+        ],
+        "bottomRight": [
+          1614.4,
+          759.9
+        ],
+        "center": [
+          1371.1,
+          739.5
+        ]
+      },
+      "size": {
+        "w": 486.6,
+        "h": 40.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "585",
+        "586",
+        "587",
+        "588"
+      ]
+    },
+    {
+      "id": 585,
+      "name": "Google Shape;585;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1371.0,
+        700.2
+      ],
+      "endPos": [
+        1371.0,
+        738.0
+      ]
+    },
+    {
+      "id": 586,
+      "name": "Google Shape;586;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1146.7,
+        741.0
+      ],
+      "endPos": [
+        1146.7,
+        778.8
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Google Shape;587;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1593.5,
+        734.9
+      ],
+      "endPos": [
+        1593.5,
+        776.8
+      ]
+    },
+    {
+      "id": 588,
+      "name": "Google Shape;588;p40",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 3.0,
+        "color": "#FFFFFF",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1145.2,
+        739.5
+      ],
+      "endPos": [
+        1588.4,
+        739.5
+      ]
+    },
+    {
+      "id": 589,
+      "name": "Google Shape;589;p40",
+      "pos": {
+        "topLeft": [
+          463.1,
+          534.1
+        ],
+        "bottomRight": [
+          630.7,
+          701.7
+        ],
+        "center": [
+          546.9,
+          617.9
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 590,
+      "name": "Google Shape;590;p40",
+      "pos": {
+        "topLeft": [
+          237.2,
+          772.8
+        ],
+        "bottomRight": [
+          404.8,
+          940.4
+        ],
+        "center": [
+          321.0,
+          856.6
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 591,
+      "name": "Google Shape;591;p40",
+      "pos": {
+        "topLeft": [
+          1067.4,
+          772.8
+        ],
+        "bottomRight": [
+          1235.0,
+          940.4
+        ],
+        "center": [
+          1151.2,
+          856.6
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 592,
+      "name": "Google Shape;592;p40",
+      "pos": {
+        "topLeft": [
+          680.9,
+          772.8
+        ],
+        "bottomRight": [
+          848.5,
+          940.4
+        ],
+        "center": [
+          764.7,
+          856.6
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 593,
+      "name": "Google Shape;593;p40",
+      "pos": {
+        "topLeft": [
+          1511.1,
+          772.8
+        ],
+        "bottomRight": [
+          1678.7,
+          940.4
+        ],
+        "center": [
+          1594.9,
+          856.6
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 594,
+      "name": "Google Shape;594;p40",
+      "pos": {
+        "topLeft": [
+          1289.3,
+          534.1
+        ],
+        "bottomRight": [
+          1456.9,
+          701.7
+        ],
+        "center": [
+          1373.1,
+          617.9
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 167.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            9.6,
+            9.6
+          ],
+          "wordWrap": true,
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 595,
+      "name": "Google Shape;595;p40",
+      "pos": {
+        "topLeft": [
+          375.4,
+          92.3
+        ],
+        "bottomRight": [
+          1544.7,
+          221.3
+        ],
+        "center": [
+          960.1,
+          156.8
+        ]
+      },
+      "size": {
+        "w": 1169.3,
+        "h": 129.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add a Chart Page",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#395245\" font=\"Caveat\" line-height=\"1.2\" size=\"80.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Add a Chart Page</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 596,
+      "name": "Google Shape;596;p40",
+      "pos": {
+        "topLeft": [
+          650.7,
+          571.9
+        ],
+        "bottomRight": [
+          818.3,
+          648.9
+        ],
+        "center": [
+          734.5,
+          610.4
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "597",
+        "598"
+      ]
+    },
+    {
+      "id": 597,
+      "name": "Google Shape;597;p40",
+      "pos": {
+        "topLeft": [
+          650.7,
+          571.9
+        ],
+        "bottomRight": [
+          818.3,
+          615.5
+        ],
+        "center": [
+          734.5,
+          593.7
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 598,
+      "name": "Google Shape;598;p40",
+      "pos": {
+        "topLeft": [
+          650.7,
+          605.3
+        ],
+        "bottomRight": [
+          818.3,
+          648.9
+        ],
+        "center": [
+          734.5,
+          627.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 599,
+      "name": "Google Shape;599;p40",
+      "pos": {
+        "topLeft": [
+          237.2,
+          947.9
+        ],
+        "bottomRight": [
+          404.8,
+          1024.9
+        ],
+        "center": [
+          321.0,
+          986.4
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "600",
+        "601"
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Google Shape;600;p40",
+      "pos": {
+        "topLeft": [
+          237.2,
+          947.9
+        ],
+        "bottomRight": [
+          404.8,
+          991.5
+        ],
+        "center": [
+          321.0,
+          969.7
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 601,
+      "name": "Google Shape;601;p40",
+      "pos": {
+        "topLeft": [
+          237.2,
+          981.3
+        ],
+        "bottomRight": [
+          404.8,
+          1024.9
+        ],
+        "center": [
+          321.0,
+          1003.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 602,
+      "name": "Google Shape;602;p40",
+      "pos": {
+        "topLeft": [
+          680.9,
+          947.9
+        ],
+        "bottomRight": [
+          848.5,
+          1024.9
+        ],
+        "center": [
+          764.7,
+          986.4
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "603",
+        "604"
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Google Shape;603;p40",
+      "pos": {
+        "topLeft": [
+          680.9,
+          947.9
+        ],
+        "bottomRight": [
+          848.5,
+          991.5
+        ],
+        "center": [
+          764.7,
+          969.7
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 604,
+      "name": "Google Shape;604;p40",
+      "pos": {
+        "topLeft": [
+          680.9,
+          981.3
+        ],
+        "bottomRight": [
+          848.5,
+          1024.9
+        ],
+        "center": [
+          764.7,
+          1003.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 605,
+      "name": "Google Shape;605;p40",
+      "pos": {
+        "topLeft": [
+          1067.4,
+          947.9
+        ],
+        "bottomRight": [
+          1235.0,
+          1024.9
+        ],
+        "center": [
+          1151.2,
+          986.4
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "606",
+        "607"
+      ]
+    },
+    {
+      "id": 606,
+      "name": "Google Shape;606;p40",
+      "pos": {
+        "topLeft": [
+          1067.4,
+          947.9
+        ],
+        "bottomRight": [
+          1235.0,
+          991.5
+        ],
+        "center": [
+          1151.2,
+          969.7
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 607,
+      "name": "Google Shape;607;p40",
+      "pos": {
+        "topLeft": [
+          1067.4,
+          981.3
+        ],
+        "bottomRight": [
+          1235.0,
+          1024.9
+        ],
+        "center": [
+          1151.2,
+          1003.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 608,
+      "name": "Google Shape;608;p40",
+      "pos": {
+        "topLeft": [
+          1511.1,
+          947.9
+        ],
+        "bottomRight": [
+          1678.7,
+          1024.9
+        ],
+        "center": [
+          1594.9,
+          986.4
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "609",
+        "610"
+      ]
+    },
+    {
+      "id": 609,
+      "name": "Google Shape;609;p40",
+      "pos": {
+        "topLeft": [
+          1511.1,
+          947.9
+        ],
+        "bottomRight": [
+          1678.7,
+          991.5
+        ],
+        "center": [
+          1594.9,
+          969.7
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 610,
+      "name": "Google Shape;610;p40",
+      "pos": {
+        "topLeft": [
+          1511.1,
+          981.3
+        ],
+        "bottomRight": [
+          1678.7,
+          1024.9
+        ],
+        "center": [
+          1594.9,
+          1003.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 611,
+      "name": "Google Shape;611;p40",
+      "pos": {
+        "topLeft": [
+          1480.8,
+          571.9
+        ],
+        "bottomRight": [
+          1648.4,
+          648.9
+        ],
+        "center": [
+          1564.6,
+          610.4
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "612",
+        "613"
+      ]
+    },
+    {
+      "id": 612,
+      "name": "Google Shape;612;p40",
+      "pos": {
+        "topLeft": [
+          1480.8,
+          571.9
+        ],
+        "bottomRight": [
+          1648.4,
+          615.5
+        ],
+        "center": [
+          1564.6,
+          593.7
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 613,
+      "name": "Google Shape;613;p40",
+      "pos": {
+        "topLeft": [
+          1480.8,
+          605.3
+        ],
+        "bottomRight": [
+          1648.4,
+          648.9
+        ],
+        "center": [
+          1564.6,
+          627.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 614,
+      "name": "Google Shape;614;p40",
+      "pos": {
+        "topLeft": [
+          1063.8,
+          332.3
+        ],
+        "bottomRight": [
+          1231.4,
+          409.3
+        ],
+        "center": [
+          1147.6,
+          370.8
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 77.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "615",
+        "616"
+      ]
+    },
+    {
+      "id": 615,
+      "name": "Google Shape;615;p40",
+      "pos": {
+        "topLeft": [
+          1063.8,
+          332.3
+        ],
+        "bottomRight": [
+          1231.4,
+          375.9
+        ],
+        "center": [
+          1147.6,
+          354.1
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Name",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#395245\" font=\"Barlow\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Name</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 616,
+      "name": "Google Shape;616;p40",
+      "pos": {
+        "topLeft": [
+          1063.8,
+          365.7
+        ],
+        "bottomRight": [
+          1231.4,
+          409.3
+        ],
+        "center": [
+          1147.6,
+          387.5
+        ]
+      },
+      "size": {
+        "w": 167.6,
+        "h": 43.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Job Title",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#395245\" font=\"Barlow Medium\" line-height=\"2.25944\" size=\"18.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Job Title</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#CDC2B8"
+  }
+}

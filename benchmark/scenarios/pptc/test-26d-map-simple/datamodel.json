@@ -1,0 +1,553 @@
+{
+  "id": 270,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 395,
+      "name": "Google Shape;395;p27",
+      "pos": {
+        "topLeft": [
+          -27.4,
+          -26.3
+        ],
+        "bottomRight": [
+          244.7,
+          328.3
+        ],
+        "center": [
+          108.7,
+          151.0
+        ]
+      },
+      "size": {
+        "w": 272.1,
+        "h": 354.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 396,
+      "name": "Google Shape;396;p27",
+      "pos": {
+        "topLeft": [
+          1677.0,
+          -26.3
+        ],
+        "bottomRight": [
+          1945.0,
+          323.0
+        ],
+        "center": [
+          1811.0,
+          148.4
+        ]
+      },
+      "size": {
+        "w": 268.0,
+        "h": 349.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 397,
+      "name": "Google Shape;397;p27",
+      "pos": {
+        "topLeft": [
+          0.0,
+          279.1
+        ],
+        "bottomRight": [
+          1929.2,
+          1079.6
+        ],
+        "center": [
+          964.6,
+          679.4
+        ]
+      },
+      "size": {
+        "w": 1929.2,
+        "h": 800.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "398",
+        "399"
+      ]
+    },
+    {
+      "id": 399,
+      "name": "Google Shape;399;p27",
+      "pos": {
+        "topLeft": [
+          0.0,
+          279.1
+        ],
+        "bottomRight": [
+          324.0,
+          629.7
+        ],
+        "center": [
+          162.0,
+          454.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 350.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 400,
+      "name": "Google Shape;400;p27",
+      "pos": {
+        "topLeft": [
+          463.8,
+          403.4
+        ],
+        "bottomRight": [
+          1456.3,
+          972.0
+        ],
+        "center": [
+          960.1,
+          687.7
+        ]
+      },
+      "size": {
+        "w": 992.5,
+        "h": 568.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 401,
+      "name": "Google Shape;401;p27",
+      "pos": {
+        "topLeft": [
+          1235.1,
+          367.0
+        ],
+        "bottomRight": [
+          1314.7,
+          502.4
+        ],
+        "center": [
+          1274.9,
+          434.7
+        ]
+      },
+      "size": {
+        "w": 79.6,
+        "h": 135.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 402,
+      "name": "Google Shape;402;p27",
+      "pos": {
+        "topLeft": [
+          739.6,
+          620.0
+        ],
+        "bottomRight": [
+          819.2,
+          755.4
+        ],
+        "center": [
+          779.4,
+          687.7
+        ]
+      },
+      "size": {
+        "w": 79.6,
+        "h": 135.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 403,
+      "name": "Google Shape;403;p27",
+      "pos": {
+        "topLeft": [
+          1274.9,
+          657.4
+        ],
+        "bottomRight": [
+          1354.5,
+          792.8
+        ],
+        "center": [
+          1314.7,
+          725.1
+        ]
+      },
+      "size": {
+        "w": 79.6,
+        "h": 135.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 404,
+      "name": "Google Shape;404;p27",
+      "pos": {
+        "topLeft": [
+          577.1,
+          410.7
+        ],
+        "bottomRight": [
+          656.7,
+          546.1
+        ],
+        "center": [
+          616.9,
+          478.4
+        ]
+      },
+      "size": {
+        "w": 79.6,
+        "h": 135.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 405,
+      "name": "Google Shape;405;p27",
+      "pos": {
+        "topLeft": [
+          108.0,
+          453.4
+        ],
+        "bottomRight": [
+          525.5,
+          502.4
+        ],
+        "center": [
+          316.8,
+          477.9
+        ]
+      },
+      "size": {
+        "w": 417.5,
+        "h": 49.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Destination One",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#00A678\" font=\"Josefin Sans\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Destination One</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 406,
+      "name": "Google Shape;406;p27",
+      "pos": {
+        "topLeft": [
+          108.0,
+          770.5
+        ],
+        "bottomRight": [
+          525.5,
+          819.5
+        ],
+        "center": [
+          316.8,
+          795.0
+        ]
+      },
+      "size": {
+        "w": 417.5,
+        "h": 49.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Destination Three",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" bold=\"true\" cap=\"none\" color=\"#00A678\" font=\"Josefin Sans\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Destination Three</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 407,
+      "name": "Google Shape;407;p27",
+      "pos": {
+        "topLeft": [
+          108.0,
+          533.2
+        ],
+        "bottomRight": [
+          504.6,
+          617.1
+        ],
+        "center": [
+          306.3,
+          575.2
+        ]
+      },
+      "size": {
+        "w": 396.6,
+        "h": 83.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Presentations are</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 408,
+      "name": "Google Shape;408;p27",
+      "pos": {
+        "topLeft": [
+          108.0,
+          847.1
+        ],
+        "bottomRight": [
+          504.6,
+          931.0
+        ],
+        "center": [
+          306.3,
+          889.1
+        ]
+      },
+      "size": {
+        "w": 396.6,
+        "h": 83.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Presentations are</span></p>\n<p align=\"left\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 409,
+      "name": "Google Shape;409;p27",
+      "pos": {
+        "topLeft": [
+          1394.5,
+          453.4
+        ],
+        "bottomRight": [
+          1812.0,
+          502.4
+        ],
+        "center": [
+          1603.3,
+          477.9
+        ]
+      },
+      "size": {
+        "w": 417.5,
+        "h": 49.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Destination Two",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" bold=\"true\" cap=\"none\" color=\"#00A678\" font=\"Josefin Sans\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Destination Two</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 410,
+      "name": "Google Shape;410;p27",
+      "pos": {
+        "topLeft": [
+          1394.5,
+          770.5
+        ],
+        "bottomRight": [
+          1812.0,
+          819.5
+        ],
+        "center": [
+          1603.3,
+          795.0
+        ]
+      },
+      "size": {
+        "w": 417.5,
+        "h": 49.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Destination Four",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" bold=\"true\" cap=\"none\" color=\"#00A678\" font=\"Josefin Sans\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Destination Four</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 411,
+      "name": "Google Shape;411;p27",
+      "pos": {
+        "topLeft": [
+          1415.4,
+          530.0
+        ],
+        "bottomRight": [
+          1812.0,
+          613.9
+        ],
+        "center": [
+          1613.7,
+          572.0
+        ]
+      },
+      "size": {
+        "w": 396.6,
+        "h": 83.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Presentations are</span></p>\n<p align=\"right\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 412,
+      "name": "Google Shape;412;p27",
+      "pos": {
+        "topLeft": [
+          1415.4,
+          847.1
+        ],
+        "bottomRight": [
+          1812.0,
+          931.0
+        ],
+        "center": [
+          1613.7,
+          889.1
+        ]
+      },
+      "size": {
+        "w": 396.6,
+        "h": 83.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Presentations are</span></p>\n<p align=\"right\" cap=\"none\" color=\"#000000\" font=\"Josefin Sans\" line-height=\"1.4\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 413,
+      "name": "Google Shape;413;p27",
+      "pos": {
+        "topLeft": [
+          228.0,
+          106.0
+        ],
+        "bottomRight": [
+          1692.0,
+          212.0
+        ],
+        "center": [
+          960.0,
+          159.0
+        ]
+      },
+      "size": {
+        "w": 1464.0,
+        "h": 106.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Top Destinations",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FFFFFF\" font=\"Josefin Sans\" line-height=\"1.2\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Top Destinations</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#63CDD7"
+  }
+}

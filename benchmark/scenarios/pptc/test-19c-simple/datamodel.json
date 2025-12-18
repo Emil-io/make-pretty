@@ -1,0 +1,517 @@
+{
+  "id": 282,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 182,
+      "name": "Google Shape;182;p20",
+      "pos": {
+        "topLeft": [
+          80.1,
+          135.0
+        ],
+        "bottomRight": [
+          586.5,
+          467.2
+        ],
+        "center": [
+          333.3,
+          301.1
+        ]
+      },
+      "size": {
+        "w": 506.4,
+        "h": 332.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "183",
+        "184",
+        "185"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Google Shape;183;p20",
+      "pos": {
+        "topLeft": [
+          263.0,
+          220.7
+        ],
+        "bottomRight": [
+          403.5,
+          337.8
+        ],
+        "center": [
+          333.3,
+          279.3
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 117.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "S",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC1301\" font=\"Gaegu\" line-height=\"0.96999\" size=\"72.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">S</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 184,
+      "name": "Google Shape;184;p20",
+      "pos": {
+        "topLeft": [
+          214.1,
+          135.0
+        ],
+        "bottomRight": [
+          452.3,
+          219.8
+        ],
+        "center": [
+          333.2,
+          177.4
+        ]
+      },
+      "size": {
+        "w": 238.2,
+        "h": 84.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Strengths",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#F79646\" font=\"Gaegu\" line-height=\"1.28006\" size=\"40.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Strengths</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 185,
+      "name": "Google Shape;185;p20",
+      "pos": {
+        "topLeft": [
+          80.1,
+          355.1
+        ],
+        "bottomRight": [
+          586.5,
+          467.3
+        ],
+        "center": [
+          333.3,
+          411.2
+        ]
+      },
+      "size": {
+        "w": 506.4,
+        "h": 112.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are you doing well? \nWhat sets you apart?\nWhat are your good qualities?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What are you doing well? </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What sets you apart?</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What are your good qualities?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 186,
+      "name": "Google Shape;186;p20",
+      "pos": {
+        "topLeft": [
+          23.8,
+          601.8
+        ],
+        "bottomRight": [
+          642.7,
+          972.0
+        ],
+        "center": [
+          333.3,
+          786.9
+        ]
+      },
+      "size": {
+        "w": 618.9,
+        "h": 370.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "187",
+        "188",
+        "189"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Google Shape;187;p20",
+      "pos": {
+        "topLeft": [
+          23.8,
+          821.8
+        ],
+        "bottomRight": [
+          642.7,
+          972.0
+        ],
+        "center": [
+          333.3,
+          896.9
+        ]
+      },
+      "size": {
+        "w": 618.9,
+        "h": 150.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Where do you need to improve? \nAre resources adequate?\nWhat do others do\nbetter than you?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Where do you need to improve? </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Are resources adequate?</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What do others do</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">better than you?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 188,
+      "name": "Google Shape;188;p20",
+      "pos": {
+        "topLeft": [
+          263.0,
+          687.4
+        ],
+        "bottomRight": [
+          403.5,
+          804.5
+        ],
+        "center": [
+          333.3,
+          745.9
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 117.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "W",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC1301\" font=\"Gaegu\" line-height=\"0.96999\" size=\"72.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">W</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 189,
+      "name": "Google Shape;189;p20",
+      "pos": {
+        "topLeft": [
+          140.6,
+          601.8
+        ],
+        "bottomRight": [
+          526.0,
+          676.9
+        ],
+        "center": [
+          333.3,
+          639.3
+        ]
+      },
+      "size": {
+        "w": 385.4,
+        "h": 75.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Weaknesses",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FD9D29\" font=\"Gaegu\" line-height=\"1.28006\" size=\"40.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Weaknesses</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 190,
+      "name": "Google Shape;190;p20",
+      "pos": {
+        "topLeft": [
+          1398.3,
+          135.0
+        ],
+        "bottomRight": [
+          1806.6,
+          467.2
+        ],
+        "center": [
+          1602.5,
+          301.1
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 332.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "191",
+        "192",
+        "193"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Google Shape;191;p20",
+      "pos": {
+        "topLeft": [
+          1532.2,
+          220.7
+        ],
+        "bottomRight": [
+          1672.7,
+          337.8
+        ],
+        "center": [
+          1602.5,
+          279.3
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 117.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "O",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC1301\" font=\"Gaegu\" line-height=\"0.96999\" size=\"72.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">O</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 192,
+      "name": "Google Shape;192;p20",
+      "pos": {
+        "topLeft": [
+          1435.9,
+          135.0
+        ],
+        "bottomRight": [
+          1769.0,
+          210.1
+        ],
+        "center": [
+          1602.5,
+          172.6
+        ]
+      },
+      "size": {
+        "w": 333.1,
+        "h": 75.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Opportunities",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FD9D29\" font=\"Gaegu\" line-height=\"1.28006\" size=\"40.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Opportunities</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 193,
+      "name": "Google Shape;193;p20",
+      "pos": {
+        "topLeft": [
+          1398.3,
+          355.1
+        ],
+        "bottomRight": [
+          1806.6,
+          467.3
+        ],
+        "center": [
+          1602.5,
+          411.2
+        ]
+      },
+      "size": {
+        "w": 408.3,
+        "h": 112.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are your goals? \nAre demands shifting?\nHow can it be improved?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What are your goals? </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Are demands shifting?</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">How can it be improved?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 194,
+      "name": "Google Shape;194;p20",
+      "pos": {
+        "topLeft": [
+          1328.4,
+          601.8
+        ],
+        "bottomRight": [
+          1876.5,
+          972.0
+        ],
+        "center": [
+          1602.5,
+          786.9
+        ]
+      },
+      "size": {
+        "w": 548.1,
+        "h": 370.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "195",
+        "196",
+        "197"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Google Shape;195;p20",
+      "pos": {
+        "topLeft": [
+          1396.4,
+          821.8
+        ],
+        "bottomRight": [
+          1808.6,
+          972.0
+        ],
+        "center": [
+          1602.5,
+          896.9
+        ]
+      },
+      "size": {
+        "w": 412.2,
+        "h": 150.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "What are the blockers\nyou're facing? \nWhat are factors outside\nof your control?",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What are the blockers</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">you're facing? </span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">What are factors outside</span></p>\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#26B2EB\" font=\"Nunito\" line-height=\"1.26\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">of your control?</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 196,
+      "name": "Google Shape;196;p20",
+      "pos": {
+        "topLeft": [
+          1532.2,
+          687.4
+        ],
+        "bottomRight": [
+          1672.7,
+          804.5
+        ],
+        "center": [
+          1602.5,
+          745.9
+        ]
+      },
+      "size": {
+        "w": 140.5,
+        "h": 117.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "T",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FC1301\" font=\"Gaegu\" line-height=\"0.96999\" size=\"72.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">T</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 197,
+      "name": "Google Shape;197;p20",
+      "pos": {
+        "topLeft": [
+          1328.4,
+          601.8
+        ],
+        "bottomRight": [
+          1876.5,
+          676.9
+        ],
+        "center": [
+          1602.5,
+          639.3
+        ]
+      },
+      "size": {
+        "w": 548.1,
+        "h": 75.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Threats",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FD9D29\" font=\"Gaegu\" line-height=\"1.28006\" size=\"40.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Threats</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 198,
+      "name": "Google Shape;198;p20",
+      "pos": {
+        "topLeft": [
+          679.6,
+          177.3
+        ],
+        "bottomRight": [
+          1254.7,
+          902.8
+        ],
+        "center": [
+          967.2,
+          540.1
+        ]
+      },
+      "size": {
+        "w": 575.1,
+        "h": 725.5
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 353.1482
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#EFE9DC"
+  }
+}

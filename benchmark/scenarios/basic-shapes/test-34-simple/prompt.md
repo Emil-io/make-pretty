@@ -1,0 +1,1 @@
+Please make sure the lines are each in the middle of the boxes. Make sure the lines have the same height as the boxes. Make the lines thicker and dotted.

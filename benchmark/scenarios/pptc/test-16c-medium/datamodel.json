@@ -1,0 +1,304 @@
+{
+  "id": 287,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 550,
+      "name": "Google Shape;550;p34",
+      "pos": {
+        "topLeft": [
+          1118.7,
+          0.0
+        ],
+        "bottomRight": [
+          1920.0,
+          1080.0
+        ],
+        "center": [
+          1519.4,
+          540.0
+        ]
+      },
+      "size": {
+        "w": 801.3,
+        "h": 1080.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    },
+    {
+      "id": 551,
+      "name": "Google Shape;551;p34",
+      "pos": {
+        "topLeft": [
+          108.0,
+          237.8
+        ],
+        "bottomRight": [
+          967.8,
+          407.8
+        ],
+        "center": [
+          537.9,
+          322.8
+        ]
+      },
+      "size": {
+        "w": 859.8,
+        "h": 170.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Contact Us",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#00FECA\" font=\"Bungee Outline\" line-height=\"1.20002\" size=\"94.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Contact Us</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 552,
+      "name": "Google Shape;552;p34",
+      "pos": {
+        "topLeft": [
+          1009.6,
+          613.6
+        ],
+        "bottomRight": [
+          1227.8,
+          965.5
+        ],
+        "center": [
+          1118.7,
+          789.6
+        ]
+      },
+      "size": {
+        "w": 218.2,
+        "h": 351.9
+      },
+      "style": {
+        "rotation": 19.906066666666668
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 553,
+      "name": "Google Shape;553;p34",
+      "pos": {
+        "topLeft": [
+          108.7,
+          -79.1
+        ],
+        "bottomRight": [
+          239.6,
+          374.8
+        ],
+        "center": [
+          174.2,
+          147.9
+        ]
+      },
+      "size": {
+        "w": 130.9,
+        "h": 453.9
+      },
+      "style": {
+        "rotation": 90.0
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 554,
+      "name": "Google Shape;554;p34",
+      "pos": {
+        "topLeft": [
+          233.4,
+          518.8
+        ],
+        "bottomRight": [
+          842.5,
+          560.7
+        ],
+        "center": [
+          538.0,
+          539.8
+        ]
+      },
+      "size": {
+        "w": 609.1,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "123 Anywhere St., Any City,ST 12345",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Lato\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">123 Anywhere St., Any City,ST 12345</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 555,
+      "name": "Google Shape;555;p34",
+      "pos": {
+        "topLeft": [
+          282.4,
+          607.8
+        ],
+        "bottomRight": [
+          796.1,
+          649.7
+        ],
+        "center": [
+          539.3,
+          628.8
+        ]
+      },
+      "size": {
+        "w": 513.7,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "123-456-7890",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Lato\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">123-456-7890</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 556,
+      "name": "Google Shape;556;p34",
+      "pos": {
+        "topLeft": [
+          281.1,
+          702.2
+        ],
+        "bottomRight": [
+          794.8,
+          744.1
+        ],
+        "center": [
+          538.0,
+          723.2
+        ]
+      },
+      "size": {
+        "w": 513.7,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "hello@reallygreatsite.com",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Lato\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">hello@reallygreatsite.com</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 557,
+      "name": "Google Shape;557;p34",
+      "pos": {
+        "topLeft": [
+          282.4,
+          891.0
+        ],
+        "bottomRight": [
+          796.1,
+          932.9
+        ],
+        "center": [
+          539.3,
+          912.0
+        ]
+      },
+      "size": {
+        "w": 513.7,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "reallygreatsite.com",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Lato\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">reallygreatsite.com</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 558,
+      "name": "Google Shape;558;p34",
+      "pos": {
+        "topLeft": [
+          281.1,
+          796.6
+        ],
+        "bottomRight": [
+          794.8,
+          838.5
+        ],
+        "center": [
+          538.0,
+          817.6
+        ]
+      },
+      "size": {
+        "w": 513.7,
+        "h": 41.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "@reallygreatsite",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Lato\" line-height=\"1.4\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">@reallygreatsite</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#07112B"
+  }
+}

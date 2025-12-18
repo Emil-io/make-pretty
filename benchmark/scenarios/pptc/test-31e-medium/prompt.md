@@ -1,0 +1,1 @@
+Make a nice 3x2 grid with the 6 blue boxes. Keep all the other contents together with the boxes.

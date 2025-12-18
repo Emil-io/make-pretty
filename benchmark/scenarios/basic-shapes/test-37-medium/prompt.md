@@ -1,0 +1,1 @@
+Please transform the slide from the vertical layout into a horizontal layout (resize the boxes to be 3 horizontal boxes above each other - 3 rows), then rotate the lines 90° so that they separate the 3 rows in the middle!

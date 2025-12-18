@@ -1,0 +1,366 @@
+{
+  "id": 264,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "First Usecase: Align Objects 2",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>First Usecase: Align Objects 2</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rounded Rectangle 5",
+      "pos": {
+        "topLeft": [
+          234.4,
+          178.5
+        ],
+        "bottomRight": [
+          1191.8,
+          291.9
+        ],
+        "center": [
+          713.1,
+          235.2
+        ]
+      },
+      "size": {
+        "w": 957.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Oval 2",
+      "pos": {
+        "topLeft": [
+          88.0,
+          178.5
+        ],
+        "bottomRight": [
+          201.4,
+          291.9
+        ],
+        "center": [
+          144.7,
+          235.2
+        ]
+      },
+      "size": {
+        "w": 113.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Oval 6",
+      "pos": {
+        "topLeft": [
+          121.1,
+          303.3
+        ],
+        "bottomRight": [
+          234.5,
+          416.7
+        ],
+        "center": [
+          177.8,
+          360.0
+        ]
+      },
+      "size": {
+        "w": 113.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rounded Rectangle 7",
+      "pos": {
+        "topLeft": [
+          201.6,
+          314.7
+        ],
+        "bottomRight": [
+          1159.0,
+          428.1
+        ],
+        "center": [
+          680.3,
+          371.4
+        ]
+      },
+      "size": {
+        "w": 957.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Oval 8",
+      "pos": {
+        "topLeft": [
+          88.0,
+          451.0
+        ],
+        "bottomRight": [
+          201.4,
+          564.4
+        ],
+        "center": [
+          144.7,
+          507.7
+        ]
+      },
+      "size": {
+        "w": 113.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Rounded Rectangle 9",
+      "pos": {
+        "topLeft": [
+          292.4,
+          441.3
+        ],
+        "bottomRight": [
+          1249.8,
+          554.7
+        ],
+        "center": [
+          771.1,
+          498.0
+        ]
+      },
+      "size": {
+        "w": 957.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Oval 10",
+      "pos": {
+        "topLeft": [
+          105.6,
+          598.6
+        ],
+        "bottomRight": [
+          183.9,
+          676.9
+        ],
+        "center": [
+          144.8,
+          637.8
+        ]
+      },
+      "size": {
+        "w": 78.3,
+        "h": 78.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "ellipse"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Rounded Rectangle 11",
+      "pos": {
+        "topLeft": [
+          217.0,
+          568.3
+        ],
+        "bottomRight": [
+          1174.4,
+          681.7
+        ],
+        "center": [
+          695.7,
+          625.0
+        ]
+      },
+      "size": {
+        "w": 957.4,
+        "h": 113.4
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the bullets with their icons”"
+  }
+}

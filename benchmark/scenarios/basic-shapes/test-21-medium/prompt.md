@@ -1,0 +1,1 @@
+Delete the boxes and make a 3x5 grid layout using the circles.

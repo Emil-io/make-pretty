@@ -1,0 +1,583 @@
+{
+  "id": 287,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 341,
+      "name": "Google Shape;341;p27",
+      "pos": {
+        "topLeft": [
+          174.6,
+          271.5
+        ],
+        "bottomRight": [
+          489.3,
+          819.1
+        ],
+        "center": [
+          332.0,
+          545.3
+        ]
+      },
+      "size": {
+        "w": 314.7,
+        "h": 547.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 342,
+      "name": "Google Shape;342;p27",
+      "pos": {
+        "topLeft": [
+          221.0,
+          433.3
+        ],
+        "bottomRight": [
+          426.8,
+          668.2
+        ],
+        "center": [
+          323.9,
+          550.8
+        ]
+      },
+      "size": {
+        "w": 205.8,
+        "h": 234.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 343,
+      "name": "Google Shape;343;p27",
+      "pos": {
+        "topLeft": [
+          802.7,
+          271.5
+        ],
+        "bottomRight": [
+          1117.4,
+          819.1
+        ],
+        "center": [
+          960.1,
+          545.3
+        ]
+      },
+      "size": {
+        "w": 314.7,
+        "h": 547.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 344,
+      "name": "Google Shape;344;p27",
+      "pos": {
+        "topLeft": [
+          1439.3,
+          271.5
+        ],
+        "bottomRight": [
+          1754.0,
+          819.1
+        ],
+        "center": [
+          1596.6,
+          545.3
+        ]
+      },
+      "size": {
+        "w": 314.7,
+        "h": 547.6
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 345,
+      "name": "Google Shape;345;p27",
+      "pos": {
+        "topLeft": [
+          1799.1,
+          197.0
+        ],
+        "bottomRight": [
+          2005.7,
+          458.3
+        ],
+        "center": [
+          1902.4,
+          327.7
+        ]
+      },
+      "size": {
+        "w": 206.6,
+        "h": 261.3
+      },
+      "style": {
+        "rotation": 204.62971666666667
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 346,
+      "name": "Google Shape;346;p27",
+      "pos": {
+        "topLeft": [
+          33.1,
+          239.3
+        ],
+        "bottomRight": [
+          138.5,
+          448.5
+        ],
+        "center": [
+          85.8,
+          343.9
+        ]
+      },
+      "size": {
+        "w": 105.4,
+        "h": 209.2
+      },
+      "style": {
+        "rotation": 3.5705666666666667
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 347,
+      "name": "Google Shape;347;p27",
+      "pos": {
+        "topLeft": [
+          1077.2,
+          589.3
+        ],
+        "bottomRight": [
+          1260.2,
+          798.5
+        ],
+        "center": [
+          1168.7,
+          693.9
+        ]
+      },
+      "size": {
+        "w": 183.0,
+        "h": 209.2
+      },
+      "style": {
+        "rotation": 333.0198833333333
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "rect"
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root>\n<br/>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 348,
+      "name": "Google Shape;348;p27",
+      "pos": {
+        "topLeft": [
+          606.4,
+          126.9
+        ],
+        "bottomRight": [
+          1322.3,
+          165.8
+        ],
+        "center": [
+          964.4,
+          146.4
+        ]
+      },
+      "size": {
+        "w": 715.9,
+        "h": 38.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 349,
+      "name": "Google Shape;349;p27",
+      "pos": {
+        "topLeft": [
+          108.0,
+          859.6
+        ],
+        "bottomRight": [
+          555.8,
+          907.6
+        ],
+        "center": [
+          331.9,
+          883.6
+        ]
+      },
+      "size": {
+        "w": 447.8,
+        "h": 48.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Marketing Channel 1",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Pacifico\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Marketing Channel 1</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 350,
+      "name": "Google Shape;350;p27",
+      "pos": {
+        "topLeft": [
+          1410.3,
+          859.6
+        ],
+        "bottomRight": [
+          1827.8,
+          907.6
+        ],
+        "center": [
+          1619.1,
+          883.6
+        ]
+      },
+      "size": {
+        "w": 417.5,
+        "h": 48.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Marketing Channel 3",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Pacifico\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Marketing Channel 3</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Google Shape;351;p27",
+      "pos": {
+        "topLeft": [
+          108.0,
+          935.1
+        ],
+        "bottomRight": [
+          555.8,
+          1013.0
+        ],
+        "center": [
+          331.9,
+          974.1
+        ]
+      },
+      "size": {
+        "w": 447.8,
+        "h": 77.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Presentations are</span></p>\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Google Shape;352;p27",
+      "pos": {
+        "topLeft": [
+          751.3,
+          859.6
+        ],
+        "bottomRight": [
+          1168.8,
+          907.6
+        ],
+        "center": [
+          960.1,
+          883.6
+        ]
+      },
+      "size": {
+        "w": 417.5,
+        "h": 48.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Marketing Channel 2",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Pacifico\" line-height=\"1.2\" size=\"30.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Marketing Channel 2</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 353,
+      "name": "Google Shape;353;p27",
+      "pos": {
+        "topLeft": [
+          736.1,
+          935.1
+        ],
+        "bottomRight": [
+          1183.9,
+          1013.0
+        ],
+        "center": [
+          960.0,
+          974.1
+        ]
+      },
+      "size": {
+        "w": 447.8,
+        "h": 77.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Presentations are</span></p>\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 354,
+      "name": "Google Shape;354;p27",
+      "pos": {
+        "topLeft": [
+          1395.1,
+          935.1
+        ],
+        "bottomRight": [
+          1842.9,
+          1013.0
+        ],
+        "center": [
+          1619.0,
+          974.1
+        ]
+      },
+      "size": {
+        "w": 447.8,
+        "h": 77.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Presentations are\ncommunication tools",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Presentations are</span></p>\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Josefin Sans\" line-height=\"1.3\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">communication tools</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 355,
+      "name": "Google Shape;355;p27",
+      "pos": {
+        "topLeft": [
+          159.4,
+          84.9
+        ],
+        "bottomRight": [
+          504.5,
+          189.9
+        ],
+        "center": [
+          332.0,
+          137.4
+        ]
+      },
+      "size": {
+        "w": 345.1,
+        "h": 105.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Channels",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#254865\" font=\"Pacifico\" line-height=\"1.2\" size=\"65.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span baseline=\"0\" strike=\"noStrike\">Channels</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 356,
+      "name": "Google Shape;356;p27",
+      "pos": {
+        "topLeft": [
+          861.4,
+          433.3
+        ],
+        "bottomRight": [
+          1067.2,
+          668.2
+        ],
+        "center": [
+          964.3,
+          550.8
+        ]
+      },
+      "size": {
+        "w": 205.8,
+        "h": 234.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 357,
+      "name": "Google Shape;357;p27",
+      "pos": {
+        "topLeft": [
+          1501.8,
+          433.3
+        ],
+        "bottomRight": [
+          1707.6,
+          668.2
+        ],
+        "center": [
+          1604.7,
+          550.8
+        ]
+      },
+      "size": {
+        "w": 205.8,
+        "h": 234.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#D5F1FF"
+  }
+}

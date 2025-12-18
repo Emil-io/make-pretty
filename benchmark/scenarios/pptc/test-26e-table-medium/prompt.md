@@ -1,0 +1,1 @@
+Add two more "feature" rows to the table of the Asia table (same formatting as with the other tables).

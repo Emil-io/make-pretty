@@ -1,0 +1,226 @@
+info:
+  slide_count: 1
+  slide_width: 1280
+  slide_height: 720
+  slide_center:
+    w: 640.0
+    h: 360.0
+slides[1]:
+  - index: 0
+    id: 268
+    slide_layout:
+    name: Title and Content
+    shapes[2]:
+    -           [5]:
+    - id: 2
+    pos:
+    topLeft[2]: 88,38
+    bottomRight[2]: 1192,177
+    center[2]: 640.0,107.5
+    size:
+    w: 1104.0
+    h: 139.0
+    shapeType: placeholder
+    placeholderType: BODY
+    text: Click to edit Master title style
+    - id: 3
+    pos:
+    topLeft[2]: 88,191
+    bottomRight[2]: 1192,647
+    center[2]: 640.0,419.0
+    size:
+    w: 1104.0
+    h: 456.0
+    shapeType: placeholder
+    placeholderType: BODY
+    text: "Click to edit Master text styles
+    Second level
+    Third level
+    Fourth level
+    Fifth level"
+    - id: 4
+    pos:
+    topLeft[2]: 88,667
+    bottomRight[2]: 376,705
+    center[2]: 232.0,686.0
+    size:
+    w: 288.0
+    h: 38.0
+    shapeType: placeholder
+    placeholderType: BODY
+    text: 25.10.25
+    - id: 5
+    pos:
+    topLeft[2]: 424,667
+    bottomRight[2]: 856,705
+    center[2]: 640.0,686.0
+    size:
+    w: 432.0
+    h: 38.0
+    shapeType: placeholder
+    placeholderType: BODY
+    text: null
+    - id: 6
+    pos:
+    topLeft[2]: 904,667
+    bottomRight[2]: 1192,705
+    center[2]: 1048.0,686.0
+    size:
+    w: 288.0
+    h: 38.0
+    shapeType: placeholder
+    placeholderType: BODY
+    text: ‹#›
+    - null
+    shapes[9]:
+    - id: 2
+    pos:
+    topLeft[2]: 88,38
+    bottomRight[2]: 1192,177
+    center[2]: 640.0,107.5
+    size:
+    w: 1104.0
+    h: 139.0
+    shapeType: placeholder
+    placeholderType: BODY
+    text: Can we create a nice 4x3 grid?
+    - id: 6
+    pos:
+    topLeft[2]: 88,199
+    bottomRight[2]: 308,372
+    center[2]: 198.0,285.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Some fact</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 7
+    pos:
+    topLeft[2]: 363,199
+    bottomRight[2]: 583,372
+    center[2]: 473.0,285.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Another fact</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 9
+    pos:
+    topLeft[2]: 695,197
+    bottomRight[2]: 915,370
+    center[2]: 805.0,283.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">What the fact</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 11
+    pos:
+    topLeft[2]: 971,195
+    bottomRight[2]: 1191,368
+    center[2]: 1081.0,281.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Fact?</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 3
+    pos:
+    topLeft[2]: 127,430
+    bottomRight[2]: 347,603
+    center[2]: 237.0,516.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Fact!</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 4
+    pos:
+    topLeft[2]: 404,430
+    bottomRight[2]: 624,603
+    center[2]: 514.0,516.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Faxx</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 5
+    pos:
+    topLeft[2]: 681,430
+    bottomRight[2]: 901,603
+    center[2]: 791.0,516.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Fake Fact?</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    - id: 8
+    pos:
+    topLeft[2]: 957,430
+    bottomRight[2]: 1177,603
+    center[2]: 1067.0,516.5
+    size:
+    w: 220.0
+    h: 173.0
+    shapeType: autoShape
+    details:
+    autoShapeType: roundRect
+    cornerRadius: 16.7
+    text:
+    markdown: "<p align=\"center\">Fact</p>"
+    fontInfo:
+    margin[4]: 9,9,4,4
+    wordWrap: false
+    notes:
+    text: "Promt: “Please align the three boxes”"
+    placeholders[1]{placeholder_format,name,has_text,text}:
+    TITLE (1),Title 1,true,Can we create a nice 4x3 grid?

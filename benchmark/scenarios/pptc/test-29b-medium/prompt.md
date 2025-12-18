@@ -1,0 +1,1 @@
+Please align the photos and text boxes.

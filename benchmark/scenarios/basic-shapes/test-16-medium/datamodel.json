@@ -1,0 +1,244 @@
+{
+  "id": 268,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Can we create a nice 2x2 grid with picture?",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Can we create a nice 2x2 grid with picture?</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rounded Rectangle 5",
+      "pos": {
+        "topLeft": [
+          88.2,
+          199.4
+        ],
+        "bottomRight": [
+          308.8,
+          372.7
+        ],
+        "center": [
+          198.5,
+          286.1
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Some fact</span></p>\n</root>",
+        "rawText": "Some fact",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rounded Rectangle 6",
+      "pos": {
+        "topLeft": [
+          363.6,
+          199.4
+        ],
+        "bottomRight": [
+          584.2,
+          372.7
+        ],
+        "center": [
+          473.9,
+          286.1
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Another fact</span></p>\n</root>",
+        "rawText": "Another fact",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rounded Rectangle 2",
+      "pos": {
+        "topLeft": [
+          127.5,
+          430.5
+        ],
+        "bottomRight": [
+          348.1,
+          603.8
+        ],
+        "center": [
+          237.8,
+          517.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fact!</span></p>\n</root>",
+        "rawText": "Fact!",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rounded Rectangle 3",
+      "pos": {
+        "topLeft": [
+          404.3,
+          430.5
+        ],
+        "bottomRight": [
+          624.9,
+          603.8
+        ],
+        "center": [
+          514.6,
+          517.2
+        ]
+      },
+      "size": {
+        "w": 220.6,
+        "h": 173.3
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Faxx</span></p>\n</root>",
+        "rawText": "Faxx",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Picture 11",
+      "pos": {
+        "topLeft": [
+          706.9,
+          242.4
+        ],
+        "bottomRight": [
+          1157.0,
+          542.8
+        ],
+        "center": [
+          932.0,
+          392.6
+        ]
+      },
+      "size": {
+        "w": 450.1,
+        "h": 300.4
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpg"
+      }
+    }
+  ],
+  "notes": {
+    "text": "Promt: “Please align the three boxes”"
+  }
+}

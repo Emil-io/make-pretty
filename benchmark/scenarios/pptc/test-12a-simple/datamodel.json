@@ -1,0 +1,224 @@
+{
+  "id": 256,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 84,
+      "name": "Google Shape;84;p13",
+      "pos": {
+        "topLeft": [
+          809.3,
+          -111.1
+        ],
+        "bottomRight": [
+          1552.9,
+          455.4
+        ],
+        "center": [
+          1181.1,
+          172.2
+        ]
+      },
+      "size": {
+        "w": 743.6,
+        "h": 566.5
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 316.81303333333335
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 85,
+      "name": "Google Shape;85;p13",
+      "pos": {
+        "topLeft": [
+          1455.3,
+          -194.5
+        ],
+        "bottomRight": [
+          2168.6,
+          348.9
+        ],
+        "center": [
+          1812.0,
+          77.2
+        ]
+      },
+      "size": {
+        "w": 713.3,
+        "h": 543.4
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 328.3729
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 86,
+      "name": "Google Shape;86;p13",
+      "pos": {
+        "topLeft": [
+          101.0,
+          483.0
+        ],
+        "bottomRight": [
+          953.6,
+          1066.6
+        ],
+        "center": [
+          527.3,
+          774.8
+        ]
+      },
+      "size": {
+        "w": 852.6,
+        "h": 583.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Mother's\nDay",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#FF4545\" font=\"Zilla Slab Medium\" line-height=\"0.7\" size=\"172.01\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Mother's</span></p>\n<p align=\"left\" cap=\"none\" color=\"#FF4545\" font=\"Zilla Slab Medium\" line-height=\"0.7\" size=\"172.01\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Day</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 87,
+      "name": "Google Shape;87;p13",
+      "pos": {
+        "topLeft": [
+          101.0,
+          398.0
+        ],
+        "bottomRight": [
+          953.6,
+          461.0
+        ],
+        "center": [
+          527.3,
+          429.5
+        ]
+      },
+      "size": {
+        "w": 852.6,
+        "h": 63.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "MARKETING PRESENTATION",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" cap=\"none\" color=\"#669933\" font=\"Lato\" line-height=\"1.20005\" size=\"39.99\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">MARKETING PRESENTATION</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 88,
+      "name": "Google Shape;88;p13",
+      "pos": {
+        "topLeft": [
+          881.5,
+          -194.1
+        ],
+        "bottomRight": [
+          2054.1,
+          1564.9
+        ],
+        "center": [
+          1467.8,
+          685.4
+        ]
+      },
+      "size": {
+        "w": 1172.6,
+        "h": 1759.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 89,
+      "name": "Google Shape;89;p13",
+      "pos": {
+        "topLeft": [
+          -93.7,
+          -175.7
+        ],
+        "bottomRight": [
+          412.0,
+          330.0
+        ],
+        "center": [
+          159.1,
+          77.2
+        ]
+      },
+      "size": {
+        "w": 505.7,
+        "h": 505.7
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 57.399883333333335
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 90,
+      "name": "Google Shape;90;p13",
+      "pos": {
+        "topLeft": [
+          -238.0,
+          847.7
+        ],
+        "bottomRight": [
+          505.6,
+          1414.2
+        ],
+        "center": [
+          133.8,
+          1131.0
+        ]
+      },
+      "size": {
+        "w": 743.6,
+        "h": 566.5
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 42.906616666666665
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#FBF4EB"
+  }
+}

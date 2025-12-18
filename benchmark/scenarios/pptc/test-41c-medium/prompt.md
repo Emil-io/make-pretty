@@ -1,0 +1,1 @@
+I want to have the 4 points in a straight line - straighten the lines, circles, and align the text boxes beneath them.

@@ -1,0 +1,1 @@
+Pls align the icons in the center of the yellow circles, align the circles, lines, and text boxes!

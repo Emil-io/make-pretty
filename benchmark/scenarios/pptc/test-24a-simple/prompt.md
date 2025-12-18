@@ -1,0 +1,1 @@
+You are a PowerPoint Copilot AI. Please follow the instruction given for you in the slide and execute them. Also delete the textbox that contains the instructions.

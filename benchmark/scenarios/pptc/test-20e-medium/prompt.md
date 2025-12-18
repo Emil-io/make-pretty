@@ -1,0 +1,1 @@
+Remove one of the columns and respace so that everything looks fine afterwards.

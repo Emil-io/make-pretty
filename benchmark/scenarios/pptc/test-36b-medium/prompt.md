@@ -1,0 +1,1 @@
+Pls add a forth triangle to the right (blue, like the second one) - incl. the text. Realign the 4 triangles so that they fit the slide.

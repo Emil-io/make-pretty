@@ -1,0 +1,1 @@
+Add a fourth column ot the right that has 90% as value and some image/ icon that contains a beach and has a similar theme to the others. Rescale the other columns so that everything fits.

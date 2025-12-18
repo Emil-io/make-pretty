@@ -1,0 +1,1 @@
+Please put the icons in the circles and align the headings.

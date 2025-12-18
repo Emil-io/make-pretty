@@ -1,0 +1,10 @@
+# Alignment Agent Configuration
+
+[model]
+name = "gpt-5"
+verbosity = "low"
+verbose = false
+
+[model.reasoning]
+effort = "medium"
+

@@ -1,0 +1,1 @@
+Please align the text to be centered horizontally.

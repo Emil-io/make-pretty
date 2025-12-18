@@ -1,0 +1,1196 @@
+{
+  "id": 272,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Group 2",
+      "pos": {
+        "topLeft": [
+          1095.4,
+          695.8
+        ],
+        "bottomRight": [
+          1596.8,
+          976.4
+        ],
+        "center": [
+          1346.1,
+          836.1
+        ]
+      },
+      "size": {
+        "w": 501.4,
+        "h": 280.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "TextBox 3",
+      "pos": {
+        "topLeft": [
+          1152.7,
+          959.0
+        ],
+        "bottomRight": [
+          1161.7,
+          976.4
+        ],
+        "center": [
+          1157.2,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 9.0,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "S",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>S</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 4,
+      "name": "TextBox 4",
+      "pos": {
+        "topLeft": [
+          1218.9,
+          959.0
+        ],
+        "bottomRight": [
+          1230.9,
+          976.4
+        ],
+        "center": [
+          1224.9,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 12.0,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "M",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>M</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 5,
+      "name": "TextBox 5",
+      "pos": {
+        "topLeft": [
+          1288.3,
+          959.0
+        ],
+        "bottomRight": [
+          1296.8,
+          976.4
+        ],
+        "center": [
+          1292.6,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 8.5,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "T",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>T</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 6,
+      "name": "TextBox 6",
+      "pos": {
+        "topLeft": [
+          1353.0,
+          959.0
+        ],
+        "bottomRight": [
+          1367.3,
+          976.4
+        ],
+        "center": [
+          1360.2,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 14.3,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "W",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>W</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 7,
+      "name": "TextBox 7",
+      "pos": {
+        "topLeft": [
+          1418.7,
+          959.0
+        ],
+        "bottomRight": [
+          1436.9,
+          976.4
+        ],
+        "center": [
+          1427.8,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 18.2,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "TH",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>TH</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 8,
+      "name": "TextBox 8",
+      "pos": {
+        "topLeft": [
+          1491.4,
+          959.0
+        ],
+        "bottomRight": [
+          1499.4,
+          976.4
+        ],
+        "center": [
+          1495.4,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 8.0,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "F",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>F</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 9,
+      "name": "TextBox 9",
+      "pos": {
+        "topLeft": [
+          1553.9,
+          959.0
+        ],
+        "bottomRight": [
+          1572.1,
+          976.4
+        ],
+        "center": [
+          1563.0,
+          967.7
+        ]
+      },
+      "size": {
+        "w": 18.2,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "SA",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>SA</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Group 10",
+      "pos": {
+        "topLeft": [
+          1123.4,
+          705.1
+        ],
+        "bottomRight": [
+          1596.8,
+          954.1
+        ],
+        "center": [
+          1360.1,
+          829.6
+        ]
+      },
+      "size": {
+        "w": 473.4,
+        "h": 249.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "TextBox 16",
+      "pos": {
+        "topLeft": [
+          1095.5,
+          695.8
+        ],
+        "bottomRight": [
+          1116.8,
+          713.2
+        ],
+        "center": [
+          1106.2,
+          704.5
+        ]
+      },
+      "size": {
+        "w": 21.3,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "40 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>40 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 17,
+      "name": "TextBox 17",
+      "pos": {
+        "topLeft": [
+          1095.4,
+          758.0
+        ],
+        "bottomRight": [
+          1116.7,
+          775.4
+        ],
+        "center": [
+          1106.1,
+          766.7
+        ]
+      },
+      "size": {
+        "w": 21.3,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "30 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>30 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 18,
+      "name": "TextBox 18",
+      "pos": {
+        "topLeft": [
+          1095.6,
+          820.1
+        ],
+        "bottomRight": [
+          1116.7,
+          837.5
+        ],
+        "center": [
+          1106.1,
+          828.8
+        ]
+      },
+      "size": {
+        "w": 21.1,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "20 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>20 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 19,
+      "name": "TextBox 19",
+      "pos": {
+        "topLeft": [
+          1098.5,
+          882.2
+        ],
+        "bottomRight": [
+          1116.8,
+          899.6
+        ],
+        "center": [
+          1107.7,
+          890.9
+        ]
+      },
+      "size": {
+        "w": 18.3,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "10 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>10 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 20,
+      "name": "TextBox 20",
+      "pos": {
+        "topLeft": [
+          1104.2,
+          944.3
+        ],
+        "bottomRight": [
+          1116.7,
+          961.7
+        ],
+        "center": [
+          1110.5,
+          953.0
+        ]
+      },
+      "size": {
+        "w": 12.5,
+        "h": 17.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "0 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.014\" size=\"10.0\"><span>0 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Group 21",
+      "pos": {
+        "topLeft": [
+          1154.9,
+          725.0
+        ],
+        "bottomRight": [
+          1565.4,
+          844.3
+        ],
+        "center": [
+          1360.2,
+          784.7
+        ]
+      },
+      "size": {
+        "w": 410.5,
+        "h": 119.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Group 28",
+      "pos": {
+        "topLeft": [
+          1100.7,
+          209.0
+        ],
+        "bottomRight": [
+          1541.6,
+          510.4
+        ],
+        "center": [
+          1321.2,
+          359.7
+        ]
+      },
+      "size": {
+        "w": 440.9,
+        "h": 301.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "29",
+        "30",
+        "31"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "TextBox 29",
+      "pos": {
+        "topLeft": [
+          1494.6,
+          330.9
+        ],
+        "bottomRight": [
+          1541.6,
+          383.8
+        ],
+        "center": [
+          1518.1,
+          357.3
+        ]
+      },
+      "size": {
+        "w": 47.0,
+        "h": 52.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Male\n50%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.0207\" size=\"14.8\"><span>Male</span></p>\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.0207\" size=\"14.8\"><span>50%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 30,
+      "name": "TextBox 30",
+      "pos": {
+        "topLeft": [
+          1100.7,
+          330.9
+        ],
+        "bottomRight": [
+          1171.9,
+          383.8
+        ],
+        "center": [
+          1136.3,
+          357.3
+        ]
+      },
+      "size": {
+        "w": 71.2,
+        "h": 52.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Female\n50%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.0207\" size=\"14.8\"><span>Female</span></p>\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sauce\" line-height=\"0.0207\" size=\"14.8\"><span>50%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Group 31",
+      "pos": {
+        "topLeft": [
+          1178.4,
+          209.0
+        ],
+        "bottomRight": [
+          1484.2,
+          510.4
+        ],
+        "center": [
+          1331.3,
+          359.7
+        ]
+      },
+      "size": {
+        "w": 305.8,
+        "h": 301.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "32",
+        "33",
+        "34"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Group 39",
+      "pos": {
+        "topLeft": [
+          111.4,
+          664.4
+        ],
+        "bottomRight": [
+          781.8,
+          758.4
+        ],
+        "center": [
+          446.6,
+          711.4
+        ]
+      },
+      "size": {
+        "w": 670.4,
+        "h": 94.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "40"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Group 40",
+      "pos": {
+        "topLeft": [
+          111.4,
+          664.4
+        ],
+        "bottomRight": [
+          781.8,
+          758.4
+        ],
+        "center": [
+          446.6,
+          711.4
+        ]
+      },
+      "size": {
+        "w": 670.4,
+        "h": 94.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "41",
+        "42"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Group 43",
+      "pos": {
+        "topLeft": [
+          112.2,
+          904.6
+        ],
+        "bottomRight": [
+          780.9,
+          972.0
+        ],
+        "center": [
+          446.6,
+          938.3
+        ]
+      },
+      "size": {
+        "w": 668.7,
+        "h": 67.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "44"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Group 44",
+      "pos": {
+        "topLeft": [
+          112.2,
+          904.6
+        ],
+        "bottomRight": [
+          780.9,
+          972.0
+        ],
+        "center": [
+          446.6,
+          938.3
+        ]
+      },
+      "size": {
+        "w": 668.7,
+        "h": 67.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "45",
+        "46"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Group 47",
+      "pos": {
+        "topLeft": [
+          110.7,
+          332.7
+        ],
+        "bottomRight": [
+          962.7,
+          402.0
+        ],
+        "center": [
+          536.7,
+          367.3
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "48",
+        "49"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "TextBox 49",
+      "pos": {
+        "topLeft": [
+          110.7,
+          332.7
+        ],
+        "bottomRight": [
+          434.7,
+          401.2
+        ],
+        "center": [
+          272.7,
+          367.0
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 68.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ELABORATE ON THE DATA YOU WANT TO DISCUSS. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"left\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.021\" size=\"15.0\" space-before=\"0.0\"><span>ELABORATE ON THE DATA YOU WANT TO DISCUSS. </span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          26.7,
+          26.7,
+          26.7,
+          26.7
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 50,
+      "name": "TextBox 50",
+      "pos": {
+        "topLeft": [
+          110.7,
+          111.0
+        ],
+        "bottomRight": [
+          968.1,
+          295.2
+        ],
+        "center": [
+          539.4,
+          203.1
+        ]
+      },
+      "size": {
+        "w": 857.4,
+        "h": 184.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Add an\nInfographic Page",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Open Sans Bold\" line-height=\"0.0696\" size=\"60.0\" space-before=\"0.0\"><span>Add an</span></p>\n<p align=\"left\" color=\"#FFFFFF\" font=\"Open Sans Bold\" line-height=\"0.0696\" size=\"60.0\" space-before=\"0.0\"><span>Infographic Page</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 51,
+      "name": "TextBox 51",
+      "pos": {
+        "topLeft": [
+          897.5,
+          376.4
+        ],
+        "bottomRight": [
+          989.8,
+          431.4
+        ],
+        "center": [
+          943.7,
+          403.9
+        ]
+      },
+      "size": {
+        "w": 92.3,
+        "h": 55.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "80%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Lato Bold\" line-height=\"0.042\" size=\"30.0\" space-before=\"0.0\"><span>80%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 52,
+      "name": "TextBox 52",
+      "pos": {
+        "topLeft": [
+          822.8,
+          732.4
+        ],
+        "bottomRight": [
+          915.1,
+          787.4
+        ],
+        "center": [
+          869.0,
+          759.9
+        ]
+      },
+      "size": {
+        "w": 92.3,
+        "h": 55.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "50%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Lato Bold\" line-height=\"0.042\" size=\"30.0\" space-before=\"0.0\"><span>50%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 53,
+      "name": "TextBox 53",
+      "pos": {
+        "topLeft": [
+          901.5,
+          917.8
+        ],
+        "bottomRight": [
+          993.8,
+          972.8
+        ],
+        "center": [
+          947.7,
+          945.3
+        ]
+      },
+      "size": {
+        "w": 92.3,
+        "h": 55.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "10%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Lato Bold\" line-height=\"0.042\" size=\"30.0\" space-before=\"0.0\"><span>10%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 54,
+      "name": "TextBox 54",
+      "pos": {
+        "topLeft": [
+          1654.7,
+          271.5
+        ],
+        "bottomRight": [
+          1812.0,
+          439.4
+        ],
+        "center": [
+          1733.4,
+          355.5
+        ]
+      },
+      "size": {
+        "w": 157.3,
+        "h": 167.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the data you want to discuss",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Lato Bold\" line-height=\"0.0322\" size=\"23.0\" space-before=\"0.0\"><span>Elaborate on the data you want to discuss</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 55,
+      "name": "TextBox 55",
+      "pos": {
+        "topLeft": [
+          1654.7,
+          749.9
+        ],
+        "bottomRight": [
+          1812.0,
+          917.8
+        ],
+        "center": [
+          1733.4,
+          833.9
+        ]
+      },
+      "size": {
+        "w": 157.3,
+        "h": 167.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the data you want to discuss",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#FFFFFF\" font=\"Lato Bold\" line-height=\"0.0322\" size=\"23.0\" space-before=\"0.0\"><span>Elaborate on the data you want to discuss</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Group 56",
+      "pos": {
+        "topLeft": [
+          108.0,
+          811.4
+        ],
+        "bottomRight": [
+          960.0,
+          882.2
+        ],
+        "center": [
+          534.0,
+          846.8
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 70.8
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "57",
+        "58"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "TextBox 58",
+      "pos": {
+        "topLeft": [
+          108.0,
+          811.4
+        ],
+        "bottomRight": [
+          432.0,
+          882.2
+        ],
+        "center": [
+          270.0,
+          846.8
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 70.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ELABORATE ON THE DATA YOU WANT TO DISCUSS. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"left\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.021\" size=\"15.0\" space-before=\"0.0\"><span>ELABORATE ON THE DATA YOU WANT TO DISCUSS. </span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          26.7,
+          26.7,
+          26.7,
+          26.7
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 59,
+      "name": "Group 59",
+      "pos": {
+        "topLeft": [
+          108.0,
+          581.9
+        ],
+        "bottomRight": [
+          960.0,
+          651.2
+        ],
+        "center": [
+          534.0,
+          616.6
+        ]
+      },
+      "size": {
+        "w": 852.0,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "60",
+        "61"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "TextBox 61",
+      "pos": {
+        "topLeft": [
+          108.0,
+          581.9
+        ],
+        "bottomRight": [
+          432.0,
+          651.2
+        ],
+        "center": [
+          270.0,
+          616.6
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ELABORATE ON THE DATA YOU WANT TO DISCUSS. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"left\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.021\" size=\"15.0\" space-before=\"0.0\"><span>ELABORATE ON THE DATA YOU WANT TO DISCUSS. </span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          26.7,
+          26.7,
+          26.7,
+          26.7
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 62,
+      "name": "Group 62",
+      "pos": {
+        "topLeft": [
+          1095.4,
+          94.8
+        ],
+        "bottomRight": [
+          1812.0,
+          164.1
+        ],
+        "center": [
+          1453.7,
+          129.5
+        ]
+      },
+      "size": {
+        "w": 716.6,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "63",
+        "64"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "TextBox 64",
+      "pos": {
+        "topLeft": [
+          1095.4,
+          94.8
+        ],
+        "bottomRight": [
+          1419.4,
+          164.1
+        ],
+        "center": [
+          1257.4,
+          129.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 69.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ELABORATE ON THE DATA YOU WANT TO DISCUSS. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"left\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.021\" size=\"15.0\" space-before=\"0.0\"><span>ELABORATE ON THE DATA YOU WANT TO DISCUSS. </span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          26.7,
+          26.7,
+          26.7,
+          26.7
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 65,
+      "name": "Group 65",
+      "pos": {
+        "topLeft": [
+          1095.4,
+          572.1
+        ],
+        "bottomRight": [
+          1812.0,
+          642.8
+        ],
+        "center": [
+          1453.7,
+          607.5
+        ]
+      },
+      "size": {
+        "w": 716.6,
+        "h": 70.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "66",
+        "67"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "TextBox 67",
+      "pos": {
+        "topLeft": [
+          1095.4,
+          572.1
+        ],
+        "bottomRight": [
+          1419.4,
+          642.8
+        ],
+        "center": [
+          1257.4,
+          607.5
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 70.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ELABORATE ON THE DATA YOU WANT TO DISCUSS. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"left\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.021\" size=\"15.0\" space-before=\"0.0\"><span>ELABORATE ON THE DATA YOU WANT TO DISCUSS. </span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          26.7,
+          26.7,
+          26.7,
+          26.7
+        ],
+        "wordWrap": false
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#004E8E"
+  }
+}

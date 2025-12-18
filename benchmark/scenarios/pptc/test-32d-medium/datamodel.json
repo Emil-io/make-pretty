@@ -1,0 +1,662 @@
+{
+  "id": 270,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 314,
+      "name": "Google Shape;314;p15",
+      "pos": {
+        "topLeft": [
+          139.1,
+          401.7
+        ],
+        "bottomRight": [
+          485.4,
+          836.3
+        ],
+        "center": [
+          312.3,
+          619.0
+        ]
+      },
+      "size": {
+        "w": 346.3,
+        "h": 434.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 315,
+      "name": "Google Shape;315;p15",
+      "pos": {
+        "topLeft": [
+          554.1,
+          401.7
+        ],
+        "bottomRight": [
+          900.4,
+          836.3
+        ],
+        "center": [
+          727.3,
+          619.0
+        ]
+      },
+      "size": {
+        "w": 346.3,
+        "h": 434.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 316,
+      "name": "Google Shape;316;p15",
+      "pos": {
+        "topLeft": [
+          984.6,
+          401.7
+        ],
+        "bottomRight": [
+          1330.5,
+          836.3
+        ],
+        "center": [
+          1157.6,
+          619.0
+        ]
+      },
+      "size": {
+        "w": 345.9,
+        "h": 434.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 317,
+      "name": "Google Shape;317;p15",
+      "pos": {
+        "topLeft": [
+          1603.1,
+          -231.0
+        ],
+        "bottomRight": [
+          2256.9,
+          485.3
+        ],
+        "center": [
+          1930.0,
+          127.1
+        ]
+      },
+      "size": {
+        "w": 653.8,
+        "h": 716.3
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 270.0
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 318,
+      "name": "Google Shape;318;p15",
+      "pos": {
+        "topLeft": [
+          1414.7,
+          401.7
+        ],
+        "bottomRight": [
+          1761.0,
+          836.3
+        ],
+        "center": [
+          1587.9,
+          619.0
+        ]
+      },
+      "size": {
+        "w": 346.3,
+        "h": 434.6
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 319,
+      "name": "Google Shape;319;p15",
+      "pos": {
+        "topLeft": [
+          -345.9,
+          -147.4
+        ],
+        "bottomRight": [
+          312.3,
+          284.6
+        ],
+        "center": [
+          -16.8,
+          68.6
+        ]
+      },
+      "size": {
+        "w": 658.2,
+        "h": 432.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 320,
+      "name": "Google Shape;320;p15",
+      "pos": {
+        "topLeft": [
+          36.2,
+          147.7
+        ],
+        "bottomRight": [
+          133.0,
+          259.3
+        ],
+        "center": [
+          84.6,
+          203.5
+        ]
+      },
+      "size": {
+        "w": 96.8,
+        "h": 111.6
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 333.99508333333335
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 321,
+      "name": "Google Shape;321;p15",
+      "pos": {
+        "topLeft": [
+          257.6,
+          99.0
+        ],
+        "bottomRight": [
+          1662.4,
+          265.0
+        ],
+        "center": [
+          960.0,
+          182.0
+        ]
+      },
+      "size": {
+        "w": 1404.8,
+        "h": 166.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "322",
+        "323"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Google Shape;322;p15",
+      "pos": {
+        "topLeft": [
+          257.6,
+          99.0
+        ],
+        "bottomRight": [
+          1662.4,
+          214.8
+        ],
+        "center": [
+          960.0,
+          156.9
+        ]
+      },
+      "size": {
+        "w": 1404.8,
+        "h": 115.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A TEAM MEMBERS PAGE",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"67.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A TEAM MEMBERS PAGE</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 323,
+      "name": "Google Shape;323;p15",
+      "pos": {
+        "topLeft": [
+          353.1,
+          227.6
+        ],
+        "bottomRight": [
+          1566.9,
+          265.0
+        ],
+        "center": [
+          960.0,
+          246.3
+        ]
+      },
+      "size": {
+        "w": 1213.8,
+        "h": 37.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you want to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what you want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 324,
+      "name": "Google Shape;324;p15",
+      "pos": {
+        "topLeft": [
+          184.7,
+          868.2
+        ],
+        "bottomRight": [
+          439.8,
+          951.9
+        ],
+        "center": [
+          312.3,
+          910.1
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 83.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "325",
+        "326"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Google Shape;325;p15",
+      "pos": {
+        "topLeft": [
+          184.7,
+          868.2
+        ],
+        "bottomRight": [
+          439.8,
+          908.0
+        ],
+        "center": [
+          312.3,
+          888.1
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 39.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 326,
+      "name": "Google Shape;326;p15",
+      "pos": {
+        "topLeft": [
+          184.7,
+          914.5
+        ],
+        "bottomRight": [
+          439.8,
+          951.9
+        ],
+        "center": [
+          312.3,
+          933.2
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 37.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 327,
+      "name": "Google Shape;327;p15",
+      "pos": {
+        "topLeft": [
+          599.7,
+          867.8
+        ],
+        "bottomRight": [
+          854.8,
+          952.0
+        ],
+        "center": [
+          727.3,
+          909.9
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 84.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "328",
+        "329"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "Google Shape;328;p15",
+      "pos": {
+        "topLeft": [
+          599.7,
+          867.8
+        ],
+        "bottomRight": [
+          854.8,
+          907.6
+        ],
+        "center": [
+          727.3,
+          887.7
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 39.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 329,
+      "name": "Google Shape;329;p15",
+      "pos": {
+        "topLeft": [
+          599.7,
+          914.6
+        ],
+        "bottomRight": [
+          854.8,
+          952.0
+        ],
+        "center": [
+          727.3,
+          933.3
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 37.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 330,
+      "name": "Google Shape;330;p15",
+      "pos": {
+        "topLeft": [
+          1030.0,
+          868.2
+        ],
+        "bottomRight": [
+          1285.1,
+          951.9
+        ],
+        "center": [
+          1157.6,
+          910.1
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 83.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "331",
+        "332"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "Google Shape;331;p15",
+      "pos": {
+        "topLeft": [
+          1030.0,
+          868.2
+        ],
+        "bottomRight": [
+          1285.1,
+          908.0
+        ],
+        "center": [
+          1157.6,
+          888.1
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 39.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 332,
+      "name": "Google Shape;332;p15",
+      "pos": {
+        "topLeft": [
+          1030.0,
+          914.5
+        ],
+        "bottomRight": [
+          1285.1,
+          951.9
+        ],
+        "center": [
+          1157.6,
+          933.2
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 37.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 333,
+      "name": "Google Shape;333;p15",
+      "pos": {
+        "topLeft": [
+          1460.3,
+          868.2
+        ],
+        "bottomRight": [
+          1715.4,
+          951.9
+        ],
+        "center": [
+          1587.9,
+          910.1
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 83.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "334",
+        "335"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Google Shape;334;p15",
+      "pos": {
+        "topLeft": [
+          1460.3,
+          868.2
+        ],
+        "bottomRight": [
+          1715.4,
+          908.0
+        ],
+        "center": [
+          1587.9,
+          888.1
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 39.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "NAME",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">NAME</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 335,
+      "name": "Google Shape;335;p15",
+      "pos": {
+        "topLeft": [
+          1460.3,
+          914.5
+        ],
+        "bottomRight": [
+          1715.4,
+          951.9
+        ],
+        "center": [
+          1587.9,
+          933.2
+        ]
+      },
+      "size": {
+        "w": 255.1,
+        "h": 37.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Title or Position",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Title or Position</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#4054BB"
+  }
+}

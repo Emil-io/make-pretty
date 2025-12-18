@@ -1,0 +1,1 @@
+Follow the instructions on the slide, then delete the instruction text and write the results in the same textbox as where the instructions were before.

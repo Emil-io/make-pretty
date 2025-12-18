@@ -1,0 +1,1 @@
+Make the columns into rows instead. I want the headings to all be on the right and the texts to all start at the same horizontal coordinate.

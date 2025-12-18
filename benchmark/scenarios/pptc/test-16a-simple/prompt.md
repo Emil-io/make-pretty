@@ -1,0 +1,1 @@
+Make sure the orange text and its subheadings on the left are aligned at the same height as the ones on the right half of the slide, simply leave the third 'spot' open

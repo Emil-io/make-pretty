@@ -1,0 +1,1 @@
+Pls align the 3 cirlcles (incl the text) with the 3 bullets.

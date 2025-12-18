@@ -1,0 +1,1 @@
+I don't like the way the texts start below the numbers - make the text be right next to the numbers and in the same textbox. 

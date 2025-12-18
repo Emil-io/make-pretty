@@ -1,0 +1,1 @@
+Please rotate the three boxes so that they are vertical, and distribute/resize/align them.

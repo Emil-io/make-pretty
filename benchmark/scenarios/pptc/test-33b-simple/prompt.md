@@ -1,0 +1,1 @@
+Please align the three text boxes at the bottom.

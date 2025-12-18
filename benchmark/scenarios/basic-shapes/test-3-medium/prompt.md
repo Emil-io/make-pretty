@@ -1,0 +1,1 @@
+Pls align and make the first shape highlighted (all should be light grey except the first one, should be light blue)

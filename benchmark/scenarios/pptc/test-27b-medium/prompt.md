@@ -1,0 +1,1 @@
+Please delete the two textboxes in the middle ("blue") and stretch the others so that they fill the whole space accordingly.

@@ -1,0 +1,1 @@
+Most of these columns oveflow at the bottom. Please keep the text size and everything else identical, but delete all the text that overflows, I want to keep only everything that is already within the purple boxes.

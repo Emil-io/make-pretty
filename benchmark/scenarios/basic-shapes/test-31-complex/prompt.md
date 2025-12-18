@@ -1,0 +1,1 @@
+Please add another box that encircles the existing boxes and circles - make the filling white, the border blue (copy the basic layout from the existing boxes) and resize the existing shapes accordingly, so that they are inside the box. Put the new box in the background.

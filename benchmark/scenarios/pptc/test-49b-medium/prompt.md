@@ -1,0 +1,1 @@
+Pls delete the second point and distribute evenly.

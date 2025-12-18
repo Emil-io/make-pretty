@@ -1,0 +1,612 @@
+{
+  "id": 274,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 347,
+      "name": "Google Shape;347;p31",
+      "pos": {
+        "topLeft": [
+          68.8,
+          273.7
+        ],
+        "bottomRight": [
+          469.8,
+          1014.2
+        ],
+        "center": [
+          269.3,
+          644.0
+        ]
+      },
+      "size": {
+        "w": 401.0,
+        "h": 740.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 348,
+      "name": "Google Shape;348;p31",
+      "pos": {
+        "topLeft": [
+          521.9,
+          273.7
+        ],
+        "bottomRight": [
+          922.9,
+          1014.2
+        ],
+        "center": [
+          722.4,
+          644.0
+        ]
+      },
+      "size": {
+        "w": 401.0,
+        "h": 740.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 349,
+      "name": "Google Shape;349;p31",
+      "pos": {
+        "topLeft": [
+          980.1,
+          273.7
+        ],
+        "bottomRight": [
+          1381.1,
+          1014.2
+        ],
+        "center": [
+          1180.6,
+          644.0
+        ]
+      },
+      "size": {
+        "w": 401.0,
+        "h": 740.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 350,
+      "name": "Google Shape;350;p31",
+      "pos": {
+        "topLeft": [
+          1315.4,
+          415.7
+        ],
+        "bottomRight": [
+          1716.4,
+          1156.2
+        ],
+        "center": [
+          1515.9,
+          786.0
+        ]
+      },
+      "size": {
+        "w": 401.0,
+        "h": 740.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Google Shape;351;p31",
+      "pos": {
+        "topLeft": [
+          617.9,
+          538.4
+        ],
+        "bottomRight": [
+          823.0,
+          718.2
+        ],
+        "center": [
+          720.4,
+          628.3
+        ]
+      },
+      "size": {
+        "w": 205.1,
+        "h": 179.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Google Shape;352;p31",
+      "pos": {
+        "topLeft": [
+          1077.5,
+          534.4
+        ],
+        "bottomRight": [
+          1290.0,
+          712.5
+        ],
+        "center": [
+          1183.8,
+          623.4
+        ]
+      },
+      "size": {
+        "w": 212.5,
+        "h": 178.1
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 353,
+      "name": "Google Shape;353;p31",
+      "pos": {
+        "topLeft": [
+          1528.5,
+          569.9
+        ],
+        "bottomRight": [
+          1772.9,
+          693.4
+        ],
+        "center": [
+          1650.7,
+          631.7
+        ]
+      },
+      "size": {
+        "w": 244.4,
+        "h": 123.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 354,
+      "name": "Google Shape;354;p31",
+      "pos": {
+        "topLeft": [
+          148.7,
+          528.4
+        ],
+        "bottomRight": [
+          370.3,
+          714.9
+        ],
+        "center": [
+          259.5,
+          621.7
+        ]
+      },
+      "size": {
+        "w": 221.6,
+        "h": 186.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 356,
+      "name": "Google Shape;356;p31",
+      "pos": {
+        "topLeft": [
+          925.3,
+          591.3
+        ],
+        "bottomRight": [
+          975.7,
+          633.8
+        ],
+        "center": [
+          950.5,
+          612.6
+        ]
+      },
+      "size": {
+        "w": 50.4,
+        "h": 42.5
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 78.11776666666667
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 358,
+      "name": "Google Shape;358;p31",
+      "pos": {
+        "topLeft": [
+          98.4,
+          -92.6
+        ],
+        "bottomRight": [
+          288.1,
+          308.7
+        ],
+        "center": [
+          193.3,
+          108.1
+        ]
+      },
+      "size": {
+        "w": 189.7,
+        "h": 401.3
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 42.151916666666665
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 359,
+      "name": "Google Shape;359;p31",
+      "pos": {
+        "topLeft": [
+          1699.7,
+          938.1
+        ],
+        "bottomRight": [
+          2190.6,
+          1370.1
+        ],
+        "center": [
+          1945.2,
+          1154.1
+        ]
+      },
+      "size": {
+        "w": 490.9,
+        "h": 432.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 360,
+      "name": "Google Shape;360;p31",
+      "pos": {
+        "topLeft": [
+          449.3,
+          102.0
+        ],
+        "bottomRight": [
+          1470.7,
+          199.5
+        ],
+        "center": [
+          960.0,
+          150.8
+        ]
+      },
+      "size": {
+        "w": 1021.4,
+        "h": 97.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A TIMELINE PAGE",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#1B50ED\" font=\"Lilita One\" line-height=\"1.37\" size=\"55.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A TIMELINE PAGE</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 361,
+      "name": "Google Shape;361;p31",
+      "pos": {
+        "topLeft": [
+          58.9,
+          372.4
+        ],
+        "bottomRight": [
+          479.8,
+          483.9
+        ],
+        "center": [
+          269.3,
+          428.2
+        ]
+      },
+      "size": {
+        "w": 420.9,
+        "h": 111.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A\nMAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 362,
+      "name": "Google Shape;362;p31",
+      "pos": {
+        "topLeft": [
+          535.0,
+          304.3
+        ],
+        "bottomRight": [
+          955.9,
+          415.8
+        ],
+        "center": [
+          745.5,
+          360.1
+        ]
+      },
+      "size": {
+        "w": 420.9,
+        "h": 111.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A\nMAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 363,
+      "name": "Google Shape;363;p31",
+      "pos": {
+        "topLeft": [
+          989.8,
+          404.5
+        ],
+        "bottomRight": [
+          1300.4,
+          516.0
+        ],
+        "center": [
+          1145.1,
+          460.3
+        ]
+      },
+      "size": {
+        "w": 310.6,
+        "h": 111.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A\nMAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 364,
+      "name": "Google Shape;364;p31",
+      "pos": {
+        "topLeft": [
+          1650.7,
+          404.5
+        ],
+        "bottomRight": [
+          1961.3,
+          516.0
+        ],
+        "center": [
+          1806.0,
+          460.3
+        ]
+      },
+      "size": {
+        "w": 310.6,
+        "h": 111.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "ADD A\nMAIN POINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">ADD A</span></p>\n<p align=\"center\" cap=\"none\" color=\"#FF5F2E\" font=\"Lilita One\" line-height=\"1.09\" size=\"33.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">MAIN POINT</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 365,
+      "name": "Google Shape;365;p31",
+      "pos": {
+        "topLeft": [
+          109.8,
+          767.3
+        ],
+        "bottomRight": [
+          428.8,
+          843.8
+        ],
+        "center": [
+          269.3,
+          805.6
+        ]
+      },
+      "size": {
+        "w": 319.0,
+        "h": 76.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 366,
+      "name": "Google Shape;366;p31",
+      "pos": {
+        "topLeft": [
+          573.2,
+          767.3
+        ],
+        "bottomRight": [
+          885.4,
+          843.8
+        ],
+        "center": [
+          729.3,
+          805.6
+        ]
+      },
+      "size": {
+        "w": 312.2,
+        "h": 76.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 367,
+      "name": "Google Shape;367;p31",
+      "pos": {
+        "topLeft": [
+          1039.7,
+          767.3
+        ],
+        "bottomRight": [
+          1339.0,
+          843.8
+        ],
+        "center": [
+          1189.4,
+          805.6
+        ]
+      },
+      "size": {
+        "w": 299.3,
+        "h": 76.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 368,
+      "name": "Google Shape;368;p31",
+      "pos": {
+        "topLeft": [
+          1495.4,
+          767.3
+        ],
+        "bottomRight": [
+          1805.9,
+          843.8
+        ],
+        "center": [
+          1650.7,
+          805.6
+        ]
+      },
+      "size": {
+        "w": 310.5,
+        "h": 76.5
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what\nyou want to discuss.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on what</span></p>\n<p align=\"center\" cap=\"none\" color=\"#000000\" font=\"Lato\" line-height=\"1.32\" lvl=\"1\" size=\"22.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">you want to discuss.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#E6EFF4"
+  }
+}

@@ -1,0 +1,1 @@
+Pls align the "30$" heading with the other two. The line of the middle column below monthly also has to be aligned. Next align all the feature text boxes in each column.

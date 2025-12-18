@@ -1,0 +1,170 @@
+{
+  "id": 268,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Title 1",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 2,
+        "name": "Title 1",
+        "pos": {
+          "topLeft": [
+            88.0,
+            38.3
+          ],
+          "bottomRight": [
+            1192.0,
+            177.5
+          ],
+          "center": [
+            640.0,
+            107.9
+          ]
+        },
+        "size": {
+          "w": 1104.0,
+          "h": 139.2
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Three main problems with presentation creation in consultancies",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\">\n<p align=\"left\" font=\"+mj-lt\" size=\"44.0\"><span>Three main problems with presentation creation in consultancies</span></p>\n</root>",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "wordWrap": false
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rounded Rectangle 3",
+      "pos": {
+        "topLeft": [
+          88.2,
+          178.5
+        ],
+        "bottomRight": [
+          426.3,
+          651.0
+        ],
+        "center": [
+          257.3,
+          414.8
+        ]
+      },
+      "size": {
+        "w": 338.1,
+        "h": 472.5
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Too many hours spent on storylining and slide formatting instead of analysis and client impact.</span></p>\n</root>",
+        "rawText": "Too many hours spent on storylining and slide formatting instead of analysis and client impact.",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rounded Rectangle 4",
+      "pos": {
+        "topLeft": [
+          471.0,
+          177.5
+        ],
+        "bottomRight": [
+          792.7,
+          650.0
+        ],
+        "center": [
+          631.9,
+          413.8
+        ]
+      },
+      "size": {
+        "w": 321.7,
+        "h": 472.5
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fragile Excel-to-PowerPoint handoffs cause version drift, broken links, and error-prone manual copy-paste.</span></p>\n</root>",
+        "rawText": "Fragile Excel-to-PowerPoint handoffs cause version drift, broken links, and error-prone manual copy-paste.",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rounded Rectangle 2",
+      "pos": {
+        "topLeft": [
+          870.1,
+          177.5
+        ],
+        "bottomRight": [
+          1191.8,
+          650.0
+        ],
+        "center": [
+          1031.0,
+          413.8
+        ]
+      },
+      "size": {
+        "w": 321.7,
+        "h": 472.5
+      },
+      "zIndex": 0,
+      "shapeType": "autoShape",
+      "details": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 33.3
+      },
+      "text": {
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" font=\"+mn-lt\" size=\"18.0\"><span>Fragmented review cycles and inconsistent brand guardrails drive rework, quality risk, and rising outsource costs.</span></p>\n</root>",
+        "rawText": "Fragmented review cycles and inconsistent brand guardrails drive rework, quality risk, and rising outsource costs.",
+        "fontInfo": {
+          "margin": [
+            9.6,
+            9.6,
+            4.8,
+            4.8
+          ],
+          "autoSize": "NONE"
+        }
+      }
+    }
+  ]
+}

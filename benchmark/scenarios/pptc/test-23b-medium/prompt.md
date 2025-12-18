@@ -1,0 +1,1 @@
+I have made a mistake, the guy the the glasses is actually the CEO of the firm and not the dark-skinned women, please switch their images and add CEO as the guys job title, is name is Herry.

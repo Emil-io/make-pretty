@@ -1,0 +1,1 @@
+Please align the middle box and icon. Also pls move the three text boxes at the bottom up (closer to the heading).

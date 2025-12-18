@@ -1,0 +1,1 @@
+Construct three columns out of this just like the left one that is already there, on the very right use the same border distance as on the very left.

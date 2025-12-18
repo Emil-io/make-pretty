@@ -1,0 +1,1 @@
+Please align the text boxes so that they are centered and evenly spaced.

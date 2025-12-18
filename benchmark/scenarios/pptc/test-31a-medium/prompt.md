@@ -1,0 +1,1 @@
+We need to construct a clean layout. Please align the 5 grey circles (also with the respective icon inside). Also align the text boxes below the circles.

@@ -1,0 +1,1 @@
+Please fix the following things: align the most left box and its text with the rest, fix the 3 text boxes where one letter always overflows into the next lign (Caveat and Inter) so that they are on one line each, and center the text at the bottom horizontally on the slide.

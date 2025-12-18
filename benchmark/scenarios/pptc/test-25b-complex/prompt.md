@@ -1,0 +1,1 @@
+Add a 5th point to the timeline and fill it with the same placeholder content. Resize the text/shapes accordingly.

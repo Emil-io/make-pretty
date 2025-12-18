@@ -1,0 +1,333 @@
+{
+  "id": 266,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 242,
+      "name": "Google Shape;242;p23",
+      "pos": {
+        "topLeft": [
+          -318.2,
+          -19.7
+        ],
+        "bottomRight": [
+          517.4,
+          583.4
+        ],
+        "center": [
+          99.6,
+          281.9
+        ]
+      },
+      "size": {
+        "w": 835.6,
+        "h": 603.1
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 316.94941666666665
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 243,
+      "name": "Google Shape;243;p23",
+      "pos": {
+        "topLeft": [
+          55.2,
+          330.7
+        ],
+        "bottomRight": [
+          1864.7,
+          1022.5
+        ],
+        "center": [
+          960.0,
+          676.6
+        ]
+      },
+      "size": {
+        "w": 1809.5,
+        "h": 691.8
+      },
+      "zIndex": 0,
+      "shapeType": "table",
+      "rows": 7,
+      "columns": 4,
+      "cells": [
+        {
+          "text": "1ST QUARTER",
+          "rowIndex": 0,
+          "colIndex": 0
+        },
+        {
+          "text": "2ND QUARTER",
+          "rowIndex": 0,
+          "colIndex": 1
+        },
+        {
+          "text": "3RD QUARTER",
+          "rowIndex": 0,
+          "colIndex": 2
+        },
+        {
+          "text": "4TH QUARTER",
+          "rowIndex": 0,
+          "colIndex": 3
+        },
+        {
+          "text": "January",
+          "rowIndex": 1,
+          "colIndex": 0
+        },
+        {
+          "text": "April",
+          "rowIndex": 1,
+          "colIndex": 1
+        },
+        {
+          "text": "July",
+          "rowIndex": 1,
+          "colIndex": 2
+        },
+        {
+          "text": "October",
+          "rowIndex": 1,
+          "colIndex": 3
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 2,
+          "colIndex": 0
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 2,
+          "colIndex": 1
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 2,
+          "colIndex": 2
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 2,
+          "colIndex": 3
+        },
+        {
+          "text": "February",
+          "rowIndex": 3,
+          "colIndex": 0
+        },
+        {
+          "text": "May",
+          "rowIndex": 3,
+          "colIndex": 1
+        },
+        {
+          "text": "August",
+          "rowIndex": 3,
+          "colIndex": 2
+        },
+        {
+          "text": "November",
+          "rowIndex": 3,
+          "colIndex": 3
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 4,
+          "colIndex": 0
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 4,
+          "colIndex": 1
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 4,
+          "colIndex": 2
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 4,
+          "colIndex": 3
+        },
+        {
+          "text": "March",
+          "rowIndex": 5,
+          "colIndex": 0
+        },
+        {
+          "text": "June",
+          "rowIndex": 5,
+          "colIndex": 1
+        },
+        {
+          "text": "September",
+          "rowIndex": 5,
+          "colIndex": 2
+        },
+        {
+          "text": "December",
+          "rowIndex": 5,
+          "colIndex": 3
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 6,
+          "colIndex": 0
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 6,
+          "colIndex": 1
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 6,
+          "colIndex": 2
+        },
+        {
+          "text": "Double click to add task",
+          "rowIndex": 6,
+          "colIndex": 3
+        }
+      ],
+      "firstRow": false,
+      "firstCol": false,
+      "horzBanding": false,
+      "vertBanding": false
+    },
+    {
+      "id": 244,
+      "name": "Google Shape;244;p23",
+      "pos": {
+        "topLeft": [
+          198.5,
+          109.9
+        ],
+        "bottomRight": [
+          1721.5,
+          258.2
+        ],
+        "center": [
+          960.0,
+          184.1
+        ]
+      },
+      "size": {
+        "w": 1523.0,
+        "h": 148.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "WRITE YOUR TOPIC OR IDEA",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#FDFD54\" font=\"+mn-lt\" line-height=\"1.37\" size=\"67.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">WRITE YOUR TOPIC OR IDEA</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Google Shape;245;p23",
+      "pos": {
+        "topLeft": [
+          1677.4,
+          62.9
+        ],
+        "bottomRight": [
+          1868.8,
+          249.8
+        ],
+        "center": [
+          1773.1,
+          156.4
+        ]
+      },
+      "size": {
+        "w": 191.4,
+        "h": 186.9
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 246,
+      "name": "Google Shape;246;p23",
+      "pos": {
+        "topLeft": [
+          62.6,
+          207.3
+        ],
+        "bottomRight": [
+          153.5,
+          292.1
+        ],
+        "center": [
+          108.1,
+          249.7
+        ]
+      },
+      "size": {
+        "w": 90.9,
+        "h": 84.8
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 247,
+      "name": "Google Shape;247;p23",
+      "pos": {
+        "topLeft": [
+          222.7,
+          197.6
+        ],
+        "bottomRight": [
+          300.6,
+          281.8
+        ],
+        "center": [
+          261.7,
+          239.7
+        ]
+      },
+      "size": {
+        "w": 77.9,
+        "h": 84.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#00995E"
+  }
+}

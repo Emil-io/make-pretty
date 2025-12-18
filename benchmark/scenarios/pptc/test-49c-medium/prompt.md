@@ -1,0 +1,1 @@
+Pls align the text and move "Market Research" to the right so that the right border aligns with the box below.

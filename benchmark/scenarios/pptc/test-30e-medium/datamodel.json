@@ -1,0 +1,1877 @@
+{
+  "id": 276,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 1588,
+      "name": "Google Shape;1588;p33",
+      "pos": {
+        "topLeft": [
+          43.4,
+          46.7
+        ],
+        "bottomRight": [
+          1874.3,
+          1030.4
+        ],
+        "center": [
+          958.9,
+          538.6
+        ]
+      },
+      "size": {
+        "w": 1830.9,
+        "h": 983.7
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1589",
+        "1590"
+      ]
+    },
+    {
+      "id": 1590,
+      "name": "Google Shape;1590;p33",
+      "pos": {
+        "topLeft": [
+          43.4,
+          46.7
+        ],
+        "bottomRight": [
+          367.4,
+          370.7
+        ],
+        "center": [
+          205.4,
+          208.7
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 324.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1591,
+      "name": "Google Shape;1591;p33",
+      "pos": {
+        "topLeft": [
+          960.0,
+          111.8
+        ],
+        "bottomRight": [
+          1830.8,
+          997.2
+        ],
+        "center": [
+          1395.4,
+          554.5
+        ]
+      },
+      "size": {
+        "w": 870.8,
+        "h": 885.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1592",
+        "1593",
+        "1594",
+        "1595",
+        "1596",
+        "1597",
+        "1604",
+        "1605",
+        "1606",
+        "1607",
+        "1608",
+        "1609",
+        "1610"
+      ]
+    },
+    {
+      "id": 1592,
+      "name": "Google Shape;1592;p33",
+      "pos": {
+        "topLeft": [
+          1048.2,
+          956.6
+        ],
+        "bottomRight": [
+          1139.4,
+          997.2
+        ],
+        "center": [
+          1093.8,
+          976.9
+        ]
+      },
+      "size": {
+        "w": 91.2,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Item 1",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Item 1</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1593,
+      "name": "Google Shape;1593;p33",
+      "pos": {
+        "topLeft": [
+          1214.2,
+          956.6
+        ],
+        "bottomRight": [
+          1305.4,
+          997.2
+        ],
+        "center": [
+          1259.8,
+          976.9
+        ]
+      },
+      "size": {
+        "w": 91.2,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Item 2",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Item 2</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1594,
+      "name": "Google Shape;1594;p33",
+      "pos": {
+        "topLeft": [
+          1380.3,
+          956.6
+        ],
+        "bottomRight": [
+          1471.5,
+          997.2
+        ],
+        "center": [
+          1425.9,
+          976.9
+        ]
+      },
+      "size": {
+        "w": 91.2,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Item 3",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Item 3</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1595,
+      "name": "Google Shape;1595;p33",
+      "pos": {
+        "topLeft": [
+          1546.3,
+          956.6
+        ],
+        "bottomRight": [
+          1637.5,
+          997.2
+        ],
+        "center": [
+          1591.9,
+          976.9
+        ]
+      },
+      "size": {
+        "w": 91.2,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Item 4",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Item 4</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1596,
+      "name": "Google Shape;1596;p33",
+      "pos": {
+        "topLeft": [
+          1712.4,
+          956.6
+        ],
+        "bottomRight": [
+          1803.6,
+          997.2
+        ],
+        "center": [
+          1758.0,
+          976.9
+        ]
+      },
+      "size": {
+        "w": 91.2,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Item 5",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Item 5</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1597,
+      "name": "Google Shape;1597;p33",
+      "pos": {
+        "topLeft": [
+          1020.9,
+          133.1
+        ],
+        "bottomRight": [
+          1830.9,
+          944.1
+        ],
+        "center": [
+          1425.9,
+          538.6
+        ]
+      },
+      "size": {
+        "w": 810.0,
+        "h": 811.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1598",
+        "1599",
+        "1600",
+        "1601",
+        "1602",
+        "1603"
+      ]
+    },
+    {
+      "id": 1604,
+      "name": "Google Shape;1604;p33",
+      "pos": {
+        "topLeft": [
+          960.0,
+          111.8
+        ],
+        "bottomRight": [
+          1004.8,
+          152.4
+        ],
+        "center": [
+          982.4,
+          132.1
+        ]
+      },
+      "size": {
+        "w": 44.8,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "50 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>50 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1605,
+      "name": "Google Shape;1605;p33",
+      "pos": {
+        "topLeft": [
+          960.0,
+          273.8
+        ],
+        "bottomRight": [
+          1004.8,
+          314.4
+        ],
+        "center": [
+          982.4,
+          294.1
+        ]
+      },
+      "size": {
+        "w": 44.8,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "40 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>40 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1606,
+      "name": "Google Shape;1606;p33",
+      "pos": {
+        "topLeft": [
+          960.0,
+          435.8
+        ],
+        "bottomRight": [
+          1004.8,
+          476.4
+        ],
+        "center": [
+          982.4,
+          456.1
+        ]
+      },
+      "size": {
+        "w": 44.8,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "30 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>30 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1607,
+      "name": "Google Shape;1607;p33",
+      "pos": {
+        "topLeft": [
+          960.0,
+          597.8
+        ],
+        "bottomRight": [
+          1004.8,
+          638.4
+        ],
+        "center": [
+          982.4,
+          618.1
+        ]
+      },
+      "size": {
+        "w": 44.8,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "20 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>20 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1608,
+      "name": "Google Shape;1608;p33",
+      "pos": {
+        "topLeft": [
+          960.0,
+          759.8
+        ],
+        "bottomRight": [
+          1004.8,
+          800.4
+        ],
+        "center": [
+          982.4,
+          780.1
+        ]
+      },
+      "size": {
+        "w": 44.8,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "10 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>10 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1609,
+      "name": "Google Shape;1609;p33",
+      "pos": {
+        "topLeft": [
+          978.3,
+          921.8
+        ],
+        "bottomRight": [
+          1004.9,
+          962.4
+        ],
+        "center": [
+          991.6,
+          942.1
+        ]
+      },
+      "size": {
+        "w": 26.6,
+        "h": 40.6
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "0 ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"right\" color=\"#000000\" font=\"Open Sans Light\" line-height=\"1.4\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>0 </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1610,
+      "name": "Google Shape;1610;p33",
+      "pos": {
+        "topLeft": [
+          1020.7,
+          133.1
+        ],
+        "bottomRight": [
+          1830.8,
+          981.3
+        ],
+        "center": [
+          1425.8,
+          557.2
+        ]
+      },
+      "size": {
+        "w": 810.1,
+        "h": 848.2
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1611",
+        "1612",
+        "1613",
+        "1614",
+        "1615",
+        "1616",
+        "1617",
+        "1618",
+        "1619",
+        "1620",
+        "1621",
+        "1622",
+        "1623",
+        "1624",
+        "1625"
+      ]
+    },
+    {
+      "id": 1626,
+      "name": "Google Shape;1626;p33",
+      "pos": {
+        "topLeft": [
+          108.0,
+          114.6
+        ],
+        "bottomRight": [
+          794.0,
+          357.0
+        ],
+        "center": [
+          451.0,
+          235.8
+        ]
+      },
+      "size": {
+        "w": 686.0,
+        "h": 242.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Write Your Topic or Idea",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#055E5C\" font=\"Paytone One\" line-height=\"1.0\" size=\"75.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Write Your Topic or Idea</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1627,
+      "name": "Google Shape;1627;p33",
+      "pos": {
+        "topLeft": [
+          108.0,
+          384.4
+        ],
+        "bottomRight": [
+          726.0,
+          497.5
+        ],
+        "center": [
+          417.0,
+          441.0
+        ]
+      },
+      "size": {
+        "w": 618.0,
+        "h": 113.1
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on what you \nwant to discuss. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"left\" color=\"#000000\" font=\"Open Sans\" line-height=\"1.0\" size=\"35.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Elaborate on what you </span></p>\n<p align=\"left\" color=\"#000000\" font=\"Open Sans\" line-height=\"1.0\" size=\"35.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>want to discuss. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 1628,
+      "name": "Google Shape;1628;p33",
+      "pos": {
+        "topLeft": [
+          128.4,
+          863.2
+        ],
+        "bottomRight": [
+          705.6,
+          946.6
+        ],
+        "center": [
+          417.0,
+          904.9
+        ]
+      },
+      "size": {
+        "w": 577.2,
+        "h": 83.4
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1629",
+        "1632",
+        "1635",
+        "1638",
+        "1641",
+        "1644",
+        "1647",
+        "1650",
+        "1653",
+        "1656",
+        "1659",
+        "1662",
+        "1665",
+        "1668",
+        "1671",
+        "1674",
+        "1677",
+        "1680",
+        "1683",
+        "1686"
+      ]
+    },
+    {
+      "id": 1629,
+      "name": "Google Shape;1629;p33",
+      "pos": {
+        "topLeft": [
+          128.4,
+          863.2
+        ],
+        "bottomRight": [
+          155.7,
+          890.7
+        ],
+        "center": [
+          142.1,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1630",
+        "1631"
+      ]
+    },
+    {
+      "id": 1631,
+      "name": "Google Shape;1631;p33",
+      "pos": {
+        "topLeft": [
+          131.0,
+          865.8
+        ],
+        "bottomRight": [
+          153.3,
+          888.1
+        ],
+        "center": [
+          142.2,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1632,
+      "name": "Google Shape;1632;p33",
+      "pos": {
+        "topLeft": [
+          190.2,
+          863.2
+        ],
+        "bottomRight": [
+          217.5,
+          890.7
+        ],
+        "center": [
+          203.9,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1633",
+        "1634"
+      ]
+    },
+    {
+      "id": 1634,
+      "name": "Google Shape;1634;p33",
+      "pos": {
+        "topLeft": [
+          192.7,
+          865.8
+        ],
+        "bottomRight": [
+          215.0,
+          888.1
+        ],
+        "center": [
+          203.9,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1635,
+      "name": "Google Shape;1635;p33",
+      "pos": {
+        "topLeft": [
+          251.9,
+          863.2
+        ],
+        "bottomRight": [
+          279.2,
+          890.7
+        ],
+        "center": [
+          265.6,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1636",
+        "1637"
+      ]
+    },
+    {
+      "id": 1637,
+      "name": "Google Shape;1637;p33",
+      "pos": {
+        "topLeft": [
+          254.4,
+          865.8
+        ],
+        "bottomRight": [
+          276.7,
+          888.1
+        ],
+        "center": [
+          265.6,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1638,
+      "name": "Google Shape;1638;p33",
+      "pos": {
+        "topLeft": [
+          128.4,
+          919.1
+        ],
+        "bottomRight": [
+          155.7,
+          946.6
+        ],
+        "center": [
+          142.1,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1639",
+        "1640"
+      ]
+    },
+    {
+      "id": 1640,
+      "name": "Google Shape;1640;p33",
+      "pos": {
+        "topLeft": [
+          131.0,
+          921.7
+        ],
+        "bottomRight": [
+          153.3,
+          944.0
+        ],
+        "center": [
+          142.2,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1641,
+      "name": "Google Shape;1641;p33",
+      "pos": {
+        "topLeft": [
+          190.2,
+          919.1
+        ],
+        "bottomRight": [
+          217.5,
+          946.6
+        ],
+        "center": [
+          203.9,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1642",
+        "1643"
+      ]
+    },
+    {
+      "id": 1643,
+      "name": "Google Shape;1643;p33",
+      "pos": {
+        "topLeft": [
+          192.7,
+          921.7
+        ],
+        "bottomRight": [
+          215.0,
+          944.0
+        ],
+        "center": [
+          203.9,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1644,
+      "name": "Google Shape;1644;p33",
+      "pos": {
+        "topLeft": [
+          251.9,
+          919.1
+        ],
+        "bottomRight": [
+          279.2,
+          946.6
+        ],
+        "center": [
+          265.6,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1645",
+        "1646"
+      ]
+    },
+    {
+      "id": 1646,
+      "name": "Google Shape;1646;p33",
+      "pos": {
+        "topLeft": [
+          254.4,
+          921.7
+        ],
+        "bottomRight": [
+          276.7,
+          944.0
+        ],
+        "center": [
+          265.6,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1647,
+      "name": "Google Shape;1647;p33",
+      "pos": {
+        "topLeft": [
+          311.0,
+          863.2
+        ],
+        "bottomRight": [
+          338.3,
+          890.7
+        ],
+        "center": [
+          324.7,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1648",
+        "1649"
+      ]
+    },
+    {
+      "id": 1649,
+      "name": "Google Shape;1649;p33",
+      "pos": {
+        "topLeft": [
+          313.5,
+          865.8
+        ],
+        "bottomRight": [
+          335.8,
+          888.1
+        ],
+        "center": [
+          324.7,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1650,
+      "name": "Google Shape;1650;p33",
+      "pos": {
+        "topLeft": [
+          372.7,
+          863.2
+        ],
+        "bottomRight": [
+          400.0,
+          890.7
+        ],
+        "center": [
+          386.3,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1651",
+        "1652"
+      ]
+    },
+    {
+      "id": 1652,
+      "name": "Google Shape;1652;p33",
+      "pos": {
+        "topLeft": [
+          375.2,
+          865.8
+        ],
+        "bottomRight": [
+          397.5,
+          888.1
+        ],
+        "center": [
+          386.3,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1653,
+      "name": "Google Shape;1653;p33",
+      "pos": {
+        "topLeft": [
+          311.0,
+          919.1
+        ],
+        "bottomRight": [
+          338.3,
+          946.6
+        ],
+        "center": [
+          324.7,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1654",
+        "1655"
+      ]
+    },
+    {
+      "id": 1655,
+      "name": "Google Shape;1655;p33",
+      "pos": {
+        "topLeft": [
+          313.5,
+          921.7
+        ],
+        "bottomRight": [
+          335.8,
+          944.0
+        ],
+        "center": [
+          324.7,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1656,
+      "name": "Google Shape;1656;p33",
+      "pos": {
+        "topLeft": [
+          372.7,
+          919.1
+        ],
+        "bottomRight": [
+          400.0,
+          946.6
+        ],
+        "center": [
+          386.3,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1657",
+        "1658"
+      ]
+    },
+    {
+      "id": 1658,
+      "name": "Google Shape;1658;p33",
+      "pos": {
+        "topLeft": [
+          375.2,
+          921.7
+        ],
+        "bottomRight": [
+          397.5,
+          944.0
+        ],
+        "center": [
+          386.3,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1659,
+      "name": "Google Shape;1659;p33",
+      "pos": {
+        "topLeft": [
+          434.0,
+          863.2
+        ],
+        "bottomRight": [
+          461.3,
+          890.7
+        ],
+        "center": [
+          447.7,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1660",
+        "1661"
+      ]
+    },
+    {
+      "id": 1661,
+      "name": "Google Shape;1661;p33",
+      "pos": {
+        "topLeft": [
+          436.5,
+          865.8
+        ],
+        "bottomRight": [
+          458.8,
+          888.1
+        ],
+        "center": [
+          447.7,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1662,
+      "name": "Google Shape;1662;p33",
+      "pos": {
+        "topLeft": [
+          495.8,
+          863.2
+        ],
+        "bottomRight": [
+          523.1,
+          890.7
+        ],
+        "center": [
+          509.5,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1663",
+        "1664"
+      ]
+    },
+    {
+      "id": 1664,
+      "name": "Google Shape;1664;p33",
+      "pos": {
+        "topLeft": [
+          498.3,
+          865.8
+        ],
+        "bottomRight": [
+          520.6,
+          888.1
+        ],
+        "center": [
+          509.5,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1665,
+      "name": "Google Shape;1665;p33",
+      "pos": {
+        "topLeft": [
+          557.5,
+          863.2
+        ],
+        "bottomRight": [
+          584.8,
+          890.7
+        ],
+        "center": [
+          571.2,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1666",
+        "1667"
+      ]
+    },
+    {
+      "id": 1667,
+      "name": "Google Shape;1667;p33",
+      "pos": {
+        "topLeft": [
+          560.0,
+          865.8
+        ],
+        "bottomRight": [
+          582.3,
+          888.1
+        ],
+        "center": [
+          571.2,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1668,
+      "name": "Google Shape;1668;p33",
+      "pos": {
+        "topLeft": [
+          434.0,
+          919.1
+        ],
+        "bottomRight": [
+          461.3,
+          946.6
+        ],
+        "center": [
+          447.7,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1669",
+        "1670"
+      ]
+    },
+    {
+      "id": 1670,
+      "name": "Google Shape;1670;p33",
+      "pos": {
+        "topLeft": [
+          436.5,
+          921.7
+        ],
+        "bottomRight": [
+          458.8,
+          944.0
+        ],
+        "center": [
+          447.7,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1671,
+      "name": "Google Shape;1671;p33",
+      "pos": {
+        "topLeft": [
+          495.8,
+          919.1
+        ],
+        "bottomRight": [
+          523.1,
+          946.6
+        ],
+        "center": [
+          509.5,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1672",
+        "1673"
+      ]
+    },
+    {
+      "id": 1673,
+      "name": "Google Shape;1673;p33",
+      "pos": {
+        "topLeft": [
+          498.3,
+          921.7
+        ],
+        "bottomRight": [
+          520.6,
+          944.0
+        ],
+        "center": [
+          509.5,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1674,
+      "name": "Google Shape;1674;p33",
+      "pos": {
+        "topLeft": [
+          557.5,
+          919.1
+        ],
+        "bottomRight": [
+          584.8,
+          946.6
+        ],
+        "center": [
+          571.2,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1675",
+        "1676"
+      ]
+    },
+    {
+      "id": 1676,
+      "name": "Google Shape;1676;p33",
+      "pos": {
+        "topLeft": [
+          560.0,
+          921.7
+        ],
+        "bottomRight": [
+          582.3,
+          944.0
+        ],
+        "center": [
+          571.2,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1677,
+      "name": "Google Shape;1677;p33",
+      "pos": {
+        "topLeft": [
+          616.5,
+          863.2
+        ],
+        "bottomRight": [
+          643.8,
+          890.7
+        ],
+        "center": [
+          630.2,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1678",
+        "1679"
+      ]
+    },
+    {
+      "id": 1679,
+      "name": "Google Shape;1679;p33",
+      "pos": {
+        "topLeft": [
+          619.1,
+          865.8
+        ],
+        "bottomRight": [
+          641.4,
+          888.1
+        ],
+        "center": [
+          630.3,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1680,
+      "name": "Google Shape;1680;p33",
+      "pos": {
+        "topLeft": [
+          678.3,
+          863.2
+        ],
+        "bottomRight": [
+          705.6,
+          890.7
+        ],
+        "center": [
+          691.9,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1681",
+        "1682"
+      ]
+    },
+    {
+      "id": 1682,
+      "name": "Google Shape;1682;p33",
+      "pos": {
+        "topLeft": [
+          680.8,
+          865.8
+        ],
+        "bottomRight": [
+          703.1,
+          888.1
+        ],
+        "center": [
+          691.9,
+          877.0
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1683,
+      "name": "Google Shape;1683;p33",
+      "pos": {
+        "topLeft": [
+          616.5,
+          919.1
+        ],
+        "bottomRight": [
+          643.8,
+          946.6
+        ],
+        "center": [
+          630.2,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1684",
+        "1685"
+      ]
+    },
+    {
+      "id": 1685,
+      "name": "Google Shape;1685;p33",
+      "pos": {
+        "topLeft": [
+          619.1,
+          921.7
+        ],
+        "bottomRight": [
+          641.4,
+          944.0
+        ],
+        "center": [
+          630.3,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    },
+    {
+      "id": 1686,
+      "name": "Google Shape;1686;p33",
+      "pos": {
+        "topLeft": [
+          678.3,
+          919.1
+        ],
+        "bottomRight": [
+          705.6,
+          946.6
+        ],
+        "center": [
+          691.9,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 27.3,
+        "h": 27.5
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "1687",
+        "1688"
+      ]
+    },
+    {
+      "id": 1688,
+      "name": "Google Shape;1688;p33",
+      "pos": {
+        "topLeft": [
+          680.8,
+          921.7
+        ],
+        "bottomRight": [
+          703.1,
+          944.0
+        ],
+        "center": [
+          691.9,
+          932.9
+        ]
+      },
+      "size": {
+        "w": 22.3,
+        "h": 22.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+
+[96mprotocol/schemas.ts[0m:[93m6[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/enum.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/enum.ts'.
+
+[7m6[0m } from "../../api/server/src/schemas/common/enum";
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/index.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/count-shapes.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/count-slides.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/equality.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/includes.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/llm-judge.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/numerical-value.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/tests/value.test.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mprotocol/validator/utils.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../../api/server/src/schemas/base";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mruntime/service.ts[0m:[93m1[0m:[93m25[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m1[0m import { AITPres } from "../../api/server/src/schemas/base/index.js";
+[7m [0m [91m                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mruntime/service.ts[0m:[93m2[0m:[93m35[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m2[0m import { AIChangesetSchema } from "../../api/server/src/schemas/changeset/schemas/changeset.js";
+[7m [0m [91m                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mtests/inject.test.ts[0m:[93m4[0m:[93m35[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/index.ts'.
+
+[7m4[0m import { AIChangesetSchema } from "../../api/server/src/schemas/changeset/index.js";
+[7m [0m [91m                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mtests/inject.test.ts[0m:[93m5[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/service.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/service.ts'.
+
+[7m5[0m import { createPowerPointServiceWithHealthCheck } from "../../api/server/src/services/addin/powerpoint/service.js";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/agent.ts[0m:[93m10[0m:[93m36[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m10[0m import { AITChangesetSchema } from "../../../../api/server/src/schemas/changeset/schemas/changeset.js";
+[7m  [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/changeset/schemas/common.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/shape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/shape.ts'.
+
+[7m2[0m import { AICoordinate } from "../../../../../../../api/server/src/schemas/common/shape";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/changeset/schemas/line.ts[0m:[93m5[0m:[93m41[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/connection-point.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/connection-point.ts'.
+
+[7m5[0m import { AIConnectionPointSchema } from "../../../../../../../api/server/src/schemas/common/connection-point.js";
+[7m [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/changeset/schemas/line.ts[0m:[93m6[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/shape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/shape.ts'.
+
+[7m6[0m import { AICoordinate } from "../../../../../../../api/server/src/schemas/common/shape.js";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m14[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m14[0m } from "../../../../../../api/server/src/schemas/changeset/schemas/changeset.js";
+[7m  [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m16[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/autoshape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/autoshape.ts'.
+
+[7m16[0m import type { AITAddedAutoShape } from "../../../../../../api/server/src/schemas/changeset/schemas/autoshape.js";
+[7m  [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m17[0m:[93m41[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/chart.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/chart.ts'.
+
+[7m17[0m import type { AITAddedChartShape } from "../../../../../../api/server/src/schemas/changeset/schemas/chart.js";
+[7m  [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m18[0m:[93m41[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/group.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/group.ts'.
+
+[7m18[0m import type { AITAddedGroupShape } from "../../../../../../api/server/src/schemas/changeset/schemas/group.js";
+[7m  [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m19[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/icon.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/icon.ts'.
+
+[7m19[0m import type { AITAddedIconShape } from "../../../../../../api/server/src/schemas/changeset/schemas/icon.js";
+[7m  [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m20[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/line.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/line.ts'.
+
+[7m20[0m import type { AITAddedLineShape } from "../../../../../../api/server/src/schemas/changeset/schemas/line.js";
+[7m  [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m21[0m:[93m43[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/textbox.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/textbox.ts'.
+
+[7m21[0m import type { AITAddedTextboxShape } from "../../../../../../api/server/src/schemas/changeset/schemas/textbox.js";
+[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m22[0m:[93m45[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/autoshape-details.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/autoshape-details.ts'.
+
+[7m22[0m import type { AITAutoShapeTypeSchema } from "../../../../../../api/server/src/schemas/common/autoshape-details.js";
+[7m  [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/changeset.ts[0m:[93m27[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/enum.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/enum.ts'.
+
+[7m27[0m } from "../../../../../../api/server/src/schemas/common/enum.js";
+[7m  [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/datamodel.ts[0m:[93m2[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m2[0m import { AITSlide } from "../../../../../../api/server/src/schemas/base";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/functional-agent/alignment/mappings/datamodel.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS7006: [0mParameter 'shape' implicitly has an 'any' type.
+
+[7m13[0m         shapes: slide.shapes.map((shape) => {
+[7m  [0m [91m                                  ~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/agent copy 2.ts[0m:[93m8[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/slide.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/slide.ts'.
+
+[7m8[0m import { AITSlide } from "../../../../api/server/src/schemas/base/slide.js";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/agent copy.ts[0m:[93m8[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/slide.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/slide.ts'.
+
+[7m8[0m import { AITSlide } from "../../../../api/server/src/schemas/base/slide.js";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/agent.test.ts[0m:[93m6[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/service.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/service.ts'.
+
+[7m6[0m import { createPowerPointServiceWithHealthCheck } from "../../../../api/server/src/services/addin/powerpoint/service.js";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/agent.test.ts[0m:[93m7[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/types.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/types.ts'.
+
+[7m7[0m import { PowerPointServiceError } from "../../../../api/server/src/services/addin/powerpoint/types.js";
+[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/agent.test.ts[0m:[93m179[0m:[93m36[0m - [91merror[0m[90m TS18046: [0m'error' is of type 'unknown'.
+
+[7m179[0m                     JSON.stringify(error.toJSON(), null, 2),
+[7m   [0m [91m                                   ~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/agent.ts[0m:[93m7[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/slide.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/slide.ts'.
+
+[7m7[0m import { AITSlide } from "../../../../api/server/src/schemas/base/slide.js";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouter.test.ts[0m:[93m6[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/service.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/service.ts'.
+
+[7m6[0m import { createPowerPointServiceWithHealthCheck } from "../../../../api/server/src/services/addin/powerpoint/service.js";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouter.test.ts[0m:[93m7[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/types.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/types.ts'.
+
+[7m7[0m import { PowerPointServiceError } from "../../../../api/server/src/services/addin/powerpoint/types.js";
+[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouter.test.ts[0m:[93m78[0m:[93m36[0m - [91merror[0m[90m TS18046: [0m'error' is of type 'unknown'.
+
+[7m78[0m                     JSON.stringify(error.toJSON(), null, 2),
+[7m  [0m [91m                                   ~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouterV2.test.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m5[0m import { AITChangesetSchema } from "../../../../api/server/src/schemas/changeset/schemas/changeset.js";
+[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouterV2.test.ts[0m:[93m6[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/enum.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/enum.ts'.
+
+[7m6[0m import { AI_MSO_AUTO_SHAPE_TYPE } from "../../../../api/server/src/schemas/common/enum.js";
+[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouterV2.test.ts[0m:[93m7[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/service.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/service.ts'.
+
+[7m7[0m import { createPowerPointServiceWithHealthCheck } from "../../../../api/server/src/services/addin/powerpoint/service.js";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouterV2.test.ts[0m:[93m8[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/types.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/types.ts'.
+
+[7m8[0m import { PowerPointServiceError } from "../../../../api/server/src/services/addin/powerpoint/types.js";
+[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/layouterV2.test.ts[0m:[93m344[0m:[93m36[0m - [91merror[0m[90m TS18046: [0m'error' is of type 'unknown'.
+
+[7m344[0m                     JSON.stringify(error.toJSON(), null, 2),
+[7m   [0m [91m                                   ~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/preview-layout.ts[0m:[93m5[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/index.ts'.
+
+[7m5[0m } from "../../../../api/server/src/schemas/changeset/schemas";
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/preview-layout.ts[0m:[93m6[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/enum.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/enum.ts'.
+
+[7m6[0m import { AI_MSO_AUTO_SHAPE_TYPE } from "../../../../api/server/src/schemas/common/enum";
+[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/preview-layout.ts[0m:[93m7[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/index.ts'.
+
+[7m7[0m import { createPowerPointServiceWithHealthCheck } from "../../../../api/server/src/services/addin/powerpoint";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m1[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/index.ts'.
+
+[7m1[0m import { AITShape } from "../../../../api/server/src/schemas/base/schemas";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m2[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/autoshape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/autoshape.ts'.
+
+[7m2[0m import { AITAutoShape } from "../../../../api/server/src/schemas/base/schemas/autoshape";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m3[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/chart.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/chart.ts'.
+
+[7m3[0m import { AITChartShape } from "../../../../api/server/src/schemas/base/schemas/chart";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m4[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/group.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/group.ts'.
+
+[7m4[0m import { AITGroupShape } from "../../../../api/server/src/schemas/base/schemas/group";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m5[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/image.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/image.ts'.
+
+[7m5[0m import { AITImageShape } from "../../../../api/server/src/schemas/base/schemas/image";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m6[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/line.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/line.ts'.
+
+[7m6[0m import { AITLineShape } from "../../../../api/server/src/schemas/base/schemas/line";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m7[0m:[93m37[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/placeholder.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/placeholder.ts'.
+
+[7m7[0m import { AITPlaceholderShape } from "../../../../api/server/src/schemas/base/schemas/placeholder";
+[7m [0m [91m                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m8[0m:[93m33[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/text.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/text.ts'.
+
+[7m8[0m import { AITTextboxShape } from "../../../../api/server/src/schemas/base/schemas/text";
+[7m [0m [91m                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-analyzer/transformer.ts[0m:[93m12[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/shape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/shape.ts'.
+
+[7m12[0m } from "../../../../api/server/src/schemas/common/shape";
+[7m  [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m3[0m:[93m33[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/text.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/text.ts'.
+
+[7m3[0m import { AITTextboxShape } from "@make-pretty/server/schemas/base/schemas/text.js";
+[7m [0m [91m                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m4[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/index.ts'.
+
+[7m4[0m import { AITShape } from "../../../../api/server/src/schemas/base/schemas";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m5[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/autoshape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/autoshape.ts'.
+
+[7m5[0m import { AITAutoShape } from "../../../../api/server/src/schemas/base/schemas/autoshape";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m6[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/chart.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/chart.ts'.
+
+[7m6[0m import { AITChartShape } from "../../../../api/server/src/schemas/base/schemas/chart";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m7[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/group.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/group.ts'.
+
+[7m7[0m import { AITGroupShape } from "../../../../api/server/src/schemas/base/schemas/group";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m8[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/image.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/image.ts'.
+
+[7m8[0m import { AITImageShape } from "../../../../api/server/src/schemas/base/schemas/image";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m9[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/line.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/line.ts'.
+
+[7m9[0m import { AITLineShape } from "../../../../api/server/src/schemas/base/schemas/line";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m10[0m:[93m37[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/placeholder.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/placeholder.ts'.
+
+[7m10[0m import { AITPlaceholderShape } from "../../../../api/server/src/schemas/base/schemas/placeholder";
+[7m  [0m [91m                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-coupler/transformer.ts[0m:[93m14[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/shape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/shape.ts'.
+
+[7m14[0m } from "../../../../api/server/src/schemas/common/shape";
+[7m  [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m6[0m:[93m32[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/layout-update.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/layout-update.ts'.
+
+[7m6[0m import { AILayoutUpdate } from "../../../../api/server/src/schemas/base/layout-update";
+[7m [0m [91m                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m7[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/index.ts'.
+
+[7m7[0m import { AITShape } from "../../../../api/server/src/schemas/base/schemas";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m8[0m:[93m44[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/shared/datamodel/transformers/get-diff.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/shared/datamodel/transformers/get-diff.ts'.
+
+[7m8[0m import { getChangesetFromDataModels } from "../../../../api/server/src/services/shared/datamodel/transformers/get-diff";
+[7m [0m [91m                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m151[0m:[93m31[0m - [91merror[0m[90m TS7006: [0mParameter 's' implicitly has an 'any' type.
+
+[7m151[0m                 ...newDm.map((s) => s.id),
+[7m   [0m [91m                              ~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m162[0m:[93m31[0m - [91merror[0m[90m TS7006: [0mParameter 's' implicitly has an 'any' type.
+
+[7m162[0m                 ...newDm.map((s) => s.id),
+[7m   [0m [91m                              ~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m167[0m:[93m18[0m - [91merror[0m[90m TS7006: [0mParameter 's' implicitly has an 'any' type.
+
+[7m167[0m                 (s) => !includedShapeIds.has(s.id),
+[7m   [0m [91m                 ~[0m
+
+[96mwhite-agents/agents/layout-executor/agent.ts[0m:[93m273[0m:[93m45[0m - [91merror[0m[90m TS7006: [0mParameter 's' implicitly has an 'any' type.
+
+[7m273[0m     const shapes = datamodel.shapes.filter((s) => shapeIdSet.has(s.id));
+[7m   [0m [91m                                            ~[0m
+
+[96mwhite-agents/agents/layout-planner/agent.ts[0m:[93m5[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m5[0m import { AITSlide } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m4[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m4[0m import { AITSlide } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m5[0m import { AITChangesetSchema } from "../../../../api/server/src/schemas/changeset/schemas/changeset";
+[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m6[0m:[93m43[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/shared/datamodel/transformers/apply-changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/shared/datamodel/transformers/apply-changeset.ts'.
+
+[7m6[0m import { getDatamodelFromChangeset } from "../../../../api/server/src/services/shared/datamodel/transformers/apply-changeset";
+[7m [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m7[0m:[93m44[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/shared/datamodel/transformers/get-diff.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/shared/datamodel/transformers/get-diff.ts'.
+
+[7m7[0m import { getChangesetFromDataModels } from "../../../../api/server/src/services/shared/datamodel/transformers/get-diff";
+[7m [0m [91m                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m8[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/index.ts'.
+
+[7m8[0m import { createPowerPointServiceWithHealthCheck } from "../../../../api/server/src/services/addin/powerpoint";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m371[0m:[93m50[0m - [91merror[0m[90m TS7006: [0mParameter 's' implicitly has an 'any' type.
+
+[7m371[0m         datamodel.shapes = datamodel.shapes.map((s) => {
+[7m   [0m [91m                                                 ~[0m
+
+[96mwhite-agents/agents/layout-planner/index.ts[0m:[93m403[0m:[93m42[0m - [91merror[0m[90m TS7006: [0mParameter 's' implicitly has an 'any' type.
+
+[7m403[0m         shapes: datamodel.shapes.filter((s) =>
+[7m   [0m [91m                                         ~[0m
+
+[96mwhite-agents/agents/layout-planner/types.ts[0m:[93m2[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m2[0m import { AITSlide } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-planner/types.ts[0m:[93m3[0m:[93m36[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m3[0m import { AITChangesetSchema } from "../../../../api/server/src/schemas/changeset/schemas/changeset";
+[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m1[0m:[93m33[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/text.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/text.ts'.
+
+[7m1[0m import { AITTextboxShape } from "@make-pretty/server/schemas/base/schemas/text.js";
+[7m [0m [91m                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m2[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/index.ts'.
+
+[7m2[0m import { AITShape } from "../../../../api/server/src/schemas/base/schemas";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m3[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/autoshape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/autoshape.ts'.
+
+[7m3[0m import { AITAutoShape } from "../../../../api/server/src/schemas/base/schemas/autoshape";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m4[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/chart.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/chart.ts'.
+
+[7m4[0m import { AITChartShape } from "../../../../api/server/src/schemas/base/schemas/chart";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m5[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/group.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/group.ts'.
+
+[7m5[0m import { AITGroupShape } from "../../../../api/server/src/schemas/base/schemas/group";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m6[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/image.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/image.ts'.
+
+[7m6[0m import { AITImageShape } from "../../../../api/server/src/schemas/base/schemas/image";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m7[0m:[93m30[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/line.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/line.ts'.
+
+[7m7[0m import { AITLineShape } from "../../../../api/server/src/schemas/base/schemas/line";
+[7m [0m [91m                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m8[0m:[93m37[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/schemas/placeholder.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/schemas/placeholder.ts'.
+
+[7m8[0m import { AITPlaceholderShape } from "../../../../api/server/src/schemas/base/schemas/placeholder";
+[7m [0m [91m                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m9[0m:[93m31[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/slide.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/slide.ts'.
+
+[7m9[0m import type { AITSlide } from "../../../../api/server/src/schemas/base/slide";
+[7m [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m13[0m:[93m8[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/common/shape.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/common/shape.ts'.
+
+[7m13[0m } from "../../../../api/server/src/schemas/common/shape";
+[7m  [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-replaner/transformer.ts[0m:[93m154[0m:[93m27[0m - [91merror[0m[90m TS7006: [0mParameter 'shape' implicitly has an 'any' type.
+
+[7m154[0m     slide.shapes.forEach((shape) => {
+[7m   [0m [91m                          ~~~~~[0m
+
+[96mwhite-agents/agents/layout-selector/agent.test.ts[0m:[93m6[0m:[93m56[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/service.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/service.ts'.
+
+[7m6[0m import { createPowerPointServiceWithHealthCheck } from "../../../../api/server/src/services/addin/powerpoint/service.js";
+[7m [0m [91m                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-selector/agent.test.ts[0m:[93m7[0m:[93m40[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/types.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/types.ts'.
+
+[7m7[0m import { PowerPointServiceError } from "../../../../api/server/src/services/addin/powerpoint/types.js";
+[7m [0m [91m                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/agents/layout-selector/agent.test.ts[0m:[93m211[0m:[93m36[0m - [91merror[0m[90m TS18046: [0m'error' is of type 'unknown'.
+
+[7m211[0m                     JSON.stringify(error.toJSON(), null, 2),
+[7m   [0m [91m                                   ~~~~~[0m
+
+[96mwhite-agents/agents/layout-transformer/agent.ts[0m:[93m6[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/index.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/index.ts'.
+
+[7m6[0m import { AITSlide } from "../../../../api/server/src/schemas/base";
+[7m [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/runtime/pp-api.ts[0m:[93m8[0m:[93m35[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/addin/powerpoint/service.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/addin/powerpoint/service.ts'.
+
+[7m8[0m import { PowerPointService } from "@make-pretty/server/services/addin/powerpoint/service.js";
+[7m [0m [91m                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/runtime/pp-api.ts[0m:[93m9[0m:[93m43[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/shared/datamodel/transformers/apply-changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/shared/datamodel/transformers/apply-changeset.ts'.
+
+[7m9[0m import { getDatamodelFromChangeset } from "@make-pretty/server/services/shared/datamodel/transformers/apply-changeset.js";
+[7m [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/runtime/pp-api.ts[0m:[93m10[0m:[93m44[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/services/shared/datamodel/transformers/get-diff.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/services/shared/datamodel/transformers/get-diff.ts'.
+
+[7m10[0m import { getChangesetFromDataModels } from "@make-pretty/server/services/shared/datamodel/transformers/get-diff.js";
+[7m  [0m [91m                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/runtime/pp-api.ts[0m:[93m13[0m:[93m26[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/base/slide.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/base/slide.ts'.
+
+[7m13[0m import { AITSlide } from "../../../api/server/src/schemas/base/slide.js";
+[7m  [0m [91m                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96mwhite-agents/runtime/pp-api.ts[0m:[93m14[0m:[93m36[0m - [91merror[0m[90m TS6305: [0mOutput file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/dist/schemas/changeset/schemas/changeset.d.ts' has not been built from source file '/Users/emilscheffer/Desktop/Berkeley/2_AgenticAI/BigSure/api/server/src/schemas/changeset/schemas/changeset.ts'.
+
+[7m14[0m import { AITChangesetSchema } from "../../../api/server/src/schemas/changeset/schemas/changeset.js";
+[7m  [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Found 101 errors in 34 files.
+
+Errors  Files
+     1  protocol/schemas.ts[90m:6[0m
+     1  protocol/validator/index.ts[90m:1[0m
+     1  protocol/validator/tests/count-shapes.test.ts[90m:1[0m
+     1  protocol/validator/tests/count-slides.test.ts[90m:1[0m
+     1  protocol/validator/tests/equality.test.ts[90m:1[0m
+     1  protocol/validator/tests/includes.test.ts[90m:1[0m
+     1  protocol/validator/tests/llm-judge.test.ts[90m:1[0m
+     1  protocol/validator/tests/numerical-value.test.ts[90m:1[0m
+     1  protocol/validator/tests/value.test.ts[90m:1[0m
+     1  protocol/validator/utils.ts[90m:1[0m
+     2  runtime/service.ts[90m:1[0m
+     2  tests/inject.test.ts[90m:4[0m
+     1  white-agents/agents/functional-agent/agent.ts[90m:10[0m
+     1  white-agents/agents/functional-agent/alignment/changeset/schemas/common.ts[90m:2[0m
+     2  white-agents/agents/functional-agent/alignment/changeset/schemas/line.ts[90m:5[0m
+     9  white-agents/agents/functional-agent/alignment/mappings/changeset.ts[90m:14[0m
+     2  white-agents/agents/functional-agent/alignment/mappings/datamodel.ts[90m:2[0m
+     1  white-agents/agents/layout-analyzer/agent copy 2.ts[90m:8[0m
+     1  white-agents/agents/layout-analyzer/agent copy.ts[90m:8[0m
+     3  white-agents/agents/layout-analyzer/agent.test.ts[90m:6[0m
+     1  white-agents/agents/layout-analyzer/agent.ts[90m:7[0m
+     3  white-agents/agents/layout-analyzer/layouter.test.ts[90m:6[0m
+     5  white-agents/agents/layout-analyzer/layouterV2.test.ts[90m:5[0m
+     3  white-agents/agents/layout-analyzer/preview-layout.ts[90m:5[0m
+     9  white-agents/agents/layout-analyzer/transformer.ts[90m:1[0m
+     9  white-agents/agents/layout-coupler/transformer.ts[90m:3[0m
+     7  white-agents/agents/layout-executor/agent.ts[90m:6[0m
+     1  white-agents/agents/layout-planner/agent.ts[90m:5[0m
+     7  white-agents/agents/layout-planner/index.ts[90m:4[0m
+     2  white-agents/agents/layout-planner/types.ts[90m:2[0m
+    11  white-agents/agents/layout-replaner/transformer.ts[90m:1[0m
+     3  white-agents/agents/layout-selector/agent.test.ts[90m:6[0m
+     1  white-agents/agents/layout-transformer/agent.ts[90m:6[0m
+     5  white-agents/runtime/pp-api.ts[90m:8[0m

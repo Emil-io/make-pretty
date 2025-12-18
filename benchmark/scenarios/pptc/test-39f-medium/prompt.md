@@ -1,0 +1,1 @@
+Pls align the 3 percentages in the middle of the people icons and with the back border to the end of the yellow boxes.

@@ -1,0 +1,720 @@
+{
+  "id": 258,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 2,
+      "name": "Group 2",
+      "pos": {
+        "topLeft": [
+          0.0,
+          -22.8
+        ],
+        "bottomRight": [
+          1920.0,
+          356.5
+        ],
+        "center": [
+          960.0,
+          166.9
+        ]
+      },
+      "size": {
+        "w": 1920.0,
+        "h": 379.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "TextBox 4",
+      "pos": {
+        "topLeft": [
+          0.0,
+          -22.8
+        ],
+        "bottomRight": [
+          324.0,
+          324.0
+        ],
+        "center": [
+          162.0,
+          150.6
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 346.8
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "TextBox 5",
+      "pos": {
+        "topLeft": [
+          306.1,
+          148.6
+        ],
+        "bottomRight": [
+          1613.9,
+          240.8
+        ],
+        "center": [
+          960.0,
+          194.7
+        ]
+      },
+      "size": {
+        "w": 1307.8,
+        "h": 92.2
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "How to use this presentation",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#FFFFFF\" font=\"Open Sans Bold\" line-height=\"0.0696\" size=\"60.0\" space-before=\"0.0\"><span>How to use this presentation</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Group 6",
+      "pos": {
+        "topLeft": [
+          248.3,
+          342.1
+        ],
+        "bottomRight": [
+          485.7,
+          593.4
+        ],
+        "center": [
+          367.0,
+          467.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 251.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "TextBox 8",
+      "pos": {
+        "topLeft": [
+          248.3,
+          342.1
+        ],
+        "bottomRight": [
+          485.7,
+          593.4
+        ],
+        "center": [
+          367.0,
+          467.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 251.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 9,
+      "name": "Picture 9",
+      "pos": {
+        "topLeft": [
+          318.9,
+          398.3
+        ],
+        "bottomRight": [
+          415.1,
+          522.5
+        ],
+        "center": [
+          367.0,
+          460.4
+        ]
+      },
+      "size": {
+        "w": 96.2,
+        "h": 124.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Group 10",
+      "pos": {
+        "topLeft": [
+          841.3,
+          342.1
+        ],
+        "bottomRight": [
+          1078.7,
+          593.4
+        ],
+        "center": [
+          960.0,
+          467.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 251.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "TextBox 12",
+      "pos": {
+        "topLeft": [
+          841.3,
+          342.1
+        ],
+        "bottomRight": [
+          1078.7,
+          593.4
+        ],
+        "center": [
+          960.0,
+          467.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 251.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 13,
+      "name": "Picture 13",
+      "pos": {
+        "topLeft": [
+          897.9,
+          398.3
+        ],
+        "bottomRight": [
+          1022.1,
+          522.5
+        ],
+        "center": [
+          960.0,
+          460.4
+        ]
+      },
+      "size": {
+        "w": 124.2,
+        "h": 124.2
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Group 14",
+      "pos": {
+        "topLeft": [
+          1432.4,
+          342.1
+        ],
+        "bottomRight": [
+          1669.8,
+          593.4
+        ],
+        "center": [
+          1551.1,
+          467.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 251.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "TextBox 16",
+      "pos": {
+        "topLeft": [
+          1432.4,
+          342.1
+        ],
+        "bottomRight": [
+          1669.8,
+          593.4
+        ],
+        "center": [
+          1551.1,
+          467.8
+        ]
+      },
+      "size": {
+        "w": 237.4,
+        "h": 251.3
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 17,
+      "name": "Picture 17",
+      "pos": {
+        "topLeft": [
+          1497.1,
+          410.7
+        ],
+        "bottomRight": [
+          1605.2,
+          510.2
+        ],
+        "center": [
+          1551.1,
+          460.5
+        ]
+      },
+      "size": {
+        "w": 108.1,
+        "h": 99.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Group 18",
+      "pos": {
+        "topLeft": [
+          205.0,
+          632.3
+        ],
+        "bottomRight": [
+          529.0,
+          690.3
+        ],
+        "center": [
+          367.0,
+          661.3
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "19",
+        "20"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "TextBox 20",
+      "pos": {
+        "topLeft": [
+          205.0,
+          632.3
+        ],
+        "bottomRight": [
+          529.0,
+          689.2
+        ],
+        "center": [
+          367.0,
+          660.8
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 56.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "GOOGLE SLIDES",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>GOOGLE SLIDES</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 21,
+      "name": "Group 21",
+      "pos": {
+        "topLeft": [
+          798.0,
+          632.3
+        ],
+        "bottomRight": [
+          1122.0,
+          690.3
+        ],
+        "center": [
+          960.0,
+          661.3
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "22",
+        "23"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "TextBox 23",
+      "pos": {
+        "topLeft": [
+          798.0,
+          632.3
+        ],
+        "bottomRight": [
+          1122.0,
+          689.2
+        ],
+        "center": [
+          960.0,
+          660.8
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 56.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "POWERPOINT",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>POWERPOINT</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 24,
+      "name": "Group 24",
+      "pos": {
+        "topLeft": [
+          1389.1,
+          632.3
+        ],
+        "bottomRight": [
+          1713.1,
+          690.3
+        ],
+        "center": [
+          1551.1,
+          661.3
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 58.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "25",
+        "26"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "TextBox 26",
+      "pos": {
+        "topLeft": [
+          1389.1,
+          632.3
+        ],
+        "bottomRight": [
+          1713.1,
+          689.2
+        ],
+        "center": [
+          1551.1,
+          660.8
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 56.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "CANVA",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<p align=\"center\" color=\"#353839\" font=\"Open Sauce SemiBold Bold\" line-height=\"0.0336\" size=\"24.0\" space-before=\"0.0\"><span>CANVA</span></p>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    },
+    {
+      "id": 27,
+      "name": "TextBox 27",
+      "pos": {
+        "topLeft": [
+          741.1,
+          724.8
+        ],
+        "bottomRight": [
+          1173.2,
+          958.2
+        ],
+        "center": [
+          957.2,
+          841.5
+        ]
+      },
+      "size": {
+        "w": 432.1,
+        "h": 233.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"PowerPoint\" button below this presentation preview. \nStart editing your presentation.\nDownload and install the fonts used in this presentation as listed on page 21. ",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Lato\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Click on the \"PowerPoint\" button below this presentation preview. </span></p>\n<p align=\"center\" color=\"#000000\" font=\"Lato\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Start editing your presentation.</span></p>\n<p align=\"center\" color=\"#000000\" font=\"Lato\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Download and install the fonts used in this presentation as listed on page 21. </span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 28,
+      "name": "TextBox 28",
+      "pos": {
+        "topLeft": [
+          173.3,
+          725.3
+        ],
+        "bottomRight": [
+          568.1,
+          958.7
+        ],
+        "center": [
+          370.7,
+          842.0
+        ]
+      },
+      "size": {
+        "w": 394.8,
+        "h": 233.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Google Slides\" button below this presentation preview.  Click on \"Make a copy.\" Start editing your presentation. You need to sign in to your Google account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Lato\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Click on the \"Google Slides\" button below this presentation preview.  Click on \"Make a copy.\" Start editing your presentation. You need to sign in to your Google account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 29,
+      "name": "TextBox 29",
+      "pos": {
+        "topLeft": [
+          1351.9,
+          724.8
+        ],
+        "bottomRight": [
+          1750.4,
+          919.2
+        ],
+        "center": [
+          1551.2,
+          822.0
+        ]
+      },
+      "size": {
+        "w": 398.5,
+        "h": 194.4
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Click on the \"Canva\" button under this presentation preview. Start editing your presentation. You need to sign in to your Canva account.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" color=\"#000000\" font=\"Lato\" line-height=\"0.0294\" size=\"21.0\" space-before=\"0.0\"><span>Click on the \"Canva\" button under this presentation preview. Start editing your presentation. You need to sign in to your Canva account.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": false,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Group 30",
+      "pos": {
+        "topLeft": [
+          0.0,
+          28.9
+        ],
+        "bottomRight": [
+          375.0,
+          371.9
+        ],
+        "center": [
+          187.5,
+          200.4
+        ]
+      },
+      "size": {
+        "w": 375.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "31",
+        "32"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "TextBox 32",
+      "pos": {
+        "topLeft": [
+          0.0,
+          28.9
+        ],
+        "bottomRight": [
+          324.0,
+          371.9
+        ],
+        "center": [
+          162.0,
+          200.4
+        ]
+      },
+      "size": {
+        "w": 324.0,
+        "h": 343.0
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root anchor=\"ctr\">\n<br/>\n</root>",
+      "fontInfo": {
+        "margin": [
+          5.3,
+          5.3,
+          5.3,
+          5.3
+        ],
+        "wordWrap": false
+      }
+    }
+  ]
+}

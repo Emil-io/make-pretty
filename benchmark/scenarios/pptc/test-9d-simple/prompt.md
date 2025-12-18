@@ -1,0 +1,1 @@
+I want all the text and headings to be horizontally centered within each quarter, please do that.

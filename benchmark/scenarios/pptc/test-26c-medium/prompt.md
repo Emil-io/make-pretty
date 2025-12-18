@@ -1,0 +1,1 @@
+Please delete the man in the pink shirt from the team slide and arrange the others accordingly.

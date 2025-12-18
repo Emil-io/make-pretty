@@ -1,0 +1,1 @@
+Pls align the text boxes.

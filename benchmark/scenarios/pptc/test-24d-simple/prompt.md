@@ -1,0 +1,1 @@
+These are the three pricing tiers for my home robot shown in the image. Please think of features I could name for the different tiers (note that each higher tier also contains all features of the lower tiers as keypoints) and replace the dummy text with actual content. Also draft a heading for the slide and replace the dummy heading with it.

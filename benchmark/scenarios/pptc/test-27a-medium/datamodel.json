@@ -1,0 +1,273 @@
+{
+  "id": 257,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 61,
+      "name": "Google Shape;61;p12",
+      "shapeType": "placeholder",
+      "placeholderType": "TITLE",
+      "shape": {
+        "id": 61,
+        "name": "Google Shape;61;p12",
+        "pos": {
+          "topLeft": [
+            53.4,
+            40.2
+          ],
+          "bottomRight": [
+            592.7,
+            98.2
+          ],
+          "center": [
+            323.0,
+            69.2
+          ]
+        },
+        "size": {
+          "w": 539.3,
+          "h": 58.0
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "Instructions for use",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"title\" wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"center\" font=\"Dancing Script\" size=\"24.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>Instructions for use</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 62,
+      "name": "Google Shape;62;p12",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 62,
+        "name": "Google Shape;62;p12",
+        "pos": {
+          "topLeft": [
+            383.4,
+            127.9
+          ],
+          "bottomRight": [
+            649.2,
+            467.0
+          ],
+          "center": [
+            516.3,
+            297.5
+          ]
+        },
+        "size": {
+          "w": 265.8,
+          "h": 339.1
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "EDIT IN POWERPOINT®\nClick on the button under the presentation preview that says \"Download as PowerPoint template\". You will get a .pptx file that you can edit in PowerPoint. \nRemember to download and install the fonts used in this presentation (you’ll find the links to the font files needed in the Presentation design slide)\n",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>EDIT IN POWERPOINT®</span></p>\n<p align=\"left\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"8.0\"><span>Click on the button under the presentation preview that says </span><span bold=\"true\">\"Download as PowerPoint template\"</span><span>. You will get a .pptx file that you can edit in PowerPoint. </span></p>\n<p align=\"left\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"8.0\"><span>Remember to download and install the fonts used in this presentation (you’ll find the links to the font files needed in the </span><span color=\"#6B331E\" underline=\"true\">Presentation design slide</span><span>)</span></p>\n<br/>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 63,
+      "name": "Google Shape;63;p12",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 63,
+        "name": "Google Shape;63;p12",
+        "pos": {
+          "topLeft": [
+            80.3,
+            127.9
+          ],
+          "bottomRight": [
+            346.1,
+            467.0
+          ],
+          "center": [
+            213.2,
+            297.5
+          ]
+        },
+        "size": {
+          "w": 265.8,
+          "h": 339.1
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "EDIT IN GOOGLE SLIDES\nClick on the button under the presentation preview that says \"Use as Google Slides Theme\".\nYou will get a copy of this document on your Google Drive and will be able to edit, add or delete slides.\nYou have to be signed in to your Google account.",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>EDIT IN GOOGLE SLIDES</span></p>\n<p align=\"left\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"8.0\"><span>Click on the button under the presentation preview that says </span><span bold=\"true\">\"Use as Google Slides Theme\"</span><span>.</span></p>\n<p align=\"left\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"0.0\" space-before-pt=\"8.0\"><span>You will get a copy of this document on your Google Drive and will be able to edit, add or delete slides.</span></p>\n<p align=\"left\" bold=\"true\" font=\"Bitter Thin\" size=\"12.0\" space-after-pt=\"8.0\" space-before-pt=\"8.0\"><span>You have to be signed in to your Google account.</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 64,
+      "name": "Google Shape;64;p12",
+      "shapeType": "placeholder",
+      "placeholderType": "BODY",
+      "shape": {
+        "id": 64,
+        "name": "Google Shape;64;p12",
+        "pos": {
+          "topLeft": [
+            80.3,
+            413.7
+          ],
+          "bottomRight": [
+            649.2,
+            467.0
+          ],
+          "center": [
+            364.8,
+            440.4
+          ]
+        },
+        "size": {
+          "w": 568.9,
+          "h": 53.3
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "More info on how to use this template at slidescarnival.com/help-use-presentation-template\nThis template is free to use under Creative Commons Attribution license. You can keep the Credits slide or mention SlidesCarnival and other resources used in a slide footer.\n\n",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"body\" wrap=\"square\" anchor=\"t\" autofit=\"noAutofit\">\n<p align=\"left\" bold=\"true\" color=\"#994F5F\" font=\"Bitter Thin\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>More info on how to use this template at </span><a href=\"http://www.slidescarnival.com/help-use-presentation-template\"><span bold=\"true\" color=\"#994F5F\" font=\"Bitter Thin\" size=\"9.0\" underline=\"true\">slidescarnival.com/help-use-presentation-template</span></a></p>\n<p align=\"left\" color=\"#994F5F\" font=\"Bitter Thin\" size=\"9.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>This template is free to use under . You can keep the Credits slide or mention SlidesCarnival and other resources used in a slide footer.</span><a href=\"http://www.slidescarnival.com/copyright-and-legal-information\"><span color=\"#994F5F\" font=\"Bitter Thin\" size=\"9.0\" underline=\"true\">Creative Commons Attribution license</span></a></p>\n<br/>\n<br/>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 65,
+      "name": "Google Shape;65;p12",
+      "shapeType": "placeholder",
+      "placeholderType": "SLIDE_NUMBER",
+      "shape": {
+        "id": 65,
+        "name": "Google Shape;65;p12",
+        "pos": {
+          "topLeft": [
+            890.4,
+            498.7
+          ],
+          "bottomRight": [
+            948.0,
+            540.0
+          ],
+          "center": [
+            919.2,
+            519.4
+          ]
+        },
+        "size": {
+          "w": 57.6,
+          "h": 41.3
+        },
+        "zIndex": 0,
+        "shapeType": "textbox",
+        "rawText": "1",
+        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root placeholder=\"sldNum\" wrap=\"square\" anchor=\"ctr\" autofit=\"noAutofit\">\n<p align=\"right\" font=\"Dancing Script\" size=\"13.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span>1</span></p>\n</root>",
+        "fontInfo": {
+          "wordWrap": true
+        }
+      }
+    },
+    {
+      "id": 66,
+      "name": "Google Shape;66;p12",
+      "pos": {
+        "topLeft": [
+          692.0,
+          215.5
+        ],
+        "bottomRight": [
+          787.1,
+          355.0
+        ],
+        "center": [
+          739.6,
+          285.3
+        ]
+      },
+      "size": {
+        "w": 95.1,
+        "h": 139.5
+      },
+      "style": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 1.862
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Google Shape;67;p12",
+      "pos": {
+        "topLeft": [
+          692.0,
+          364.9
+        ],
+        "bottomRight": [
+          787.1,
+          504.4
+        ],
+        "center": [
+          739.6,
+          434.7
+        ]
+      },
+      "size": {
+        "w": 95.1,
+        "h": 139.5
+      },
+      "style": {
+        "autoShapeType": "roundRect",
+        "cornerRadius": 1.862
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Google Shape;68;p12",
+      "pos": {
+        "topLeft": [
+          692.6,
+          194.1
+        ],
+        "bottomRight": [
+          791.5,
+          225.8
+        ],
+        "center": [
+          742.1,
+          210.0
+        ]
+      },
+      "size": {
+        "w": 98.9,
+        "h": 31.7
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    }
+  ]
+}

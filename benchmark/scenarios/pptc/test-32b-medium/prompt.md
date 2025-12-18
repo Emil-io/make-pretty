@@ -1,0 +1,1 @@
+Pls align the 3 circled pictures - same size and within their columns.

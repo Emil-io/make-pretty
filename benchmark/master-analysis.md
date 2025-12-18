@@ -1,0 +1,4 @@
+- The master/slidedeck has no default colors or layout patterns
+- The slide has the boundaries: 0–1280 x 0–720 px
+- SCZ (Safe Content Zone) (universal):
+  - Standard layouts: x=88–1192 (88 px margins); y=38–647 (top 38 px to header; bottom to avoid footer).

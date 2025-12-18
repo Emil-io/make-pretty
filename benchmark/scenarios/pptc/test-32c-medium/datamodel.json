@@ -1,0 +1,587 @@
+{
+  "id": 265,
+  "index": 0,
+  "shapes": [
+    {
+      "id": 230,
+      "name": "Google Shape;230;p10",
+      "pos": {
+        "topLeft": [
+          1212.2,
+          647.3
+        ],
+        "bottomRight": [
+          1493.4,
+          743.9
+        ],
+        "center": [
+          1352.8,
+          695.6
+        ]
+      },
+      "size": {
+        "w": 281.2,
+        "h": 96.6
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "231",
+        "232"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Google Shape;233;p10",
+      "pos": {
+        "topLeft": [
+          291.6,
+          164.0
+        ],
+        "bottomRight": [
+          562.8,
+          188.3
+        ],
+        "center": [
+          427.2,
+          176.2
+        ]
+      },
+      "size": {
+        "w": 271.2,
+        "h": 24.3
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "234",
+        "235"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Google Shape;236;p10",
+      "pos": {
+        "topLeft": [
+          199.7,
+          535.6
+        ],
+        "bottomRight": [
+          654.8,
+          743.9
+        ],
+        "center": [
+          427.3,
+          639.8
+        ]
+      },
+      "size": {
+        "w": 455.1,
+        "h": 208.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 237,
+      "name": "Google Shape;237;p10",
+      "pos": {
+        "topLeft": [
+          909.5,
+          109.0
+        ],
+        "bottomRight": [
+          1796.1,
+          494.5
+        ],
+        "center": [
+          1352.8,
+          301.8
+        ]
+      },
+      "size": {
+        "w": 886.6,
+        "h": 385.5
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.jpeg"
+      }
+    },
+    {
+      "id": 238,
+      "name": "Google Shape;238;p10",
+      "pos": {
+        "topLeft": [
+          1668.2,
+          767.0
+        ],
+        "bottomRight": [
+          2092.9,
+          1238.9
+        ],
+        "center": [
+          1880.6,
+          1003.0
+        ]
+      },
+      "size": {
+        "w": 424.7,
+        "h": 471.9
+      },
+      "style": {
+        "autoShapeType": "rect",
+        "rotation": 331.23495
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 239,
+      "name": "Google Shape;239;p10",
+      "pos": {
+        "topLeft": [
+          -277.9,
+          916.3
+        ],
+        "bottomRight": [
+          180.8,
+          1348.3
+        ],
+        "center": [
+          -48.5,
+          1132.3
+        ]
+      },
+      "size": {
+        "w": 458.7,
+        "h": 432.0
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 240,
+      "name": "Google Shape;240;p10",
+      "pos": {
+        "topLeft": [
+          1633.5,
+          57.8
+        ],
+        "bottomRight": [
+          1862.8,
+          158.1
+        ],
+        "center": [
+          1748.2,
+          108.0
+        ]
+      },
+      "size": {
+        "w": 229.3,
+        "h": 100.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 241,
+      "name": "Google Shape;241;p10",
+      "pos": {
+        "topLeft": [
+          794.8,
+          884.3
+        ],
+        "bottomRight": [
+          1024.1,
+          984.6
+        ],
+        "center": [
+          909.5,
+          934.5
+        ]
+      },
+      "size": {
+        "w": 229.3,
+        "h": 100.3
+      },
+      "style": {
+        "autoShapeType": "rect"
+      },
+      "zIndex": 0,
+      "shapeType": "image",
+      "source": {
+        "filePath": "pptx://image.png"
+      }
+    },
+    {
+      "id": 242,
+      "name": "Google Shape;242;p10",
+      "pos": {
+        "topLeft": [
+          1794.2,
+          103.0
+        ],
+        "bottomRight": [
+          1825.6,
+          103.0
+        ],
+        "center": [
+          1809.9,
+          103.0
+        ]
+      },
+      "size": {
+        "w": 31.4,
+        "h": 0.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "243",
+        "244"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Google Shape;243;p10",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 5.998031496062992,
+        "color": "#4054BB",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1798.8,
+        91.9
+      ],
+      "endPos": [
+        1821.0,
+        114.1
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Google Shape;244;p10",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 5.998031496062992,
+        "color": "#4054BB",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        1798.8,
+        114.1
+      ],
+      "endPos": [
+        1821.0,
+        91.9
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Google Shape;245;p10",
+      "pos": {
+        "topLeft": [
+          830.6,
+          928.8
+        ],
+        "bottomRight": [
+          862.0,
+          928.8
+        ],
+        "center": [
+          846.3,
+          928.8
+        ]
+      },
+      "size": {
+        "w": 31.4,
+        "h": 0.0
+      },
+      "zIndex": 0,
+      "shapeType": "group",
+      "items": [
+        "246",
+        "247"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Google Shape;246;p10",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 5.998031496062992,
+        "color": "#4054BB",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        835.2,
+        917.7
+      ],
+      "endPos": [
+        857.4,
+        939.9
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Google Shape;247;p10",
+      "zIndex": 0,
+      "shapeType": "line",
+      "style": {
+        "width": 5.998031496062992,
+        "color": "#4054BB",
+        "dashStyle": "solid",
+        "beginArrowStyle": "none",
+        "beginArrowLength": "sm",
+        "beginArrowWidth": "sm",
+        "endArrowStyle": "none",
+        "endArrowLength": "sm",
+        "endArrowWidth": "sm",
+        "lineType": "line"
+      },
+      "startPos": [
+        835.2,
+        939.9
+      ],
+      "endPos": [
+        857.4,
+        917.7
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Google Shape;248;p10",
+      "pos": {
+        "topLeft": [
+          12.8,
+          386.7
+        ],
+        "bottomRight": [
+          841.8,
+          424.6
+        ],
+        "center": [
+          427.3,
+          405.7
+        ]
+      },
+      "size": {
+        "w": 829.0,
+        "h": 37.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the featured statistic.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on the featured statistic.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 249,
+      "name": "Google Shape;249;p10",
+      "pos": {
+        "topLeft": [
+          146.5,
+          270.9
+        ],
+        "bottomRight": [
+          707.9,
+          327.6
+        ],
+        "center": [
+          427.2,
+          299.3
+        ]
+      },
+      "size": {
+        "w": 561.4,
+        "h": 56.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "70%",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">70%</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 250,
+      "name": "Google Shape;250;p10",
+      "pos": {
+        "topLeft": [
+          1038.4,
+          851.2
+        ],
+        "bottomRight": [
+          1599.8,
+          889.1
+        ],
+        "center": [
+          1319.1,
+          870.2
+        ]
+      },
+      "size": {
+        "w": 561.4,
+        "h": 37.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the featured statistic.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on the featured statistic.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 251,
+      "name": "Google Shape;251;p10",
+      "pos": {
+        "topLeft": [
+          1026.0,
+          775.8
+        ],
+        "bottomRight": [
+          1599.8,
+          832.5
+        ],
+        "center": [
+          1312.9,
+          804.2
+        ]
+      },
+      "size": {
+        "w": 573.8,
+        "h": 56.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "2 OUT OF 5",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">2 OUT OF 5</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 252,
+      "name": "Google Shape;252;p10",
+      "pos": {
+        "topLeft": [
+          161.8,
+          884.3
+        ],
+        "bottomRight": [
+          735.6,
+          922.2
+        ],
+        "center": [
+          448.7,
+          903.3
+        ]
+      },
+      "size": {
+        "w": 573.8,
+        "h": 37.9
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "Elaborate on the featured statistic.",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" cap=\"none\" color=\"#FFFFFF\" font=\"Inter\" line-height=\"1.3\" lvl=\"1\" size=\"23.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">Elaborate on the featured statistic.</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    },
+    {
+      "id": 253,
+      "name": "Google Shape;253;p10",
+      "pos": {
+        "topLeft": [
+          214.9,
+          826.6
+        ],
+        "bottomRight": [
+          707.9,
+          883.3
+        ],
+        "center": [
+          461.4,
+          855.0
+        ]
+      },
+      "size": {
+        "w": 493.0,
+        "h": 56.7
+      },
+      "zIndex": 0,
+      "shapeType": "textbox",
+      "rawText": "12 MILLION",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root wrap=\"square\" anchor=\"t\" autofit=\"spAutoFit\">\n<p align=\"center\" bold=\"true\" cap=\"none\" color=\"#9EEFBC\" font=\"Inter\" line-height=\"1.37\" size=\"32.0\" space-after-pt=\"0.0\" space-before-pt=\"0.0\"><span strike=\"noStrike\">12 MILLION</span></p>\n</root>",
+      "fontInfo": {
+        "wordWrap": true,
+        "autoSize": "SHAPE_TO_FIT_TEXT"
+      }
+    }
+  ],
+  "background": {
+    "type": "SOLID",
+    "color": "#4054BB"
+  }
+}
