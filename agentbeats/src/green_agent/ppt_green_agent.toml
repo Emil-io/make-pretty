@@ -1,0 +1,37 @@
+name = "ppt_green_agent"
+description = "Green agent orchestrator for the PowerPoint benchmark (benchmark/runtime API)."
+version = "0.1.0"
+
+defaultInputModes = ["text"]
+defaultOutputModes = ["text"]
+[capabilities]
+streaming = false
+
+[[skills]]
+id = "host_powerpoint_benchmark"
+name = "PowerPoint benchmark hosting"
+description = """
+Runs the PowerPoint benchmark by dispatching selected test cases to a white agent over A2A.
+
+The benchmark runtime loads a per-test protocol module (`validation.ts` or `test.ts`) from each scenario folder. In a healthy checkout, these files should exist for every test case; if you see an `ERR_MODULE_NOT_FOUND` during protocol loading/validation, it usually indicates an incomplete or out-of-date scenarios directory.
+"""
+tags = ["green agent", "assessment hosting", "powerpoint", "benchmark"]
+examples = ["""
+Run the PowerPoint benchmark against the agent located at:
+<white_agent_url>
+http://localhost:9002/
+</white_agent_url>
+Use the benchmark API at:
+<benchmark_api_url>
+http://localhost:5050
+</benchmark_api_url>
+Run this many random cases:
+<num_cases>
+10
+</num_cases>
+White agent id to use in benchmark results:
+<white_agent_id>
+agentbeats-white
+</white_agent_id>
+"""]
+
