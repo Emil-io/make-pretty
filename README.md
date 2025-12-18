@@ -69,6 +69,8 @@ AGENT_URL="https://<white-tunnel>.trycloudflare.com/" \
 uv run python main.py run
 ```
 
+After this step, your agents are live and can now be **registered in AgentBeats** (use the public Cloudflare URLs from `AGENT_URL` / `WHITE_AGENT_URL`).
+
 ### 3) Start the benchmark server (required)
 
 The agents talk to a local **benchmark API server** (default: `http://localhost:5050`).
@@ -81,7 +83,7 @@ npm install
 npm run start
 ```
 
-### 4) Run the evaluation
+### 4) (Optional) Run the evaluation locally from this repo
 
 From `agentbeats/` you can either run locally (spawns both agents on localhost), or run against the remote/tunneled URLs:
 
